@@ -279,6 +279,23 @@ GenerateClassCluster=0
 DocumentUniqueId=NHOWCCTH
 
 [Document15]
+DocumentPath=RPi_Pico.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KQDBTOPH
+
+[Document16]
 DocumentPath=LDO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -295,7 +312,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RCUZAMUJ
 
-[Document16]
+[Document17]
 DocumentPath=SMA_Banana.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -312,7 +329,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HUTKDUEN
 
-[Document17]
+[Document18]
 DocumentPath=FCAM_CSI_FMC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -329,7 +346,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
+[Document19]
 DocumentPath=FTSH-105-01-XXX-D-K.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -346,7 +363,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document19]
+[Document20]
 DocumentPath=FCAM_CSI_FMC.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -361,9 +378,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TFKWDDTY
 
-[Document20]
+[Document21]
 DocumentPath=FTSH-105-01-XXX-D-K.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -561,6 +578,8 @@ OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
 PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+Configuration9_Name1=OutputConfigurationParameter1
+Configuration9_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0|DocumentPath=C:\Users\kathl\Documents\research\CGRA_board_3\RPi_Pico.SchDoc
 OutputType10=SimView Print
 OutputName10=SimView Prints
 OutputDocumentPath10=
