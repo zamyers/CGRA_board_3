@@ -1,0 +1,2621 @@
+Removed Pin From Net: NetName=12V Pin=C157.1-1
+Removed Pin From Net: NetName=GND Pin=C157.1-2
+Removed Pin From Net: NetName=12V Pin=C157.2-1
+Removed Pin From Net: NetName=GND Pin=C157.2-2
+Removed Pin From Net: NetName=12V Pin=C157.3-1
+Removed Pin From Net: NetName=GND Pin=C157.3-2
+Removed Pin From Net: NetName=12V Pin=C158.1-1
+Removed Pin From Net: NetName=GND Pin=C158.1-2
+Removed Pin From Net: NetName=12V Pin=C158.2-1
+Removed Pin From Net: NetName=GND Pin=C158.2-2
+Removed Pin From Net: NetName=12V Pin=C158.3-1
+Removed Pin From Net: NetName=GND Pin=C158.3-2
+Removed Pin From Net: NetName=12V Pin=C159.1-1
+Removed Pin From Net: NetName=GND Pin=C159.1-2
+Removed Pin From Net: NetName=12V Pin=C159.2-1
+Removed Pin From Net: NetName=GND Pin=C159.2-2
+Removed Pin From Net: NetName=12V Pin=C159.3-1
+Removed Pin From Net: NetName=GND Pin=C159.3-2
+Removed Pin From Net: NetName=12V Pin=C160.1-1
+Removed Pin From Net: NetName=GND Pin=C160.1-2
+Removed Pin From Net: NetName=12V Pin=C160.2-1
+Removed Pin From Net: NetName=GND Pin=C160.2-2
+Removed Pin From Net: NetName=12V Pin=C160.3-1
+Removed Pin From Net: NetName=GND Pin=C160.3-2
+Removed Pin From Net: NetName=12V Pin=C161.1-1
+Removed Pin From Net: NetName=GND Pin=C161.1-2
+Removed Pin From Net: NetName=12V Pin=C161.2-1
+Removed Pin From Net: NetName=GND Pin=C161.2-2
+Removed Pin From Net: NetName=12V Pin=C161.3-1
+Removed Pin From Net: NetName=GND Pin=C161.3-2
+Removed Pin From Net: NetName=NetC162_U_TPSM846C23_template1_1 Pin=C162.1-1
+Removed Pin From Net: NetName=NetC162_U_TPSM846C23_template1_2 Pin=C162.1-2
+Removed Pin From Net: NetName=NetC162_U_TPSM846C23_template2_1 Pin=C162.2-1
+Removed Pin From Net: NetName=NetC162_U_TPSM846C23_template2_2 Pin=C162.2-2
+Removed Pin From Net: NetName=GTR_VCC Pin=C163.1-1
+Removed Pin From Net: NetName=GND Pin=C163.1-2
+Removed Pin From Net: NetName=1V8_PM Pin=C163.2-1
+Removed Pin From Net: NetName=GND Pin=C163.2-2
+Removed Pin From Net: NetName=VCORE0 Pin=C163.3-1
+Removed Pin From Net: NetName=GND Pin=C163.3-2
+Removed Pin From Net: NetName=GTR_VCC Pin=C164.1-1
+Removed Pin From Net: NetName=GND Pin=C164.1-2
+Removed Pin From Net: NetName=1V8_PM Pin=C164.2-1
+Removed Pin From Net: NetName=GND Pin=C164.2-2
+Removed Pin From Net: NetName=VCORE0 Pin=C164.3-1
+Removed Pin From Net: NetName=GND Pin=C164.3-2
+Removed Pin From Net: NetName=GTR_VCC Pin=C165.1-1
+Removed Pin From Net: NetName=GND Pin=C165.1-2
+Removed Pin From Net: NetName=1V8_PM Pin=C165.2-1
+Removed Pin From Net: NetName=GND Pin=C165.2-2
+Removed Pin From Net: NetName=VCORE0 Pin=C165.3-1
+Removed Pin From Net: NetName=GND Pin=C165.3-2
+Removed Pin From Net: NetName=GTR_VCC Pin=C166.1-1
+Removed Pin From Net: NetName=GND Pin=C166.1-2
+Removed Pin From Net: NetName=1V8_PM Pin=C166.2-1
+Removed Pin From Net: NetName=GND Pin=C166.2-2
+Removed Pin From Net: NetName=VCORE0 Pin=C166.3-1
+Removed Pin From Net: NetName=GND Pin=C166.3-2
+Removed Pin From Net: NetName=GTR_VCC Pin=C167.1-1
+Removed Pin From Net: NetName=GND Pin=C167.1-2
+Removed Pin From Net: NetName=1V8_PM Pin=C167.2-1
+Removed Pin From Net: NetName=GND Pin=C167.2-2
+Removed Pin From Net: NetName=VCORE0 Pin=C167.3-1
+Removed Pin From Net: NetName=GND Pin=C167.3-2
+Removed Pin From Net: NetName=GTR_VCC Pin=C168.1-1
+Removed Pin From Net: NetName=GND Pin=C168.1-2
+Removed Pin From Net: NetName=1V8_PM Pin=C168.2-1
+Removed Pin From Net: NetName=GND Pin=C168.2-2
+Removed Pin From Net: NetName=VCORE0 Pin=C168.3-1
+Removed Pin From Net: NetName=GND Pin=C168.3-2
+Removed Pin From Net: NetName=NetC169_U_TPSM846C23_template1_1 Pin=C169.1-1
+Removed Pin From Net: NetName=NetC169_U_TPSM846C23_template1_2 Pin=C169.1-2
+Removed Pin From Net: NetName=NetC169_U_TPSM846C23_template2_1 Pin=C169.2-1
+Removed Pin From Net: NetName=NetC169_U_TPSM846C23_template2_2 Pin=C169.2-2
+Removed Pin From Net: NetName=NetC169_U_TPSM846C23_template1_1 Pin=C170.1-1
+Removed Pin From Net: NetName=NetC169_U_TPSM846C23_template1_2 Pin=C170.1-2
+Removed Pin From Net: NetName=NetC169_U_TPSM846C23_template2_1 Pin=C170.2-1
+Removed Pin From Net: NetName=NetC169_U_TPSM846C23_template2_2 Pin=C170.2-2
+Removed Pin From Net: NetName=NetC169_U_TPSM846C23_template1_2 Pin=C171.1-1
+Removed Pin From Net: NetName=NetC171_U_TPSM846C23_template1_2 Pin=C171.1-2
+Removed Pin From Net: NetName=NetC169_U_TPSM846C23_template2_2 Pin=C171.2-1
+Removed Pin From Net: NetName=NetC171_U_TPSM846C23_template2_2 Pin=C171.2-2
+Removed Pin From Net: NetName=NetC172_U_TPSM846C23_template1_1 Pin=C172.1-1
+Removed Pin From Net: NetName=NetC172_U_TPSM846C23_template1_2 Pin=C172.1-2
+Removed Pin From Net: NetName=NetC172_U_TPSM846C23_template2_1 Pin=C172.2-1
+Removed Pin From Net: NetName=NetC172_U_TPSM846C23_template2_2 Pin=C172.2-2
+Removed Pin From Net: NetName=GND Pin=C186-2
+Removed Pin From Net: NetName=GND Pin=C187-1
+Removed Pin From Net: NetName=3V3 Pin=C187-2
+Removed Pin From Net: NetName=GND Pin=C188-1
+Removed Pin From Net: NetName=3V3 Pin=C188-2
+Removed Pin From Net: NetName=GND Pin=C189-1
+Removed Pin From Net: NetName=3V3 Pin=C189-2
+Removed Pin From Net: NetName=GND Pin=C190-1
+Removed Pin From Net: NetName=GND Pin=C191-1
+Removed Pin From Net: NetName=GND Pin=C192-1
+Removed Pin From Net: NetName=GND Pin=C193-2
+Removed Pin From Net: NetName=GND Pin=C194-1
+Removed Pin From Net: NetName=GND Pin=C195-1
+Removed Pin From Net: NetName=3V3 Pin=C195-2
+Removed Pin From Net: NetName=GND Pin=C196-1
+Removed Pin From Net: NetName=3V3 Pin=C196-2
+Removed Pin From Net: NetName=GND Pin=C197-1
+Removed Pin From Net: NetName=3V3 Pin=C197-2
+Removed Pin From Net: NetName=GND Pin=C198-1
+Removed Pin From Net: NetName=GND Pin=C199-1
+Removed Pin From Net: NetName=GND Pin=C200-1
+Removed Pin From Net: NetName=GND Pin=C201-2
+Removed Pin From Net: NetName=GND Pin=C202-1
+Removed Pin From Net: NetName=GND Pin=C203-1
+Removed Pin From Net: NetName=3V3 Pin=C203-2
+Removed Pin From Net: NetName=GND Pin=C204-1
+Removed Pin From Net: NetName=GND Pin=C205-1
+Removed Pin From Net: NetName=GND Pin=C206-1
+Removed Pin From Net: NetName=GND Pin=C207-1
+Removed Pin From Net: NetName=3V3 Pin=C207-2
+Removed Pin From Net: NetName=GND Pin=C208-1
+Removed Pin From Net: NetName=3V3 Pin=C208-2
+Removed Pin From Net: NetName=GND Pin=C209-1
+Removed Pin From Net: NetName=GND Pin=C210-1
+Removed Pin From Net: NetName=3V3 Pin=C210-2
+Removed Pin From Net: NetName=GND Pin=C211-2
+Removed Pin From Net: NetName=GND Pin=C212-2
+Removed Pin From Net: NetName=3V3 Pin=C213-1
+Removed Pin From Net: NetName=GND Pin=C213-2
+Removed Pin From Net: NetName=GND Pin=C216-2
+Removed Pin From Net: NetName=3V3 Pin=CLK1-2
+Removed Pin From Net: NetName=GND Pin=CLK1-3
+Removed Pin From Net: NetName=3V3 Pin=CLK1-6
+Removed Pin From Net: NetName=GND Pin=IC2-1
+Removed Pin From Net: NetName=GND Pin=IC2-4
+Removed Pin From Net: NetName=3V3 Pin=IC2-5
+Removed Pin From Net: NetName=POT_SCL Pin=IC2-6
+Removed Pin From Net: NetName=POT_SDA Pin=IC2-7
+Removed Pin From Net: NetName=GND Pin=IC2-9
+Removed Pin From Net: NetName=GND Pin=IC3-1
+Removed Pin From Net: NetName=GND Pin=IC3-4
+Removed Pin From Net: NetName=3V3 Pin=IC3-5
+Removed Pin From Net: NetName=POT_SCL Pin=IC3-6
+Removed Pin From Net: NetName=POT_SDA Pin=IC3-7
+Removed Pin From Net: NetName=GND Pin=IC3-9
+Removed Pin From Net: NetName=GND Pin=IC4-1
+Removed Pin From Net: NetName=GND Pin=IC4-4
+Removed Pin From Net: NetName=3V3 Pin=IC4-5
+Removed Pin From Net: NetName=POT_SCL Pin=IC4-6
+Removed Pin From Net: NetName=POT_SDA Pin=IC4-7
+Removed Pin From Net: NetName=GND Pin=IC4-9
+Removed Pin From Net: NetName=GND Pin=J3-3
+Removed Pin From Net: NetName=5V Pin=J3-4
+Removed Pin From Net: NetName=5V Pin=J3-5
+Removed Pin From Net: NetName=GTR_TX1_P Pin=J4-1
+Removed Pin From Net: NetName=GND Pin=J4-MH
+Removed Pin From Net: NetName=GND Pin=J4-MH
+Removed Pin From Net: NetName=GND Pin=J4-MH
+Removed Pin From Net: NetName=GND Pin=J4-MH
+Removed Pin From Net: NetName=GTR_TX1_N Pin=J5-1
+Removed Pin From Net: NetName=GND Pin=J5-MH
+Removed Pin From Net: NetName=GND Pin=J5-MH
+Removed Pin From Net: NetName=GND Pin=J5-MH
+Removed Pin From Net: NetName=GND Pin=J5-MH
+Removed Pin From Net: NetName=GTR_RX1_P Pin=J6-1
+Removed Pin From Net: NetName=GND Pin=J6-MH
+Removed Pin From Net: NetName=GND Pin=J6-MH
+Removed Pin From Net: NetName=GND Pin=J6-MH
+Removed Pin From Net: NetName=GND Pin=J6-MH
+Removed Pin From Net: NetName=GTR_RX1_N Pin=J7-1
+Removed Pin From Net: NetName=GND Pin=J7-MH
+Removed Pin From Net: NetName=GND Pin=J7-MH
+Removed Pin From Net: NetName=GND Pin=J7-MH
+Removed Pin From Net: NetName=GND Pin=J7-MH
+Removed Pin From Net: NetName=GND Pin=J13-10
+Removed Pin From Net: NetName=GND Pin=J14-1
+Removed Pin From Net: NetName=PMBUS_SDA Pin=J14-2
+Removed Pin From Net: NetName=PMBUS_SCL Pin=J14-4
+Removed Pin From Net: NetName=PMBUS_CNTL Pin=J14-5
+Removed Pin From Net: NetName=POT_SCL Pin=J14-6
+Removed Pin From Net: NetName=POT_SDA Pin=J14-8
+Removed Pin From Net: NetName=ALERTIO Pin=J14-10
+Removed Pin From Net: NetName=ALERT0 Pin=J14-12
+Removed Pin From Net: NetName=GTR_TX0_P Pin=J16-1
+Removed Pin From Net: NetName=GND Pin=J16-MH
+Removed Pin From Net: NetName=GND Pin=J16-MH
+Removed Pin From Net: NetName=GND Pin=J16-MH
+Removed Pin From Net: NetName=GND Pin=J16-MH
+Removed Pin From Net: NetName=GTR_TX0_N Pin=J17-1
+Removed Pin From Net: NetName=GND Pin=J17-MH
+Removed Pin From Net: NetName=GND Pin=J17-MH
+Removed Pin From Net: NetName=GND Pin=J17-MH
+Removed Pin From Net: NetName=GND Pin=J17-MH
+Removed Pin From Net: NetName=GTR_RX0_P Pin=J18-1
+Removed Pin From Net: NetName=GND Pin=J18-MH
+Removed Pin From Net: NetName=GND Pin=J18-MH
+Removed Pin From Net: NetName=GND Pin=J18-MH
+Removed Pin From Net: NetName=GND Pin=J18-MH
+Removed Pin From Net: NetName=GTR_RX0_N Pin=J19-1
+Removed Pin From Net: NetName=GND Pin=J19-MH
+Removed Pin From Net: NetName=GND Pin=J19-MH
+Removed Pin From Net: NetName=GND Pin=J19-MH
+Removed Pin From Net: NetName=GND Pin=J19-MH
+Removed Pin From Net: NetName=GTR_REFCLK3_P Pin=J20-1
+Removed Pin From Net: NetName=GND Pin=J20-MH
+Removed Pin From Net: NetName=GND Pin=J20-MH
+Removed Pin From Net: NetName=GND Pin=J20-MH
+Removed Pin From Net: NetName=GND Pin=J20-MH
+Removed Pin From Net: NetName=GTR_REFCLK3_N Pin=J21-1
+Removed Pin From Net: NetName=GND Pin=J21-MH
+Removed Pin From Net: NetName=GND Pin=J21-MH
+Removed Pin From Net: NetName=GND Pin=J21-MH
+Removed Pin From Net: NetName=GND Pin=J21-MH
+Removed Pin From Net: NetName=GTR_REFCLK1_P Pin=J22-1
+Removed Pin From Net: NetName=GND Pin=J22-MH
+Removed Pin From Net: NetName=GND Pin=J22-MH
+Removed Pin From Net: NetName=GND Pin=J22-MH
+Removed Pin From Net: NetName=GND Pin=J22-MH
+Removed Pin From Net: NetName=GTR_REFCLK1_N Pin=J23-1
+Removed Pin From Net: NetName=GND Pin=J23-MH
+Removed Pin From Net: NetName=GND Pin=J23-MH
+Removed Pin From Net: NetName=GND Pin=J23-MH
+Removed Pin From Net: NetName=GND Pin=J23-MH
+Removed Pin From Net: NetName=GND Pin=J24-MH
+Removed Pin From Net: NetName=GND Pin=J24-MH
+Removed Pin From Net: NetName=GND Pin=J24-MH
+Removed Pin From Net: NetName=GND Pin=J24-MH
+Removed Pin From Net: NetName=GND Pin=J25-MH
+Removed Pin From Net: NetName=GND Pin=J25-MH
+Removed Pin From Net: NetName=GND Pin=J25-MH
+Removed Pin From Net: NetName=GND Pin=J25-MH
+Removed Pin From Net: NetName=3V3 Pin=R38-2
+Removed Pin From Net: NetName=GND Pin=R39-1
+Removed Pin From Net: NetName=GND Pin=R40-1
+Removed Pin From Net: NetName=NetC171_U_TPSM846C23_template1_2 Pin=R41.1-1
+Removed Pin From Net: NetName=NetC171_U_TPSM846C23_template2_2 Pin=R41.2-1
+Removed Pin From Net: NetName=NetDS3_2 Pin=R41.2-2
+Removed Pin From Net: NetName=NetDS2_2 Pin=R41.3-2
+Removed Pin From Net: NetName=NetC171_U_TPSM846C23_template1_2 Pin=R42.1-1
+Removed Pin From Net: NetName=PMBUS_CNTL Pin=R42.1-2
+Removed Pin From Net: NetName=NetC171_U_TPSM846C23_template2_2 Pin=R42.2-1
+Removed Pin From Net: NetName=PMBUS_CNTL Pin=R42.2-2
+Removed Pin From Net: NetName=PMBUS_CNTL Pin=R42.3-2
+Removed Pin From Net: NetName=CLK_RST Pin=R43-1
+Removed Pin From Net: NetName=3V3 Pin=R43-2
+Removed Pin From Net: NetName=3V3 Pin=R54-2
+Removed Pin From Net: NetName=3V3 Pin=R56-2
+Removed Pin From Net: NetName=3V3 Pin=R59-1
+Removed Pin From Net: NetName=3V3 Pin=R60-2
+Removed Pin From Net: NetName=3V3 Pin=R63-1
+Removed Pin From Net: NetName=3V3 Pin=R65-1
+Removed Pin From Net: NetName=GND Pin=R67-1
+Removed Pin From Net: NetName=POT_SCL Pin=R70-1
+Removed Pin From Net: NetName=POT_SDA Pin=R71-1
+Removed Pin From Net: NetName=PMBUS_SDA Pin=R72-1
+Removed Pin From Net: NetName=PMBUS_SCL Pin=R73-1
+Removed Pin From Net: NetName=NetRcomp1_U_TPSM846C23_template1_1 Pin=Rcomp1.1-1
+Removed Pin From Net: NetName=NetC172_U_TPSM846C23_template1_1 Pin=Rcomp1.1-2
+Removed Pin From Net: NetName=NetRcomp1_U_TPSM846C23_template2_1 Pin=Rcomp1.2-1
+Removed Pin From Net: NetName=NetC172_U_TPSM846C23_template2_1 Pin=Rcomp1.2-2
+Removed Pin From Net: NetName=NetC172_U_TPSM846C23_template1_2 Pin=Rset1.1-1
+Removed Pin From Net: NetName=GND Pin=Rset1.1-2
+Removed Pin From Net: NetName=NetC172_U_TPSM846C23_template2_2 Pin=Rset1.2-1
+Removed Pin From Net: NetName=GND Pin=Rset1.2-2
+Removed Pin From Net: NetName=GND Pin=Rset1.3-2
+Removed Pin From Net: NetName=CLK_RST Pin=SW2-1
+Removed Pin From Net: NetName=CLK_RST Pin=SW2-2
+Removed Pin From Net: NetName=GND Pin=SW2-3
+Removed Pin From Net: NetName=GND Pin=SW2-4
+Removed Pin From Net: NetName=GTR_VCC Pin=U7.1-4
+Removed Pin From Net: NetName=NetRcomp1_U_TPSM846C23_template1_1 Pin=U7.1-6
+Removed Pin From Net: NetName=NetC172_U_TPSM846C23_template1_2 Pin=U7.1-7
+Removed Pin From Net: NetName=GND Pin=U7.1-10
+Removed Pin From Net: NetName=PMBUS_CNTL Pin=U7.1-12
+Removed Pin From Net: NetName=GND Pin=U7.1-14
+Removed Pin From Net: NetName=PMBUS_SDA Pin=U7.1-18
+Removed Pin From Net: NetName=PMBUS_SCL Pin=U7.1-19
+Removed Pin From Net: NetName=NetU7_U_TPSM846C23_template1_22 Pin=U7.1-22
+Removed Pin From Net: NetName=NetU7_U_TPSM846C23_template1_22 Pin=U7.1-23
+Removed Pin From Net: NetName=NetU7_U_TPSM846C23_template1_22 Pin=U7.1-24
+Removed Pin From Net: NetName=NetU7_U_TPSM846C23_template1_22 Pin=U7.1-25
+Removed Pin From Net: NetName=NetU7_U_TPSM846C23_template1_22 Pin=U7.1-26
+Removed Pin From Net: NetName=NetU7_U_TPSM846C23_template1_22 Pin=U7.1-27
+Removed Pin From Net: NetName=NetU7_U_TPSM846C23_template1_22 Pin=U7.1-28
+Removed Pin From Net: NetName=NetU7_U_TPSM846C23_template1_22 Pin=U7.1-29
+Removed Pin From Net: NetName=GND Pin=U7.1-32
+Removed Pin From Net: NetName=GND Pin=U7.1-33
+Removed Pin From Net: NetName=GND Pin=U7.1-34
+Removed Pin From Net: NetName=GND Pin=U7.1-35
+Removed Pin From Net: NetName=GND Pin=U7.1-36
+Removed Pin From Net: NetName=GTR_VCC Pin=U7.1-37
+Removed Pin From Net: NetName=GTR_VCC Pin=U7.1-38
+Removed Pin From Net: NetName=GTR_VCC Pin=U7.1-39
+Removed Pin From Net: NetName=GTR_VCC Pin=U7.1-40
+Removed Pin From Net: NetName=GTR_VCC Pin=U7.1-41
+Removed Pin From Net: NetName=GND Pin=U7.1-42
+Removed Pin From Net: NetName=GND Pin=U7.1-43
+Removed Pin From Net: NetName=12V Pin=U7.1-44
+Removed Pin From Net: NetName=12V Pin=U7.1-45
+Removed Pin From Net: NetName=12V Pin=U7.1-46
+Removed Pin From Net: NetName=NetC171_U_TPSM846C23_template1_2 Pin=U7.1-47
+Removed Pin From Net: NetName=NetC162_U_TPSM846C23_template1_2 Pin=U7.1-48
+Removed Pin From Net: NetName=NetC162_U_TPSM846C23_template1_1 Pin=U7.1-49
+Removed Pin From Net: NetName=NetC169_U_TPSM846C23_template1_1 Pin=U7.1-50
+Removed Pin From Net: NetName=NetC169_U_TPSM846C23_template1_2 Pin=U7.1-51
+Removed Pin From Net: NetName=12V Pin=U7.1-53
+Removed Pin From Net: NetName=GND Pin=U7.1-54
+Removed Pin From Net: NetName=GTR_VCC Pin=U7.1-55
+Removed Pin From Net: NetName=GND Pin=U7.1-56
+Removed Pin From Net: NetName=GND Pin=U7.1-57
+Removed Pin From Net: NetName=GND Pin=U7.1-58
+Removed Pin From Net: NetName=GND Pin=U7.1-59
+Removed Pin From Net: NetName=1V8_PM Pin=U7.2-4
+Removed Pin From Net: NetName=NetRcomp1_U_TPSM846C23_template2_1 Pin=U7.2-6
+Removed Pin From Net: NetName=NetC172_U_TPSM846C23_template2_2 Pin=U7.2-7
+Removed Pin From Net: NetName=GND Pin=U7.2-10
+Removed Pin From Net: NetName=PMBUS_CNTL Pin=U7.2-12
+Removed Pin From Net: NetName=GND Pin=U7.2-14
+Removed Pin From Net: NetName=NetR36_2 Pin=U7.2-16
+Removed Pin From Net: NetName=NetR37_2 Pin=U7.2-17
+Removed Pin From Net: NetName=PMBUS_SDA Pin=U7.2-18
+Removed Pin From Net: NetName=PMBUS_SCL Pin=U7.2-19
+Removed Pin From Net: NetName=ALERTIO Pin=U7.2-20
+Removed Pin From Net: NetName=NetU7_U_TPSM846C23_template2_22 Pin=U7.2-22
+Removed Pin From Net: NetName=NetU7_U_TPSM846C23_template2_22 Pin=U7.2-23
+Removed Pin From Net: NetName=NetU7_U_TPSM846C23_template2_22 Pin=U7.2-24
+Removed Pin From Net: NetName=NetU7_U_TPSM846C23_template2_22 Pin=U7.2-25
+Removed Pin From Net: NetName=NetU7_U_TPSM846C23_template2_22 Pin=U7.2-26
+Removed Pin From Net: NetName=NetU7_U_TPSM846C23_template2_22 Pin=U7.2-27
+Removed Pin From Net: NetName=NetU7_U_TPSM846C23_template2_22 Pin=U7.2-28
+Removed Pin From Net: NetName=NetU7_U_TPSM846C23_template2_22 Pin=U7.2-29
+Removed Pin From Net: NetName=GND Pin=U7.2-32
+Removed Pin From Net: NetName=GND Pin=U7.2-33
+Removed Pin From Net: NetName=GND Pin=U7.2-34
+Removed Pin From Net: NetName=GND Pin=U7.2-35
+Removed Pin From Net: NetName=GND Pin=U7.2-36
+Removed Pin From Net: NetName=1V8_PM Pin=U7.2-37
+Removed Pin From Net: NetName=1V8_PM Pin=U7.2-38
+Removed Pin From Net: NetName=1V8_PM Pin=U7.2-39
+Removed Pin From Net: NetName=1V8_PM Pin=U7.2-40
+Removed Pin From Net: NetName=1V8_PM Pin=U7.2-41
+Removed Pin From Net: NetName=GND Pin=U7.2-42
+Removed Pin From Net: NetName=GND Pin=U7.2-43
+Removed Pin From Net: NetName=12V Pin=U7.2-44
+Removed Pin From Net: NetName=12V Pin=U7.2-45
+Removed Pin From Net: NetName=12V Pin=U7.2-46
+Removed Pin From Net: NetName=NetC171_U_TPSM846C23_template2_2 Pin=U7.2-47
+Removed Pin From Net: NetName=NetC162_U_TPSM846C23_template2_2 Pin=U7.2-48
+Removed Pin From Net: NetName=NetC162_U_TPSM846C23_template2_1 Pin=U7.2-49
+Removed Pin From Net: NetName=NetC169_U_TPSM846C23_template2_1 Pin=U7.2-50
+Removed Pin From Net: NetName=NetC169_U_TPSM846C23_template2_2 Pin=U7.2-51
+Removed Pin From Net: NetName=NetDS3_2 Pin=U7.2-52
+Removed Pin From Net: NetName=12V Pin=U7.2-53
+Removed Pin From Net: NetName=GND Pin=U7.2-54
+Removed Pin From Net: NetName=1V8_PM Pin=U7.2-55
+Removed Pin From Net: NetName=GND Pin=U7.2-56
+Removed Pin From Net: NetName=GND Pin=U7.2-57
+Removed Pin From Net: NetName=GND Pin=U7.2-58
+Removed Pin From Net: NetName=GND Pin=U7.2-59
+Removed Pin From Net: NetName=VCORE0 Pin=U7.3-4
+Removed Pin From Net: NetName=GND Pin=U7.3-10
+Removed Pin From Net: NetName=PMBUS_CNTL Pin=U7.3-12
+Removed Pin From Net: NetName=GND Pin=U7.3-14
+Removed Pin From Net: NetName=NetR33_2 Pin=U7.3-16
+Removed Pin From Net: NetName=NetR34_2 Pin=U7.3-17
+Removed Pin From Net: NetName=PMBUS_SDA Pin=U7.3-18
+Removed Pin From Net: NetName=PMBUS_SCL Pin=U7.3-19
+Removed Pin From Net: NetName=ALERT0 Pin=U7.3-20
+Removed Pin From Net: NetName=GND Pin=U7.3-32
+Removed Pin From Net: NetName=GND Pin=U7.3-33
+Removed Pin From Net: NetName=GND Pin=U7.3-34
+Removed Pin From Net: NetName=GND Pin=U7.3-35
+Removed Pin From Net: NetName=GND Pin=U7.3-36
+Removed Pin From Net: NetName=VCORE0 Pin=U7.3-37
+Removed Pin From Net: NetName=VCORE0 Pin=U7.3-38
+Removed Pin From Net: NetName=VCORE0 Pin=U7.3-39
+Removed Pin From Net: NetName=VCORE0 Pin=U7.3-40
+Removed Pin From Net: NetName=VCORE0 Pin=U7.3-41
+Removed Pin From Net: NetName=GND Pin=U7.3-42
+Removed Pin From Net: NetName=GND Pin=U7.3-43
+Removed Pin From Net: NetName=12V Pin=U7.3-44
+Removed Pin From Net: NetName=12V Pin=U7.3-45
+Removed Pin From Net: NetName=12V Pin=U7.3-46
+Removed Pin From Net: NetName=NetDS2_2 Pin=U7.3-52
+Removed Pin From Net: NetName=12V Pin=U7.3-53
+Removed Pin From Net: NetName=GND Pin=U7.3-54
+Removed Pin From Net: NetName=VCORE0 Pin=U7.3-55
+Removed Pin From Net: NetName=GND Pin=U7.3-56
+Removed Pin From Net: NetName=GND Pin=U7.3-57
+Removed Pin From Net: NetName=GND Pin=U7.3-58
+Removed Pin From Net: NetName=GND Pin=U7.3-59
+Removed Pin From Net: NetName=3V3 Pin=U10-1
+Removed Pin From Net: NetName=3V3 Pin=U10-2
+Removed Pin From Net: NetName=GND Pin=U10-3
+Removed Pin From Net: NetName=3V3 Pin=U10-6
+Removed Pin From Net: NetName=GND Pin=U10-8
+Removed Pin From Net: NetName=GND Pin=U10-13
+Removed Pin From Net: NetName=GND Pin=U10-18
+Removed Pin From Net: NetName=3V3 Pin=U10-20
+Removed Pin From Net: NetName=GND Pin=U10-21
+Removed Pin From Net: NetName=3V3 Pin=U11-1
+Removed Pin From Net: NetName=3V3 Pin=U11-2
+Removed Pin From Net: NetName=GND Pin=U11-3
+Removed Pin From Net: NetName=3V3 Pin=U11-6
+Removed Pin From Net: NetName=GND Pin=U11-8
+Removed Pin From Net: NetName=GND Pin=U11-13
+Removed Pin From Net: NetName=GND Pin=U11-18
+Removed Pin From Net: NetName=3V3 Pin=U11-20
+Removed Pin From Net: NetName=GND Pin=U11-21
+Removed Pin From Net: NetName=3V3 Pin=U12-1
+Removed Pin From Net: NetName=3V3 Pin=U12-2
+Removed Pin From Net: NetName=GND Pin=U12-3
+Removed Pin From Net: NetName=3V3 Pin=U12-6
+Removed Pin From Net: NetName=GND Pin=U12-8
+Removed Pin From Net: NetName=GND Pin=U12-13
+Removed Pin From Net: NetName=GND Pin=U12-18
+Removed Pin From Net: NetName=3V3 Pin=U12-20
+Removed Pin From Net: NetName=GND Pin=U12-21
+Removed Pin From Net: NetName=GND Pin=U13-3
+Removed Pin From Net: NetName=3V3 Pin=U13-8
+Removed Pin From Net: NetName=3V3 Pin=U13-9
+Removed Pin From Net: NetName=GND Pin=U13-12
+Removed Pin From Net: NetName=POT_SCL Pin=U13-13
+Removed Pin From Net: NetName=POT_SDA Pin=U13-14
+Removed Pin From Net: NetName=3V3 Pin=U13-15
+Removed Pin From Net: NetName=GND Pin=U13-16
+Removed Pin From Net: NetName=CLK_RST Pin=U13-17
+Removed Pin From Net: NetName=GND Pin=U13-37
+Removed Pin From Net: NetName=GND Pin=U13-45
+Removed Member From Class: ClassName=U_TPSM846C23_template1 Member=C157.1
+Removed Member From Class: ClassName=U_TPSM846C23_template2 Member=C157.2
+Removed Member From Class: ClassName=U_TPSM846C23_template2 Member=C158.2
+Removed Member From Class: ClassName=U_TPSM846C23_template2 Member=C159.2
+Removed Member From Class: ClassName=U_TPSM846C23_template2 Member=C160.2
+Removed Member From Class: ClassName=U_TPSM846C23_template2 Member=C161.2
+Removed Member From Class: ClassName=U_TPSM846C23_template2 Member=C162.2
+Removed Member From Class: ClassName=U_TPSM846C23_template1 Member=C163.1
+Removed Member From Class: ClassName=U_TPSM846C23_template2 Member=C163.2
+Removed Member From Class: ClassName=U_TPSM846C23_template1 Member=C164.1
+Removed Member From Class: ClassName=U_TPSM846C23_template2 Member=C164.2
+Removed Member From Class: ClassName=U_TPSM846C23_template2 Member=C165.2
+Removed Member From Class: ClassName=U_TPSM846C23_template2 Member=C166.2
+Removed Member From Class: ClassName=U_TPSM846C23_template2 Member=C167.2
+Removed Member From Class: ClassName=U_TPSM846C23_template2 Member=C168.2
+Removed Member From Class: ClassName=U_TPSM846C23_template2 Member=C169.2
+Removed Member From Class: ClassName=U_TPSM846C23_template2 Member=C170.2
+Removed Member From Class: ClassName=U_TPSM846C23_template2 Member=C171.2
+Removed Member From Class: ClassName=U_TPSM846C23_template2 Member=C172.2
+Removed Member From Class: ClassName=U_Ref_CLK Member=C210
+Removed Member From Class: ClassName=U_Ref_CLK Member=C211
+Removed Member From Class: ClassName=U_Ref_CLK Member=C212
+Removed Member From Class: ClassName=U_Ref_CLK Member=C213
+Removed Member From Class: ClassName=U_Ref_CLK Member=C214
+Removed Member From Class: ClassName=U_Ref_CLK Member=C215
+Removed Member From Class: ClassName=U_Ref_CLK Member=C216
+Removed Member From Class: ClassName=U_Ref_CLK Member=CLK1
+Removed Member From Class: ClassName=U_Power_subsystem Member=DS4
+Removed Member From Class: ClassName=U_SMA_Banana Member=J4
+Removed Member From Class: ClassName=U_SMA_Banana Member=J5
+Removed Member From Class: ClassName=U_SMA_Banana Member=J6
+Removed Member From Class: ClassName=U_SMA_Banana Member=J7
+Removed Member From Class: ClassName=Top Member=J13
+Removed Member From Class: ClassName=Top Member=J14
+Removed Member From Class: ClassName=U_SMA_Banana Member=J16
+Removed Member From Class: ClassName=U_SMA_Banana Member=J17
+Removed Member From Class: ClassName=U_SMA_Banana Member=J18
+Removed Member From Class: ClassName=U_SMA_Banana Member=J19
+Removed Member From Class: ClassName=U_SMA_Banana Member=J20
+Removed Member From Class: ClassName=U_SMA_Banana Member=J21
+Removed Member From Class: ClassName=U_SMA_Banana Member=J22
+Removed Member From Class: ClassName=U_SMA_Banana Member=J23
+Removed Member From Class: ClassName=U_SMA_Banana Member=J24
+Removed Member From Class: ClassName=U_SMA_Banana Member=J25
+Removed Member From Class: ClassName=U_Ref_CLK Member=LED1
+Removed Member From Class: ClassName=U_Power_subsystem Member=R38
+Removed Member From Class: ClassName=U_Power_subsystem Member=R39
+Removed Member From Class: ClassName=U_Power_subsystem Member=R40
+Removed Member From Class: ClassName=U_TPSM846C23_template2 Member=R41.2
+Removed Member From Class: ClassName=U_TPSM846C23_template2 Member=R42.2
+Removed Member From Class: ClassName=Top Member=R43
+Removed Member From Class: ClassName=U_Ref_CLK Member=R66
+Removed Member From Class: ClassName=U_Ref_CLK Member=R67
+Removed Member From Class: ClassName=Top Member=R70
+Removed Member From Class: ClassName=Top Member=R71
+Removed Member From Class: ClassName=Top Member=R72
+Removed Member From Class: ClassName=Top Member=R73
+Removed Member From Class: ClassName=U_TPSM846C23_template2 Member=Rcomp1.2
+Removed Member From Class: ClassName=U_TPSM846C23_template2 Member=Rset1.2
+Removed Member From Class: ClassName=U_Ultrascale_EG3 Member=SW1
+Removed Member From Class: ClassName=Top Member=SW2
+Removed Member From Class: ClassName=U_Ref_CLK Member=U13
+Change Managed Component Library Link : Designator=J1 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID= Old RevisionGUID= New RevisionGUID=
+Change Managed Component Library Link : Designator=C173 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=E096B0A9-4F7F-4D26-9F6A-1A0DB572D513 Old RevisionGUID= New RevisionGUID=208F10D2-5749-4334-B091-31618DEB9ECF
+Change Managed Component Library Link : Designator=C174 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=8E83B108-CEF6-4BFE-B173-A2EBD10BE98C Old RevisionGUID= New RevisionGUID=40937802-918E-4C21-B524-9B5A3B3F43F9
+Change Managed Component Library Link : Designator=C175 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=2A487DAE-10EA-463F-BBB2-32508506D097 Old RevisionGUID= New RevisionGUID=A6AED3DA-A3DE-4F53-ADA6-39721560FD63
+Change Managed Component Library Link : Designator=C176 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=50C56187-4537-4993-A229-30EB0D73B1B3 Old RevisionGUID= New RevisionGUID=43ED8087-11FB-4D03-89C9-C5C89FE58A2B
+Change Managed Component Library Link : Designator=C177 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=8E83B108-CEF6-4BFE-B173-A2EBD10BE98C Old RevisionGUID= New RevisionGUID=40937802-918E-4C21-B524-9B5A3B3F43F9
+Change Managed Component Library Link : Designator=D1 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=4891C14C-1FB5-474E-AF52-C85AB68BBC0D Old RevisionGUID= New RevisionGUID=F4DE2B49-84B7-4B79-A219-D9E0641CFA03
+Change Managed Component Library Link : Designator=DS1 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=4E0EA05F-57DB-44BD-976B-1B7753BFAA0F Old RevisionGUID= New RevisionGUID=8D95C6B7-BD93-46CD-A64E-F1D477FF89D5
+Change Managed Component Library Link : Designator=DS2 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=4E0EA05F-57DB-44BD-976B-1B7753BFAA0F Old RevisionGUID= New RevisionGUID=8D95C6B7-BD93-46CD-A64E-F1D477FF89D5
+Change Managed Component Library Link : Designator=DS3 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=4E0EA05F-57DB-44BD-976B-1B7753BFAA0F Old RevisionGUID= New RevisionGUID=8D95C6B7-BD93-46CD-A64E-F1D477FF89D5
+Change Managed Component Library Link : Designator=J2 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=B0866170-1DC8-4D8E-8C59-228923F7F6E4 Old RevisionGUID= New RevisionGUID=352D4FD2-9BB6-4A9E-9F3D-D59AD8AC46FD
+Change Managed Component Library Link : Designator=J3 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=04733794-D875-4747-8296-898ACBE6C06B Old RevisionGUID= New RevisionGUID=57E1BBB3-4B78-4A06-90C9-691C1CD01DBB
+Change Managed Component Library Link : Designator=J10 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=3C5CC6CE-C4FB-4B3A-8BAD-D4CA66FB5F86 Old RevisionGUID= New RevisionGUID=A4EF3271-C402-4A7F-80FE-B9EAE4529ED2
+Change Managed Component Library Link : Designator=P1 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=4D901494-904E-4841-8A7C-F1E340907F33 Old RevisionGUID= New RevisionGUID=858E772C-D440-48AA-B7C7-AD0F03E7F43C
+Change Managed Component Library Link : Designator=P2 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=2FA31D9E-EE0B-4B61-B067-C72B1CC34FB5 Old RevisionGUID= New RevisionGUID=336CD2B1-7204-4912-8F68-11955A88919B
+Change Managed Component Library Link : Designator=P3 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=F3AA2C27-BF5A-4B13-B377-7EB7EE99808C Old RevisionGUID= New RevisionGUID=C4792870-F738-4ECA-8EE5-1CD0085CDF83
+Change Managed Component Library Link : Designator=Q1 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=EE64C368-4F35-44B4-90E7-CCCF5EEFF13F Old RevisionGUID= New RevisionGUID=8EBCC98D-022A-49BA-AA92-63DA7B0628EA
+Change Managed Component Library Link : Designator=Q2 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=EE64C368-4F35-44B4-90E7-CCCF5EEFF13F Old RevisionGUID= New RevisionGUID=8EBCC98D-022A-49BA-AA92-63DA7B0628EA
+Change Managed Component Library Link : Designator=R44 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=06A0C9C1-80FD-415E-8F0C-C80B874335E7 Old RevisionGUID= New RevisionGUID=7A2D4AC8-AB07-4ABF-8754-488E8FEAC5A2
+Change Managed Component Library Link : Designator=R45 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=BA82B1DB-3903-48AB-BE6C-7B43F7C4B2A3 Old RevisionGUID= New RevisionGUID=75B1D43E-0B34-4946-B28D-47950DD00C87
+Change Managed Component Library Link : Designator=R46 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=BA82B1DB-3903-48AB-BE6C-7B43F7C4B2A3 Old RevisionGUID= New RevisionGUID=75B1D43E-0B34-4946-B28D-47950DD00C87
+Change Managed Component Library Link : Designator=R47 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=D6FF6A2E-237B-4D32-86D1-1B9665B5CB39 Old RevisionGUID= New RevisionGUID=5919DCB2-6C32-4D73-A0F5-E31FD5A5471D
+Change Managed Component Library Link : Designator=R48 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=D6FF6A2E-237B-4D32-86D1-1B9665B5CB39 Old RevisionGUID= New RevisionGUID=5919DCB2-6C32-4D73-A0F5-E31FD5A5471D
+Change Managed Component Library Link : Designator=R49 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=D6FF6A2E-237B-4D32-86D1-1B9665B5CB39 Old RevisionGUID= New RevisionGUID=5919DCB2-6C32-4D73-A0F5-E31FD5A5471D
+Change Managed Component Library Link : Designator=R50 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=D6FF6A2E-237B-4D32-86D1-1B9665B5CB39 Old RevisionGUID= New RevisionGUID=5919DCB2-6C32-4D73-A0F5-E31FD5A5471D
+Change Managed Component Library Link : Designator=R51 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=D6FF6A2E-237B-4D32-86D1-1B9665B5CB39 Old RevisionGUID= New RevisionGUID=5919DCB2-6C32-4D73-A0F5-E31FD5A5471D
+Change Managed Component Library Link : Designator=R52 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=D6FF6A2E-237B-4D32-86D1-1B9665B5CB39 Old RevisionGUID= New RevisionGUID=5919DCB2-6C32-4D73-A0F5-E31FD5A5471D
+Change Managed Component Library Link : Designator=R53 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=D6FF6A2E-237B-4D32-86D1-1B9665B5CB39 Old RevisionGUID= New RevisionGUID=5919DCB2-6C32-4D73-A0F5-E31FD5A5471D
+Change Managed Component Library Link : Designator=SW1 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=9D672B88-308C-4BE1-ABC8-14BA635D9EFE Old RevisionGUID= New RevisionGUID=1A7C09F2-A786-4D53-8E36-0B0D6FD96266
+Change Managed Component Library Link : Designator=U2 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=633DDBD9-9C1D-4E0B-939B-A229D42A911F Old RevisionGUID= New RevisionGUID=25A451DF-6081-4281-8878-80E186E9DB0E
+Change Managed Component Library Link : Designator=U3 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=E5F16206-24D9-4A45-B391-CCBD32BCFC82 Old RevisionGUID= New RevisionGUID=EB7B1D70-B391-45BC-B162-0F761BF4D339
+Change Managed Component Library Link : Designator=U4 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=8B36F453-24B4-4646-B816-670F24E954E4 Old RevisionGUID= New RevisionGUID=54199EB0-69A1-418D-9F71-147A618AA6D1
+Change Managed Component Library Link : Designator=U5 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=92D94045-BE30-4A98-8E04-5AC750EE0ABF Old RevisionGUID= New RevisionGUID=0479A7F4-BF65-4A38-84CF-4A78E151A578
+Change Managed Component Library Link : Designator=U6 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=FF4C22CC-4D33-426B-BFC1-024C63B8F6F2 Old RevisionGUID= New RevisionGUID=9FCA2C85-A836-4FC8-94F4-F828762FF845
+Added Component: Designator=B?(banana_clip)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "80P3616"; VariantName = "[No Variations]"
+Added Component: Designator=B?(banana_clip)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "80P3616"; VariantName = "[No Variations]"
+Added Component: Designator=B?(banana_clip)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "80P3616"; VariantName = "[No Variations]"
+Added Component: Designator=C157_U_TPSM846C23_template1(CAPAE110103X127M)
+Add component (AddParameter): Name = "Capacitance"; Value = "330uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "25SVF330M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=2.78, 10=2.247, 100=1.716 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "639"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "P122120CT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C157_U_TPSM846C23_template2(CAPAE110103X127M)
+Add component (AddParameter): Name = "Capacitance"; Value = "330uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "25SVF330M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=2.78, 10=2.247, 100=1.716 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "639"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "P122120CT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C158_U_TPSM846C23_template1(CAPC4532X28N)
+Add component (AddParameter): Name = "Capacitance"; Value = "22uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "1812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "4532"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "1812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM0335C1E120JA01-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM0335C1E120JA01-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://search.murata.co.jp/Ceramy/image/img/A01X/partnumbering_e_01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://search.murata.co.jp/Ceramy/image/img/A01X/partnumbering_e_01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "http://www1.futureelectronics.com/doc/SAMSUNG/CL03A104KQ3NNNC.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www1.futureelectronics.com/doc/SAMSUNG/CL03A104KQ3NNNC.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://www.distrelec.biz/Web/Downloads/_e/ng/MLCC_CatalogDownload2013_ENG.pdf?mime=application%2Fpdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://www.distrelec.biz/Web/Downloads/_e/ng/MLCC_CatalogDownload2013_ENG.pdf?mime=application%2Fpdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=355266"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=355266"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "http://uk.rs-online.com/webdocs/1532/0900766b81532cd0.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "http://uk.rs-online.com/webdocs/1532/0900766b81532cd0.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "http://www.farnell.com/datasheets/1796654.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "http://www.farnell.com/datasheets/1796654.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "https://product.tdk.com/info/en/documents/chara_sheet/C4532X7R1E226M250KC.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "https://product.tdk.com/info/en/documents/chara_sheet/C4532X7R1E226M250KC.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9Description"; Value = "http://www.mouser.com/ds/2/400/lcc_commercial_general_en-837201.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9URL"; Value = "http://www.mouser.com/ds/2/400/lcc_commercial_general_en-837201.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "3.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "4.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C4532X7R1E226M250KC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1.29, 10=0.981, 100=0.7019 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "445-1607-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "0.11inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.000952oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.126inch"; VariantName = "[No Variations]"
+Added Component: Designator=C158_U_TPSM846C23_template2(CAPC4532X28N)
+Add component (AddParameter): Name = "Capacitance"; Value = "22uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "1812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "4532"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "1812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM0335C1E120JA01-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM0335C1E120JA01-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://search.murata.co.jp/Ceramy/image/img/A01X/partnumbering_e_01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://search.murata.co.jp/Ceramy/image/img/A01X/partnumbering_e_01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "http://www1.futureelectronics.com/doc/SAMSUNG/CL03A104KQ3NNNC.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www1.futureelectronics.com/doc/SAMSUNG/CL03A104KQ3NNNC.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://www.distrelec.biz/Web/Downloads/_e/ng/MLCC_CatalogDownload2013_ENG.pdf?mime=application%2Fpdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://www.distrelec.biz/Web/Downloads/_e/ng/MLCC_CatalogDownload2013_ENG.pdf?mime=application%2Fpdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=355266"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=355266"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "http://uk.rs-online.com/webdocs/1532/0900766b81532cd0.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "http://uk.rs-online.com/webdocs/1532/0900766b81532cd0.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "http://www.farnell.com/datasheets/1796654.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "http://www.farnell.com/datasheets/1796654.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "https://product.tdk.com/info/en/documents/chara_sheet/C4532X7R1E226M250KC.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "https://product.tdk.com/info/en/documents/chara_sheet/C4532X7R1E226M250KC.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9Description"; Value = "http://www.mouser.com/ds/2/400/lcc_commercial_general_en-837201.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9URL"; Value = "http://www.mouser.com/ds/2/400/lcc_commercial_general_en-837201.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "3.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "4.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C4532X7R1E226M250KC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1.29, 10=0.981, 100=0.7019 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "445-1607-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "0.11inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.000952oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.126inch"; VariantName = "[No Variations]"
+Added Component: Designator=C159_U_TPSM846C23_template1(CAPC4532X28N)
+Add component (AddParameter): Name = "Capacitance"; Value = "22uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "1812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "4532"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "1812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM0335C1E120JA01-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM0335C1E120JA01-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://search.murata.co.jp/Ceramy/image/img/A01X/partnumbering_e_01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://search.murata.co.jp/Ceramy/image/img/A01X/partnumbering_e_01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "http://www1.futureelectronics.com/doc/SAMSUNG/CL03A104KQ3NNNC.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www1.futureelectronics.com/doc/SAMSUNG/CL03A104KQ3NNNC.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://www.distrelec.biz/Web/Downloads/_e/ng/MLCC_CatalogDownload2013_ENG.pdf?mime=application%2Fpdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://www.distrelec.biz/Web/Downloads/_e/ng/MLCC_CatalogDownload2013_ENG.pdf?mime=application%2Fpdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=355266"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=355266"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "http://uk.rs-online.com/webdocs/1532/0900766b81532cd0.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "http://uk.rs-online.com/webdocs/1532/0900766b81532cd0.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "http://www.farnell.com/datasheets/1796654.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "http://www.farnell.com/datasheets/1796654.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "https://product.tdk.com/info/en/documents/chara_sheet/C4532X7R1E226M250KC.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "https://product.tdk.com/info/en/documents/chara_sheet/C4532X7R1E226M250KC.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9Description"; Value = "http://www.mouser.com/ds/2/400/lcc_commercial_general_en-837201.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9URL"; Value = "http://www.mouser.com/ds/2/400/lcc_commercial_general_en-837201.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "3.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "4.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C4532X7R1E226M250KC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1.29, 10=0.981, 100=0.7019 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "445-1607-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "0.11inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.000952oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.126inch"; VariantName = "[No Variations]"
+Added Component: Designator=C159_U_TPSM846C23_template2(CAPC4532X28N)
+Add component (AddParameter): Name = "Capacitance"; Value = "22uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "1812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "4532"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "1812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM0335C1E120JA01-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM0335C1E120JA01-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://search.murata.co.jp/Ceramy/image/img/A01X/partnumbering_e_01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://search.murata.co.jp/Ceramy/image/img/A01X/partnumbering_e_01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "http://www1.futureelectronics.com/doc/SAMSUNG/CL03A104KQ3NNNC.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www1.futureelectronics.com/doc/SAMSUNG/CL03A104KQ3NNNC.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://www.distrelec.biz/Web/Downloads/_e/ng/MLCC_CatalogDownload2013_ENG.pdf?mime=application%2Fpdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://www.distrelec.biz/Web/Downloads/_e/ng/MLCC_CatalogDownload2013_ENG.pdf?mime=application%2Fpdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=355266"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=355266"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "http://uk.rs-online.com/webdocs/1532/0900766b81532cd0.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "http://uk.rs-online.com/webdocs/1532/0900766b81532cd0.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "http://www.farnell.com/datasheets/1796654.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "http://www.farnell.com/datasheets/1796654.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "https://product.tdk.com/info/en/documents/chara_sheet/C4532X7R1E226M250KC.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "https://product.tdk.com/info/en/documents/chara_sheet/C4532X7R1E226M250KC.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9Description"; Value = "http://www.mouser.com/ds/2/400/lcc_commercial_general_en-837201.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9URL"; Value = "http://www.mouser.com/ds/2/400/lcc_commercial_general_en-837201.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "3.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "4.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C4532X7R1E226M250KC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1.29, 10=0.981, 100=0.7019 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "445-1607-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "0.11inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.000952oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.126inch"; VariantName = "[No Variations]"
+Added Component: Designator=C160_U_TPSM846C23_template1(CAPC4532X28N)
+Add component (AddParameter): Name = "Capacitance"; Value = "22uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "1812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "4532"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "1812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM0335C1E120JA01-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM0335C1E120JA01-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://search.murata.co.jp/Ceramy/image/img/A01X/partnumbering_e_01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://search.murata.co.jp/Ceramy/image/img/A01X/partnumbering_e_01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "http://www1.futureelectronics.com/doc/SAMSUNG/CL03A104KQ3NNNC.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www1.futureelectronics.com/doc/SAMSUNG/CL03A104KQ3NNNC.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://www.distrelec.biz/Web/Downloads/_e/ng/MLCC_CatalogDownload2013_ENG.pdf?mime=application%2Fpdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://www.distrelec.biz/Web/Downloads/_e/ng/MLCC_CatalogDownload2013_ENG.pdf?mime=application%2Fpdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=355266"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=355266"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "http://uk.rs-online.com/webdocs/1532/0900766b81532cd0.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "http://uk.rs-online.com/webdocs/1532/0900766b81532cd0.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "http://www.farnell.com/datasheets/1796654.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "http://www.farnell.com/datasheets/1796654.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "https://product.tdk.com/info/en/documents/chara_sheet/C4532X7R1E226M250KC.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "https://product.tdk.com/info/en/documents/chara_sheet/C4532X7R1E226M250KC.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9Description"; Value = "http://www.mouser.com/ds/2/400/lcc_commercial_general_en-837201.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9URL"; Value = "http://www.mouser.com/ds/2/400/lcc_commercial_general_en-837201.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "3.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "4.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C4532X7R1E226M250KC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1.29, 10=0.981, 100=0.7019 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "445-1607-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "0.11inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.000952oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.126inch"; VariantName = "[No Variations]"
+Added Component: Designator=C160_U_TPSM846C23_template2(CAPC4532X28N)
+Add component (AddParameter): Name = "Capacitance"; Value = "22uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "1812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "4532"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "1812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM0335C1E120JA01-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM0335C1E120JA01-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://search.murata.co.jp/Ceramy/image/img/A01X/partnumbering_e_01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://search.murata.co.jp/Ceramy/image/img/A01X/partnumbering_e_01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "http://www1.futureelectronics.com/doc/SAMSUNG/CL03A104KQ3NNNC.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www1.futureelectronics.com/doc/SAMSUNG/CL03A104KQ3NNNC.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://www.distrelec.biz/Web/Downloads/_e/ng/MLCC_CatalogDownload2013_ENG.pdf?mime=application%2Fpdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://www.distrelec.biz/Web/Downloads/_e/ng/MLCC_CatalogDownload2013_ENG.pdf?mime=application%2Fpdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=355266"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=355266"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "http://uk.rs-online.com/webdocs/1532/0900766b81532cd0.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "http://uk.rs-online.com/webdocs/1532/0900766b81532cd0.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "http://www.farnell.com/datasheets/1796654.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "http://www.farnell.com/datasheets/1796654.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "https://product.tdk.com/info/en/documents/chara_sheet/C4532X7R1E226M250KC.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "https://product.tdk.com/info/en/documents/chara_sheet/C4532X7R1E226M250KC.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9Description"; Value = "http://www.mouser.com/ds/2/400/lcc_commercial_general_en-837201.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9URL"; Value = "http://www.mouser.com/ds/2/400/lcc_commercial_general_en-837201.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "3.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "4.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C4532X7R1E226M250KC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1.29, 10=0.981, 100=0.7019 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "445-1607-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "0.11inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.000952oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.126inch"; VariantName = "[No Variations]"
+Added Component: Designator=C161_U_TPSM846C23_template1(CAPC4532X28N)
+Add component (AddParameter): Name = "Capacitance"; Value = "22uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "1812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "4532"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "1812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM0335C1E120JA01-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM0335C1E120JA01-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://search.murata.co.jp/Ceramy/image/img/A01X/partnumbering_e_01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://search.murata.co.jp/Ceramy/image/img/A01X/partnumbering_e_01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "http://www1.futureelectronics.com/doc/SAMSUNG/CL03A104KQ3NNNC.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www1.futureelectronics.com/doc/SAMSUNG/CL03A104KQ3NNNC.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://www.distrelec.biz/Web/Downloads/_e/ng/MLCC_CatalogDownload2013_ENG.pdf?mime=application%2Fpdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://www.distrelec.biz/Web/Downloads/_e/ng/MLCC_CatalogDownload2013_ENG.pdf?mime=application%2Fpdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=355266"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=355266"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "http://uk.rs-online.com/webdocs/1532/0900766b81532cd0.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "http://uk.rs-online.com/webdocs/1532/0900766b81532cd0.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "http://www.farnell.com/datasheets/1796654.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "http://www.farnell.com/datasheets/1796654.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "https://product.tdk.com/info/en/documents/chara_sheet/C4532X7R1E226M250KC.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "https://product.tdk.com/info/en/documents/chara_sheet/C4532X7R1E226M250KC.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9Description"; Value = "http://www.mouser.com/ds/2/400/lcc_commercial_general_en-837201.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9URL"; Value = "http://www.mouser.com/ds/2/400/lcc_commercial_general_en-837201.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "3.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "4.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C4532X7R1E226M250KC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1.29, 10=0.981, 100=0.7019 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "445-1607-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "0.11inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.000952oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.126inch"; VariantName = "[No Variations]"
+Added Component: Designator=C161_U_TPSM846C23_template2(CAPC4532X28N)
+Add component (AddParameter): Name = "Capacitance"; Value = "22uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "1812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "4532"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "1812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM0335C1E120JA01-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM0335C1E120JA01-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://search.murata.co.jp/Ceramy/image/img/A01X/partnumbering_e_01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://search.murata.co.jp/Ceramy/image/img/A01X/partnumbering_e_01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "http://www1.futureelectronics.com/doc/SAMSUNG/CL03A104KQ3NNNC.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www1.futureelectronics.com/doc/SAMSUNG/CL03A104KQ3NNNC.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://www.distrelec.biz/Web/Downloads/_e/ng/MLCC_CatalogDownload2013_ENG.pdf?mime=application%2Fpdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://www.distrelec.biz/Web/Downloads/_e/ng/MLCC_CatalogDownload2013_ENG.pdf?mime=application%2Fpdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=355266"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=355266"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "http://uk.rs-online.com/webdocs/1532/0900766b81532cd0.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "http://uk.rs-online.com/webdocs/1532/0900766b81532cd0.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "http://www.farnell.com/datasheets/1796654.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "http://www.farnell.com/datasheets/1796654.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "https://product.tdk.com/info/en/documents/chara_sheet/C4532X7R1E226M250KC.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "https://product.tdk.com/info/en/documents/chara_sheet/C4532X7R1E226M250KC.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9Description"; Value = "http://www.mouser.com/ds/2/400/lcc_commercial_general_en-837201.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9URL"; Value = "http://www.mouser.com/ds/2/400/lcc_commercial_general_en-837201.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "3.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "4.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C4532X7R1E226M250KC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1.29, 10=0.981, 100=0.7019 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "445-1607-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "0.11inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.000952oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.126inch"; VariantName = "[No Variations]"
+Added Component: Designator=C163_U_TPSM846C23_template1(CAPAE110103X127M)
+Add component (AddParameter): Name = "Capacitance"; Value = "470uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=743667"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=743667"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://www.farnell.com/datasheets/1734359.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.farnell.com/datasheets/1734359.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "http://www.farnell.com/datasheets/2059644.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.farnell.com/datasheets/2059644.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "10mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dissipation Factor"; Value = "12%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR (Equivalent Series Resistance)"; Value = "10mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "12.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.5inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Leakage Current"; Value = "1.504mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "12.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Life (Hours)"; Value = "2000Hour"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "25SVF330M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "400"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "Polar"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=2.66, 10=2.147, 100=1.6399 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = "6.1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = "6.1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "6872"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "P16477CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C163_U_TPSM846C23_template2(CAPAE110103X127M)
+Add component (AddParameter): Name = "Capacitance"; Value = "470uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=743667"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=743667"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://www.farnell.com/datasheets/1734359.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.farnell.com/datasheets/1734359.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "http://www.farnell.com/datasheets/2059644.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.farnell.com/datasheets/2059644.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "10mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dissipation Factor"; Value = "12%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR (Equivalent Series Resistance)"; Value = "10mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "12.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.5inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Leakage Current"; Value = "1.504mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "12.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Life (Hours)"; Value = "2000Hour"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "25SVF330M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "400"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "Polar"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=2.66, 10=2.147, 100=1.6399 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = "6.1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = "6.1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "6872"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "P16477CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C164_U_TPSM846C23_template1(CAPAE110103X127M)
+Add component (AddParameter): Name = "Capacitance"; Value = "470uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=743667"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=743667"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://www.farnell.com/datasheets/1734359.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.farnell.com/datasheets/1734359.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "http://www.farnell.com/datasheets/2059644.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.farnell.com/datasheets/2059644.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "10mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dissipation Factor"; Value = "12%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR (Equivalent Series Resistance)"; Value = "10mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "12.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.5inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Leakage Current"; Value = "1.504mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "12.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Life (Hours)"; Value = "2000Hour"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "25SVF330M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "400"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "Polar"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=2.66, 10=2.147, 100=1.6399 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = "6.1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = "6.1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "6872"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "P16477CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C164_U_TPSM846C23_template2(CAPAE110103X127M)
+Add component (AddParameter): Name = "Capacitance"; Value = "470uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=743667"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=743667"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://www.farnell.com/datasheets/1734359.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.farnell.com/datasheets/1734359.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "http://www.farnell.com/datasheets/2059644.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.farnell.com/datasheets/2059644.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "10mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dissipation Factor"; Value = "12%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR (Equivalent Series Resistance)"; Value = "10mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "12.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.5inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Leakage Current"; Value = "1.504mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "12.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Life (Hours)"; Value = "2000Hour"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "25SVF330M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "400"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "Polar"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=2.66, 10=2.147, 100=1.6399 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = "6.1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = "6.1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "6872"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "P16477CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=J?(HDR2X5)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "S2011EC-05-ND"; VariantName = "[No Variations]"
+Added Component: Designator=J?(HDR2X5)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "S2011EC-05-ND"; VariantName = "[No Variations]"
+Added Component: Designator=J?(HDR2X5)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "S2011EC-05-ND"; VariantName = "[No Variations]"
+Added Component: Designator=J?(HDR2X5)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "S2011EC-05-ND"; VariantName = "[No Variations]"
+Added Component: Designator=J?(ROS-32K101-400L5_V)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.rosenberger.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://rosenberger.de/ok/images/documents/db/32K101-400L5.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://rosenberger.de/ok/images/documents/db/32K101-400L5.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Series Overview / Design Note"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "http://rosenberger.de/ok/images/documents/spez/32.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "Webshop / RFQ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "http://www.rosenberger.com/en/contact/sales/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "a00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Note"; Value = "Footprint in library is a generic example - only application specific footprint delivers High Performance"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "SMA Straight Jack, 6.35 x 6.35 x 9.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "32K101-400L5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "a00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "32K101-400L5"; VariantName = "[No Variations]"
+Added Component: Designator=J?(ROS-32K101-400L5_V)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.rosenberger.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://rosenberger.de/ok/images/documents/db/32K101-400L5.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://rosenberger.de/ok/images/documents/db/32K101-400L5.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Series Overview / Design Note"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "http://rosenberger.de/ok/images/documents/spez/32.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "Webshop / RFQ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "http://www.rosenberger.com/en/contact/sales/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "a00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Note"; Value = "Footprint in library is a generic example - only application specific footprint delivers High Performance"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "SMA Straight Jack, 6.35 x 6.35 x 9.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "32K101-400L5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "a00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "32K101-400L5"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1608X06N)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://media.digikey.com/pdf/Data%20Sheets/KOA%20Speer/RN73R_Type_DS.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://media.digikey.com/pdf/Data%20Sheets/KOA%20Speer/RN73R_Type_DS.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thin Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "0.85mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.022inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "0.061inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KOA Speer Electronics, Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RN73R1JTTD32R0D25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.27, 10=0.229, 100=0.0894, 1000=0.03742, 2500=0.0343 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "32R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "25793"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "50ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.033inch"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1608X06N)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://media.digikey.com/pdf/Data%20Sheets/KOA%20Speer/RN73R_Type_DS.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://media.digikey.com/pdf/Data%20Sheets/KOA%20Speer/RN73R_Type_DS.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thin Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "0.85mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.022inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "0.061inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KOA Speer Electronics, Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RN73R1JTTD32R0D25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.27, 10=0.229, 100=0.0894, 1000=0.03742, 2500=0.0343 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "32R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "25793"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "50ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.033inch"; VariantName = "[No Variations]"
+Added Component: Designator=RPI_P(RPI_PICO)
+Added Component: Designator=S?(JS202011SCQN_auto)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "401-2002-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=S?(JS202011SCQN_auto)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "401-2002-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=SW?(TECO-1825910-6_V)
+Add component (AddParameter): Name = "Actuator Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Length"; Value = "1.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Material"; Value = "PolybutyleneTerephthalate"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Style"; Value = "RoundButton"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Base Material"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Body Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bushing Type"; Value = "Unthreaded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "CopperAlloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Rating @ Voltage"; Value = "0.05A@24VDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1825910%7FC9%7Fpdf%7FEnglish%7FENG_CD_1825910_C9.pdf%7F1825910-6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. C9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Strength"; Value = "500VAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dimension"; Value = "5.99x5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Electrical Life"; Value = "100000Cycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "1825910"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Function"; Value = "MomentaryContact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Illumination"; Value = "N/R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.te.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum AC Voltage Rating"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Contact Resistance"; Value = "100mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum DC Voltage Rating"; Value = "24V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mechanical Life"; Value = "100000Cycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Insulation Resistance"; Value = "100MOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-35to85C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "4-Pin Through Hole Device, Body 5.99 x 5.99 mm, Pitch 6.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "THD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part No"; Value = "1825910-6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pole Throw Configuration"; Value = "SPST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Weight"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Seal Description"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Seal Location"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Configuration"; Value = "OFF(ON)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Type"; Value = "PCPins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thread Size"; Value = "N/R"; VariantName = "[No Variations]"
+Added Component: Designator=U7_U_TPSM846C23_template1(QFM-59)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TPSM846C23MOLR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=24.49, 10=22.587, 100=19.2882 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "323"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "296-48350-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=U7_U_TPSM846C23_template2(QFM-59)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TPSM846C23MOLR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=24.49, 10=22.587, 100=19.2882 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "323"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "296-48350-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=U?(BGA676x26)
+Added Component: Designator=U?(BGA676x26)
+Added Component: Designator=U?(BGA676x26)
+Added Component: Designator=U?(BGA676x26)
+Added Component: Designator=U?(BGA676x26)
+Added Component: Designator=U?(BGA676x26)
+Added Component: Designator=U?(BGA676x26)
+Added Component: Designator=U?(BGA676x26)
+Added Component: Designator=U?(BGA676x26)
+Added Component: Designator=U?(BGA676x26)
+Added Component: Designator=U?(BGA676x26)
+Added Component: Designator=U?(BGA676x26)
+Added Component: Designator=U?(BGA676x26)
+Added Component: Designator=U?(BGA676x26)
+Added Component: Designator=U?(BGA676x26)
+Added Component: Designator=U?(BGA676x26)
+Added Component: Designator=U?(BGA676x26)
+Added Component: Designator=U?(BGA676x26)
+Added Component: Designator=U?(BGA676x26)
+Added Component: Designator=U?(BGA676x26)
+Added Component: Designator=U?(BGA676x26)
+Added Component: Designator=U?(BGA676x26)
+Added Pin To Net: NetName=12V Pin=B?-1
+Added Pin To Net: NetName=GTR_VCC Pin=B?-1
+Added Pin To Net: NetName=12V Pin=B?-2
+Added Pin To Net: NetName=GTR_VCC Pin=B?-2
+Added Pin To Net: NetName=VIO Pin=C154-2
+Added Pin To Net: NetName=12V Pin=C157_U_TPSM846C23_template1-1
+Added Pin To Net: NetName=GND Pin=C157_U_TPSM846C23_template1-2
+Added Pin To Net: NetName=12V Pin=C157_U_TPSM846C23_template2-1
+Added Pin To Net: NetName=GND Pin=C157_U_TPSM846C23_template2-2
+Added Pin To Net: NetName=12V Pin=C158_U_TPSM846C23_template1-1
+Added Pin To Net: NetName=GND Pin=C158_U_TPSM846C23_template1-2
+Added Pin To Net: NetName=12V Pin=C158_U_TPSM846C23_template2-1
+Added Pin To Net: NetName=GND Pin=C158_U_TPSM846C23_template2-2
+Added Pin To Net: NetName=12V Pin=C159_U_TPSM846C23_template1-1
+Added Pin To Net: NetName=GND Pin=C159_U_TPSM846C23_template1-2
+Added Pin To Net: NetName=12V Pin=C159_U_TPSM846C23_template2-1
+Added Pin To Net: NetName=GND Pin=C159_U_TPSM846C23_template2-2
+Added Pin To Net: NetName=12V Pin=C160_U_TPSM846C23_template1-1
+Added Pin To Net: NetName=GND Pin=C160_U_TPSM846C23_template1-2
+Added Pin To Net: NetName=12V Pin=C160_U_TPSM846C23_template2-1
+Added Pin To Net: NetName=GND Pin=C160_U_TPSM846C23_template2-2
+Added Pin To Net: NetName=12V Pin=C161_U_TPSM846C23_template1-1
+Added Pin To Net: NetName=GND Pin=C161_U_TPSM846C23_template1-2
+Added Pin To Net: NetName=12V Pin=C161_U_TPSM846C23_template2-1
+Added Pin To Net: NetName=GND Pin=C161_U_TPSM846C23_template2-2
+Added Pin To Net: NetName=1V8_PM Pin=C163_U_TPSM846C23_template1-1
+Added Pin To Net: NetName=GND Pin=C163_U_TPSM846C23_template1-2
+Added Pin To Net: NetName=VCORE0 Pin=C163_U_TPSM846C23_template2-1
+Added Pin To Net: NetName=GND Pin=C163_U_TPSM846C23_template2-2
+Added Pin To Net: NetName=1V8_PM Pin=C164_U_TPSM846C23_template1-1
+Added Pin To Net: NetName=GND Pin=C164_U_TPSM846C23_template1-2
+Added Pin To Net: NetName=VCORE0 Pin=C164_U_TPSM846C23_template2-1
+Added Pin To Net: NetName=GND Pin=C164_U_TPSM846C23_template2-2
+Added Pin To Net: NetName=VIO Pin=C218-1
+Added Pin To Net: NetName=VIO Pin=C219-1
+Added Pin To Net: NetName=VIO Pin=C221-1
+Added Pin To Net: NetName=VIO Pin=D2-1
+Added Pin To Net: NetName=12V Pin=J3-3
+Added Pin To Net: NetName=GND Pin=J3-4
+Added Pin To Net: NetName=GND Pin=J3-5
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=VIO Pin=J?-1
+Added Pin To Net: NetName=VIO Pin=J?-1
+Added Pin To Net: NetName=VIO Pin=J?-4
+Added Pin To Net: NetName=VIO Pin=J?-4
+Added Pin To Net: NetName=GND Pin=J?-9
+Added Pin To Net: NetName=GND Pin=J?-9
+Added Pin To Net: NetName=GND Pin=J?-10
+Added Pin To Net: NetName=GND Pin=J?-10
+Added Pin To Net: NetName=GND Pin=J?-MH
+Added Pin To Net: NetName=GND Pin=J?-MH
+Added Pin To Net: NetName=GND Pin=J?-MH
+Added Pin To Net: NetName=GND Pin=J?-MH
+Added Pin To Net: NetName=GND Pin=J?-MH
+Added Pin To Net: NetName=GND Pin=J?-MH
+Added Pin To Net: NetName=GND Pin=J?-MH
+Added Pin To Net: NetName=GND Pin=J?-MH
+Added Pin To Net: NetName=CGRA_CLK0_N Pin=R?-1
+Added Pin To Net: NetName=CLK_RST Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=PMBUS_SCL Pin=R?-1
+Added Pin To Net: NetName=PMBUS_SDA Pin=R?-1
+Added Pin To Net: NetName=POT_SCL Pin=R?-1
+Added Pin To Net: NetName=POT_SDA Pin=R?-1
+Added Pin To Net: NetName=3V3 Pin=R?-2
+Added Pin To Net: NetName=VIO Pin=R?-2
+Added Pin To Net: NetName=VIO Pin=R?-2
+Added Pin To Net: NetName=VIO Pin=R?-2
+Added Pin To Net: NetName=VIO Pin=R?-2
+Added Pin To Net: NetName=VIO Pin=R?-2
+Added Pin To Net: NetName=VIO Pin=R?-2
+Added Pin To Net: NetName=VIO Pin=R?-2
+Added Pin To Net: NetName=VIO Pin=R?-2
+Added Pin To Net: NetName=VIO Pin=R?-2
+Added Pin To Net: NetName=GND Pin=RPI_P-3
+Added Pin To Net: NetName=GND Pin=RPI_P-8
+Added Pin To Net: NetName=GND Pin=RPI_P-13
+Added Pin To Net: NetName=GND Pin=RPI_P-18
+Added Pin To Net: NetName=GND Pin=RPI_P-23
+Added Pin To Net: NetName=GND Pin=RPI_P-28
+Added Pin To Net: NetName=SOM_RESET_IN_N Pin=RPI_P-30
+Added Pin To Net: NetName=GND Pin=RPI_P-33
+Added Pin To Net: NetName=GND Pin=RPI_P-38
+Added Pin To Net: NetName=GND Pin=RPI_P-42
+Added Pin To Net: NetName=1V8_PM Pin=S?-1
+Added Pin To Net: NetName=VIO Pin=S?-1
+Added Pin To Net: NetName=VIO Pin=S?-2
+Added Pin To Net: NetName=1V8_PM Pin=S?-4
+Added Pin To Net: NetName=VIO Pin=S?-4
+Added Pin To Net: NetName=VIO Pin=S?-5
+Added Pin To Net: NetName=CLK_RST Pin=SW?-1
+Added Pin To Net: NetName=CLK_RST Pin=SW?-2
+Added Pin To Net: NetName=GND Pin=SW?-3
+Added Pin To Net: NetName=GND Pin=SW?-4
+Added Pin To Net: NetName=VIO Pin=TP1-1
+Added Pin To Net: NetName=VIO Pin=U5-2
+Added Pin To Net: NetName=VIO Pin=U5-4
+Added Pin To Net: NetName=1V8_PM Pin=U7_U_TPSM846C23_template1-4
+Added Pin To Net: NetName=NetRcomp1_U_TPSM846C23_template1_1 Pin=U7_U_TPSM846C23_template1-6
+Added Pin To Net: NetName=NetC172_U_TPSM846C23_template1_2 Pin=U7_U_TPSM846C23_template1-7
+Added Pin To Net: NetName=GND Pin=U7_U_TPSM846C23_template1-10
+Added Pin To Net: NetName=PMBUS_CNTL Pin=U7_U_TPSM846C23_template1-12
+Added Pin To Net: NetName=GND Pin=U7_U_TPSM846C23_template1-14
+Added Pin To Net: NetName=NetR36_2 Pin=U7_U_TPSM846C23_template1-16
+Added Pin To Net: NetName=NetR37_2 Pin=U7_U_TPSM846C23_template1-17
+Added Pin To Net: NetName=PMBUS_SDA Pin=U7_U_TPSM846C23_template1-18
+Added Pin To Net: NetName=PMBUS_SCL Pin=U7_U_TPSM846C23_template1-19
+Added Pin To Net: NetName=ALERTIO Pin=U7_U_TPSM846C23_template1-20
+Added Pin To Net: NetName=NetU7_U_TPSM846C23_template1_22 Pin=U7_U_TPSM846C23_template1-22
+Added Pin To Net: NetName=NetU7_U_TPSM846C23_template1_22 Pin=U7_U_TPSM846C23_template1-23
+Added Pin To Net: NetName=NetU7_U_TPSM846C23_template1_22 Pin=U7_U_TPSM846C23_template1-24
+Added Pin To Net: NetName=NetU7_U_TPSM846C23_template1_22 Pin=U7_U_TPSM846C23_template1-25
+Added Pin To Net: NetName=NetU7_U_TPSM846C23_template1_22 Pin=U7_U_TPSM846C23_template1-26
+Added Pin To Net: NetName=NetU7_U_TPSM846C23_template1_22 Pin=U7_U_TPSM846C23_template1-27
+Added Pin To Net: NetName=NetU7_U_TPSM846C23_template1_22 Pin=U7_U_TPSM846C23_template1-28
+Added Pin To Net: NetName=NetU7_U_TPSM846C23_template1_22 Pin=U7_U_TPSM846C23_template1-29
+Added Pin To Net: NetName=GND Pin=U7_U_TPSM846C23_template1-32
+Added Pin To Net: NetName=GND Pin=U7_U_TPSM846C23_template1-33
+Added Pin To Net: NetName=GND Pin=U7_U_TPSM846C23_template1-34
+Added Pin To Net: NetName=GND Pin=U7_U_TPSM846C23_template1-35
+Added Pin To Net: NetName=GND Pin=U7_U_TPSM846C23_template1-36
+Added Pin To Net: NetName=1V8_PM Pin=U7_U_TPSM846C23_template1-37
+Added Pin To Net: NetName=1V8_PM Pin=U7_U_TPSM846C23_template1-38
+Added Pin To Net: NetName=1V8_PM Pin=U7_U_TPSM846C23_template1-39
+Added Pin To Net: NetName=1V8_PM Pin=U7_U_TPSM846C23_template1-40
+Added Pin To Net: NetName=1V8_PM Pin=U7_U_TPSM846C23_template1-41
+Added Pin To Net: NetName=GND Pin=U7_U_TPSM846C23_template1-42
+Added Pin To Net: NetName=GND Pin=U7_U_TPSM846C23_template1-43
+Added Pin To Net: NetName=12V Pin=U7_U_TPSM846C23_template1-44
+Added Pin To Net: NetName=12V Pin=U7_U_TPSM846C23_template1-45
+Added Pin To Net: NetName=12V Pin=U7_U_TPSM846C23_template1-46
+Added Pin To Net: NetName=NetC171_U_TPSM846C23_template1_2 Pin=U7_U_TPSM846C23_template1-47
+Added Pin To Net: NetName=NetC162_U_TPSM846C23_template1_2 Pin=U7_U_TPSM846C23_template1-48
+Added Pin To Net: NetName=NetC162_U_TPSM846C23_template1_1 Pin=U7_U_TPSM846C23_template1-49
+Added Pin To Net: NetName=NetC169_U_TPSM846C23_template1_1 Pin=U7_U_TPSM846C23_template1-50
+Added Pin To Net: NetName=NetC169_U_TPSM846C23_template1_2 Pin=U7_U_TPSM846C23_template1-51
+Added Pin To Net: NetName=NetDS3_2 Pin=U7_U_TPSM846C23_template1-52
+Added Pin To Net: NetName=12V Pin=U7_U_TPSM846C23_template1-53
+Added Pin To Net: NetName=GND Pin=U7_U_TPSM846C23_template1-54
+Added Pin To Net: NetName=1V8_PM Pin=U7_U_TPSM846C23_template1-55
+Added Pin To Net: NetName=GND Pin=U7_U_TPSM846C23_template1-56
+Added Pin To Net: NetName=GND Pin=U7_U_TPSM846C23_template1-57
+Added Pin To Net: NetName=GND Pin=U7_U_TPSM846C23_template1-58
+Added Pin To Net: NetName=GND Pin=U7_U_TPSM846C23_template1-59
+Added Pin To Net: NetName=VCORE0 Pin=U7_U_TPSM846C23_template2-4
+Added Pin To Net: NetName=NetRcomp1_U_TPSM846C23_template2_1 Pin=U7_U_TPSM846C23_template2-6
+Added Pin To Net: NetName=NetC172_U_TPSM846C23_template2_2 Pin=U7_U_TPSM846C23_template2-7
+Added Pin To Net: NetName=GND Pin=U7_U_TPSM846C23_template2-10
+Added Pin To Net: NetName=PMBUS_CNTL Pin=U7_U_TPSM846C23_template2-12
+Added Pin To Net: NetName=GND Pin=U7_U_TPSM846C23_template2-14
+Added Pin To Net: NetName=NetR33_2 Pin=U7_U_TPSM846C23_template2-16
+Added Pin To Net: NetName=NetR34_2 Pin=U7_U_TPSM846C23_template2-17
+Added Pin To Net: NetName=PMBUS_SDA Pin=U7_U_TPSM846C23_template2-18
+Added Pin To Net: NetName=PMBUS_SCL Pin=U7_U_TPSM846C23_template2-19
+Added Pin To Net: NetName=ALERT0 Pin=U7_U_TPSM846C23_template2-20
+Added Pin To Net: NetName=NetU7_U_TPSM846C23_template2_22 Pin=U7_U_TPSM846C23_template2-22
+Added Pin To Net: NetName=NetU7_U_TPSM846C23_template2_22 Pin=U7_U_TPSM846C23_template2-23
+Added Pin To Net: NetName=NetU7_U_TPSM846C23_template2_22 Pin=U7_U_TPSM846C23_template2-24
+Added Pin To Net: NetName=NetU7_U_TPSM846C23_template2_22 Pin=U7_U_TPSM846C23_template2-25
+Added Pin To Net: NetName=NetU7_U_TPSM846C23_template2_22 Pin=U7_U_TPSM846C23_template2-26
+Added Pin To Net: NetName=NetU7_U_TPSM846C23_template2_22 Pin=U7_U_TPSM846C23_template2-27
+Added Pin To Net: NetName=NetU7_U_TPSM846C23_template2_22 Pin=U7_U_TPSM846C23_template2-28
+Added Pin To Net: NetName=NetU7_U_TPSM846C23_template2_22 Pin=U7_U_TPSM846C23_template2-29
+Added Pin To Net: NetName=GND Pin=U7_U_TPSM846C23_template2-32
+Added Pin To Net: NetName=GND Pin=U7_U_TPSM846C23_template2-33
+Added Pin To Net: NetName=GND Pin=U7_U_TPSM846C23_template2-34
+Added Pin To Net: NetName=GND Pin=U7_U_TPSM846C23_template2-35
+Added Pin To Net: NetName=GND Pin=U7_U_TPSM846C23_template2-36
+Added Pin To Net: NetName=VCORE0 Pin=U7_U_TPSM846C23_template2-37
+Added Pin To Net: NetName=VCORE0 Pin=U7_U_TPSM846C23_template2-38
+Added Pin To Net: NetName=VCORE0 Pin=U7_U_TPSM846C23_template2-39
+Added Pin To Net: NetName=VCORE0 Pin=U7_U_TPSM846C23_template2-40
+Added Pin To Net: NetName=VCORE0 Pin=U7_U_TPSM846C23_template2-41
+Added Pin To Net: NetName=GND Pin=U7_U_TPSM846C23_template2-42
+Added Pin To Net: NetName=GND Pin=U7_U_TPSM846C23_template2-43
+Added Pin To Net: NetName=12V Pin=U7_U_TPSM846C23_template2-44
+Added Pin To Net: NetName=12V Pin=U7_U_TPSM846C23_template2-45
+Added Pin To Net: NetName=12V Pin=U7_U_TPSM846C23_template2-46
+Added Pin To Net: NetName=NetC171_U_TPSM846C23_template2_2 Pin=U7_U_TPSM846C23_template2-47
+Added Pin To Net: NetName=NetC162_U_TPSM846C23_template2_2 Pin=U7_U_TPSM846C23_template2-48
+Added Pin To Net: NetName=NetC162_U_TPSM846C23_template2_1 Pin=U7_U_TPSM846C23_template2-49
+Added Pin To Net: NetName=NetC169_U_TPSM846C23_template2_1 Pin=U7_U_TPSM846C23_template2-50
+Added Pin To Net: NetName=NetC169_U_TPSM846C23_template2_2 Pin=U7_U_TPSM846C23_template2-51
+Added Pin To Net: NetName=NetDS2_2 Pin=U7_U_TPSM846C23_template2-52
+Added Pin To Net: NetName=12V Pin=U7_U_TPSM846C23_template2-53
+Added Pin To Net: NetName=GND Pin=U7_U_TPSM846C23_template2-54
+Added Pin To Net: NetName=VCORE0 Pin=U7_U_TPSM846C23_template2-55
+Added Pin To Net: NetName=GND Pin=U7_U_TPSM846C23_template2-56
+Added Pin To Net: NetName=GND Pin=U7_U_TPSM846C23_template2-57
+Added Pin To Net: NetName=GND Pin=U7_U_TPSM846C23_template2-58
+Added Pin To Net: NetName=GND Pin=U7_U_TPSM846C23_template2-59
+Added Pin To Net: NetName=VIO Pin=U14-18
+Added Pin To Net: NetName=VIO Pin=U14-21
+Added Pin To Net: NetName=VIO Pin=U14-26
+Added Pin To Net: NetName=VIO Pin=U14-32
+Added Pin To Net: NetName=VIO Pin=U14-38
+Added Pin To Net: NetName=VIO Pin=U14-39
+Added Pin To Net: NetName=VIO Pin=U14-40
+Added Pin To Net: NetName=VCORE Pin=U?-A2
+Added Pin To Net: NetName=GND Pin=U?-A5
+Added Pin To Net: NetName=VIO Pin=U?-A6
+Added Pin To Net: NetName=VCORE Pin=U?-A8
+Added Pin To Net: NetName=GND Pin=U?-A10
+Added Pin To Net: NetName=GND Pin=U?-A13
+Added Pin To Net: NetName=GND Pin=U?-A14
+Added Pin To Net: NetName=GND Pin=U?-A17
+Added Pin To Net: NetName=VCORE Pin=U?-A19
+Added Pin To Net: NetName=VIO Pin=U?-A21
+Added Pin To Net: NetName=GND Pin=U?-A22
+Added Pin To Net: NetName=VCORE Pin=U?-A25
+Added Pin To Net: NetName=VIO Pin=U?-AA1
+Added Pin To Net: NetName=VCORE Pin=U?-AA3
+Added Pin To Net: NetName=VCORE Pin=U?-AA6
+Added Pin To Net: NetName=VCORE Pin=U?-AA7
+Added Pin To Net: NetName=VCORE Pin=U?-AA8
+Added Pin To Net: NetName=VCORE Pin=U?-AA9
+Added Pin To Net: NetName=VCORE Pin=U?-AA10
+Added Pin To Net: NetName=VCORE Pin=U?-AA11
+Added Pin To Net: NetName=VCORE Pin=U?-AA12
+Added Pin To Net: NetName=VCORE Pin=U?-AA13
+Added Pin To Net: NetName=VCORE Pin=U?-AA14
+Added Pin To Net: NetName=VCORE Pin=U?-AA15
+Added Pin To Net: NetName=VCORE Pin=U?-AA16
+Added Pin To Net: NetName=VCORE Pin=U?-AA17
+Added Pin To Net: NetName=VCORE Pin=U?-AA18
+Added Pin To Net: NetName=VCORE Pin=U?-AA19
+Added Pin To Net: NetName=VCORE Pin=U?-AA20
+Added Pin To Net: NetName=VCORE Pin=U?-AA21
+Added Pin To Net: NetName=VCORE Pin=U?-AA24
+Added Pin To Net: NetName=VIO Pin=U?-AA26
+Added Pin To Net: NetName=GND Pin=U?-AB1
+Added Pin To Net: NetName=GND Pin=U?-AB5
+Added Pin To Net: NetName=VCORE Pin=U?-AB11
+Added Pin To Net: NetName=VCORE Pin=U?-AB16
+Added Pin To Net: NetName=GND Pin=U?-AB22
+Added Pin To Net: NetName=GND Pin=U?-AB26
+Added Pin To Net: NetName=GND Pin=U?-AC4
+Added Pin To Net: NetName=GND Pin=U?-AC9
+Added Pin To Net: NetName=GND Pin=U?-AC18
+Added Pin To Net: NetName=GND Pin=U?-AC23
+Added Pin To Net: NetName=GND Pin=U?-AD2
+Added Pin To Net: NetName=VIO Pin=U?-AD3
+Added Pin To Net: NetName=VCORE Pin=U?-AD6
+Added Pin To Net: NetName=GND Pin=U?-AD7
+Added Pin To Net: NetName=VIO Pin=U?-AD11
+Added Pin To Net: NetName=VIO Pin=U?-AD12
+Added Pin To Net: NetName=VCORE Pin=U?-AD13
+Added Pin To Net: NetName=VCORE Pin=U?-AD14
+Added Pin To Net: NetName=VIO Pin=U?-AD15
+Added Pin To Net: NetName=VIO Pin=U?-AD16
+Added Pin To Net: NetName=GND Pin=U?-AD20
+Added Pin To Net: NetName=VCORE Pin=U?-AD21
+Added Pin To Net: NetName=VIO Pin=U?-AD24
+Added Pin To Net: NetName=GND Pin=U?-AD25
+Added Pin To Net: NetName=VCORE Pin=U?-AE1
+Added Pin To Net: NetName=VIO Pin=U?-AE2
+Added Pin To Net: NetName=GND Pin=U?-AE15
+Added Pin To Net: NetName=GND Pin=U?-AE16
+Added Pin To Net: NetName=GND Pin=U?-AE24
+Added Pin To Net: NetName=VIO Pin=U?-AE25
+Added Pin To Net: NetName=VCORE Pin=U?-AE26
+Added Pin To Net: NetName=VCORE Pin=U?-AF2
+Added Pin To Net: NetName=VIO Pin=U?-AF6
+Added Pin To Net: NetName=VCORE Pin=U?-AF8
+Added Pin To Net: NetName=GND Pin=U?-AF14
+Added Pin To Net: NetName=GND Pin=U?-AF17
+Added Pin To Net: NetName=VCORE Pin=U?-AF19
+Added Pin To Net: NetName=VIO Pin=U?-AF21
+Added Pin To Net: NetName=GND Pin=U?-AF22
+Added Pin To Net: NetName=VCORE Pin=U?-AF25
+Added Pin To Net: NetName=VCORE Pin=U?-B1
+Added Pin To Net: NetName=VIO Pin=U?-B2
+Added Pin To Net: NetName=GND Pin=U?-B3
+Added Pin To Net: NetName=GND Pin=U?-B11
+Added Pin To Net: NetName=GND Pin=U?-B12
+Added Pin To Net: NetName=GND Pin=U?-B15
+Added Pin To Net: NetName=GND Pin=U?-B16
+Added Pin To Net: NetName=GND Pin=U?-B24
+Added Pin To Net: NetName=VIO Pin=U?-B25
+Added Pin To Net: NetName=VCORE Pin=U?-B26
+Added Pin To Net: NetName=GND Pin=U?-C2
+Added Pin To Net: NetName=VIO Pin=U?-C3
+Added Pin To Net: NetName=VCORE Pin=U?-C6
+Added Pin To Net: NetName=GND Pin=U?-C7
+Added Pin To Net: NetName=VIO Pin=U?-C11
+Added Pin To Net: NetName=VIO Pin=U?-C12
+Added Pin To Net: NetName=VCORE Pin=U?-C13
+Added Pin To Net: NetName=VCORE Pin=U?-C14
+Added Pin To Net: NetName=VIO Pin=U?-C15
+Added Pin To Net: NetName=VIO Pin=U?-C16
+Added Pin To Net: NetName=GND Pin=U?-C20
+Added Pin To Net: NetName=VCORE Pin=U?-C21
+Added Pin To Net: NetName=VIO Pin=U?-C24
+Added Pin To Net: NetName=GND Pin=U?-C25
+Added Pin To Net: NetName=GND Pin=U?-D4
+Added Pin To Net: NetName=GND Pin=U?-D9
+Added Pin To Net: NetName=GND Pin=U?-D18
+Added Pin To Net: NetName=GND Pin=U?-D23
+Added Pin To Net: NetName=GND Pin=U?-E1
+Added Pin To Net: NetName=GND Pin=U?-E5
+Added Pin To Net: NetName=VCORE Pin=U?-E11
+Added Pin To Net: NetName=VCORE Pin=U?-E16
+Added Pin To Net: NetName=GND Pin=U?-E22
+Added Pin To Net: NetName=SOM_RESET_IN_N Pin=U?-E25
+Added Pin To Net: NetName=GND Pin=U?-E26
+Added Pin To Net: NetName=VIO Pin=U?-F1
+Added Pin To Net: NetName=VCORE Pin=U?-F3
+Added Pin To Net: NetName=VCORE Pin=U?-F6
+Added Pin To Net: NetName=VCORE Pin=U?-F7
+Added Pin To Net: NetName=VCORE Pin=U?-F8
+Added Pin To Net: NetName=VCORE Pin=U?-F9
+Added Pin To Net: NetName=VCORE Pin=U?-F10
+Added Pin To Net: NetName=VCORE Pin=U?-F11
+Added Pin To Net: NetName=VCORE Pin=U?-F12
+Added Pin To Net: NetName=VCORE Pin=U?-F13
+Added Pin To Net: NetName=VCORE Pin=U?-F14
+Added Pin To Net: NetName=VCORE Pin=U?-F15
+Added Pin To Net: NetName=VCORE Pin=U?-F16
+Added Pin To Net: NetName=VCORE Pin=U?-F17
+Added Pin To Net: NetName=VCORE Pin=U?-F18
+Added Pin To Net: NetName=VCORE Pin=U?-F19
+Added Pin To Net: NetName=VCORE Pin=U?-F20
+Added Pin To Net: NetName=VCORE Pin=U?-F21
+Added Pin To Net: NetName=VCORE Pin=U?-F24
+Added Pin To Net: NetName=VIO Pin=U?-F26
+Added Pin To Net: NetName=GND Pin=U?-G3
+Added Pin To Net: NetName=GND Pin=U?-G6
+Added Pin To Net: NetName=GND Pin=U?-G7
+Added Pin To Net: NetName=GND Pin=U?-G8
+Added Pin To Net: NetName=GND Pin=U?-G9
+Added Pin To Net: NetName=GND Pin=U?-G10
+Added Pin To Net: NetName=GND Pin=U?-G11
+Added Pin To Net: NetName=GND Pin=U?-G12
+Added Pin To Net: NetName=GND Pin=U?-G13
+Added Pin To Net: NetName=GND Pin=U?-G14
+Added Pin To Net: NetName=GND Pin=U?-G15
+Added Pin To Net: NetName=GND Pin=U?-G16
+Added Pin To Net: NetName=GND Pin=U?-G17
+Added Pin To Net: NetName=GND Pin=U?-G18
+Added Pin To Net: NetName=GND Pin=U?-G19
+Added Pin To Net: NetName=GND Pin=U?-G20
+Added Pin To Net: NetName=GND Pin=U?-G21
+Added Pin To Net: NetName=GND Pin=U?-G24
+Added Pin To Net: NetName=VCORE Pin=U?-H1
+Added Pin To Net: NetName=VCORE Pin=U?-H6
+Added Pin To Net: NetName=VCORE Pin=U?-H7
+Added Pin To Net: NetName=VCORE Pin=U?-H8
+Added Pin To Net: NetName=VCORE Pin=U?-H9
+Added Pin To Net: NetName=VCORE Pin=U?-H10
+Added Pin To Net: NetName=VCORE Pin=U?-H11
+Added Pin To Net: NetName=VCORE Pin=U?-H12
+Added Pin To Net: NetName=VCORE Pin=U?-H13
+Added Pin To Net: NetName=VCORE Pin=U?-H14
+Added Pin To Net: NetName=VCORE Pin=U?-H15
+Added Pin To Net: NetName=VCORE Pin=U?-H16
+Added Pin To Net: NetName=VCORE Pin=U?-H17
+Added Pin To Net: NetName=VCORE Pin=U?-H18
+Added Pin To Net: NetName=VCORE Pin=U?-H19
+Added Pin To Net: NetName=VCORE Pin=U?-H20
+Added Pin To Net: NetName=VCORE Pin=U?-H21
+Added Pin To Net: NetName=VCORE Pin=U?-H26
+Added Pin To Net: NetName=GND Pin=U?-J4
+Added Pin To Net: NetName=GND Pin=U?-J6
+Added Pin To Net: NetName=GND Pin=U?-J7
+Added Pin To Net: NetName=GND Pin=U?-J8
+Added Pin To Net: NetName=GND Pin=U?-J9
+Added Pin To Net: NetName=GND Pin=U?-J10
+Added Pin To Net: NetName=GND Pin=U?-J11
+Added Pin To Net: NetName=GND Pin=U?-J12
+Added Pin To Net: NetName=GND Pin=U?-J13
+Added Pin To Net: NetName=GND Pin=U?-J14
+Added Pin To Net: NetName=GND Pin=U?-J15
+Added Pin To Net: NetName=GND Pin=U?-J16
+Added Pin To Net: NetName=GND Pin=U?-J17
+Added Pin To Net: NetName=GND Pin=U?-J18
+Added Pin To Net: NetName=GND Pin=U?-J19
+Added Pin To Net: NetName=GND Pin=U?-J20
+Added Pin To Net: NetName=GND Pin=U?-J21
+Added Pin To Net: NetName=GND Pin=U?-J23
+Added Pin To Net: NetName=GND Pin=U?-K1
+Added Pin To Net: NetName=VCORE Pin=U?-K6
+Added Pin To Net: NetName=VCORE Pin=U?-K7
+Added Pin To Net: NetName=VCORE Pin=U?-K8
+Added Pin To Net: NetName=VCORE Pin=U?-K9
+Added Pin To Net: NetName=VCORE Pin=U?-K10
+Added Pin To Net: NetName=VCORE Pin=U?-K11
+Added Pin To Net: NetName=VCORE Pin=U?-K12
+Added Pin To Net: NetName=VCORE Pin=U?-K13
+Added Pin To Net: NetName=VCORE Pin=U?-K14
+Added Pin To Net: NetName=VCORE Pin=U?-K15
+Added Pin To Net: NetName=VCORE Pin=U?-K16
+Added Pin To Net: NetName=VCORE Pin=U?-K17
+Added Pin To Net: NetName=VCORE Pin=U?-K18
+Added Pin To Net: NetName=VCORE Pin=U?-K19
+Added Pin To Net: NetName=VCORE Pin=U?-K20
+Added Pin To Net: NetName=VCORE Pin=U?-K21
+Added Pin To Net: NetName=GND Pin=U?-K26
+Added Pin To Net: NetName=GND Pin=U?-L2
+Added Pin To Net: NetName=VIO Pin=U?-L3
+Added Pin To Net: NetName=VCORE Pin=U?-L5
+Added Pin To Net: NetName=GND Pin=U?-L6
+Added Pin To Net: NetName=GND Pin=U?-L7
+Added Pin To Net: NetName=GND Pin=U?-L8
+Added Pin To Net: NetName=GND Pin=U?-L9
+Added Pin To Net: NetName=GND Pin=U?-L10
+Added Pin To Net: NetName=GND Pin=U?-L11
+Added Pin To Net: NetName=GND Pin=U?-L12
+Added Pin To Net: NetName=GND Pin=U?-L13
+Added Pin To Net: NetName=GND Pin=U?-L14
+Added Pin To Net: NetName=GND Pin=U?-L15
+Added Pin To Net: NetName=GND Pin=U?-L16
+Added Pin To Net: NetName=GND Pin=U?-L17
+Added Pin To Net: NetName=GND Pin=U?-L18
+Added Pin To Net: NetName=GND Pin=U?-L19
+Added Pin To Net: NetName=GND Pin=U?-L20
+Added Pin To Net: NetName=GND Pin=U?-L21
+Added Pin To Net: NetName=VCORE Pin=U?-L22
+Added Pin To Net: NetName=VIO Pin=U?-L24
+Added Pin To Net: NetName=GND Pin=U?-L25
+Added Pin To Net: NetName=GND Pin=U?-M2
+Added Pin To Net: NetName=VIO Pin=U?-M3
+Added Pin To Net: NetName=VCORE Pin=U?-M6
+Added Pin To Net: NetName=VCORE Pin=U?-M7
+Added Pin To Net: NetName=VCORE Pin=U?-M8
+Added Pin To Net: NetName=VCORE Pin=U?-M9
+Added Pin To Net: NetName=VCORE Pin=U?-M10
+Added Pin To Net: NetName=VCORE Pin=U?-M11
+Added Pin To Net: NetName=VCORE Pin=U?-M12
+Added Pin To Net: NetName=VCORE Pin=U?-M13
+Added Pin To Net: NetName=VCORE Pin=U?-M14
+Added Pin To Net: NetName=VCORE Pin=U?-M15
+Added Pin To Net: NetName=VCORE Pin=U?-M16
+Added Pin To Net: NetName=VCORE Pin=U?-M17
+Added Pin To Net: NetName=VCORE Pin=U?-M18
+Added Pin To Net: NetName=VCORE Pin=U?-M19
+Added Pin To Net: NetName=VCORE Pin=U?-M20
+Added Pin To Net: NetName=VCORE Pin=U?-M21
+Added Pin To Net: NetName=VIO Pin=U?-M24
+Added Pin To Net: NetName=GND Pin=U?-M25
+Added Pin To Net: NetName=GND Pin=U?-N1
+Added Pin To Net: NetName=VCORE Pin=U?-N3
+Added Pin To Net: NetName=GND Pin=U?-N6
+Added Pin To Net: NetName=GND Pin=U?-N7
+Added Pin To Net: NetName=GND Pin=U?-N8
+Added Pin To Net: NetName=GND Pin=U?-N9
+Added Pin To Net: NetName=GND Pin=U?-N10
+Added Pin To Net: NetName=GND Pin=U?-N11
+Added Pin To Net: NetName=GND Pin=U?-N12
+Added Pin To Net: NetName=GND Pin=U?-N13
+Added Pin To Net: NetName=GND Pin=U?-N14
+Added Pin To Net: NetName=GND Pin=U?-N15
+Added Pin To Net: NetName=GND Pin=U?-N16
+Added Pin To Net: NetName=GND Pin=U?-N17
+Added Pin To Net: NetName=GND Pin=U?-N18
+Added Pin To Net: NetName=GND Pin=U?-N19
+Added Pin To Net: NetName=GND Pin=U?-N20
+Added Pin To Net: NetName=GND Pin=U?-N21
+Added Pin To Net: NetName=VCORE Pin=U?-N24
+Added Pin To Net: NetName=GND Pin=U?-N26
+Added Pin To Net: NetName=GND Pin=U?-P1
+Added Pin To Net: NetName=VCORE Pin=U?-P3
+Added Pin To Net: NetName=GND Pin=U?-P6
+Added Pin To Net: NetName=GND Pin=U?-P7
+Added Pin To Net: NetName=GND Pin=U?-P8
+Added Pin To Net: NetName=GND Pin=U?-P9
+Added Pin To Net: NetName=GND Pin=U?-P10
+Added Pin To Net: NetName=GND Pin=U?-P11
+Added Pin To Net: NetName=GND Pin=U?-P12
+Added Pin To Net: NetName=GND Pin=U?-P13
+Added Pin To Net: NetName=GND Pin=U?-P14
+Added Pin To Net: NetName=GND Pin=U?-P15
+Added Pin To Net: NetName=GND Pin=U?-P16
+Added Pin To Net: NetName=GND Pin=U?-P17
+Added Pin To Net: NetName=GND Pin=U?-P18
+Added Pin To Net: NetName=GND Pin=U?-P19
+Added Pin To Net: NetName=GND Pin=U?-P20
+Added Pin To Net: NetName=GND Pin=U?-P21
+Added Pin To Net: NetName=VCORE Pin=U?-P24
+Added Pin To Net: NetName=GND Pin=U?-P26
+Added Pin To Net: NetName=GND Pin=U?-R2
+Added Pin To Net: NetName=VIO Pin=U?-R3
+Added Pin To Net: NetName=VCORE Pin=U?-R6
+Added Pin To Net: NetName=VCORE Pin=U?-R7
+Added Pin To Net: NetName=VCORE Pin=U?-R8
+Added Pin To Net: NetName=VCORE Pin=U?-R9
+Added Pin To Net: NetName=VCORE Pin=U?-R10
+Added Pin To Net: NetName=VCORE Pin=U?-R11
+Added Pin To Net: NetName=VCORE Pin=U?-R12
+Added Pin To Net: NetName=VCORE Pin=U?-R13
+Added Pin To Net: NetName=VCORE Pin=U?-R14
+Added Pin To Net: NetName=VCORE Pin=U?-R15
+Added Pin To Net: NetName=VCORE Pin=U?-R16
+Added Pin To Net: NetName=VCORE Pin=U?-R17
+Added Pin To Net: NetName=VCORE Pin=U?-R18
+Added Pin To Net: NetName=VCORE Pin=U?-R19
+Added Pin To Net: NetName=VCORE Pin=U?-R20
+Added Pin To Net: NetName=VCORE Pin=U?-R21
+Added Pin To Net: NetName=VIO Pin=U?-R24
+Added Pin To Net: NetName=GND Pin=U?-R25
+Added Pin To Net: NetName=GND Pin=U?-T2
+Added Pin To Net: NetName=VIO Pin=U?-T3
+Added Pin To Net: NetName=VCORE Pin=U?-T5
+Added Pin To Net: NetName=GND Pin=U?-T6
+Added Pin To Net: NetName=GND Pin=U?-T7
+Added Pin To Net: NetName=GND Pin=U?-T8
+Added Pin To Net: NetName=GND Pin=U?-T9
+Added Pin To Net: NetName=GND Pin=U?-T10
+Added Pin To Net: NetName=GND Pin=U?-T11
+Added Pin To Net: NetName=GND Pin=U?-T12
+Added Pin To Net: NetName=GND Pin=U?-T13
+Added Pin To Net: NetName=GND Pin=U?-T14
+Added Pin To Net: NetName=GND Pin=U?-T15
+Added Pin To Net: NetName=GND Pin=U?-T16
+Added Pin To Net: NetName=GND Pin=U?-T17
+Added Pin To Net: NetName=GND Pin=U?-T18
+Added Pin To Net: NetName=GND Pin=U?-T19
+Added Pin To Net: NetName=GND Pin=U?-T20
+Added Pin To Net: NetName=GND Pin=U?-T21
+Added Pin To Net: NetName=VCORE Pin=U?-T22
+Added Pin To Net: NetName=VIO Pin=U?-T24
+Added Pin To Net: NetName=GND Pin=U?-T25
+Added Pin To Net: NetName=GND Pin=U?-U1
+Added Pin To Net: NetName=VCORE Pin=U?-U6
+Added Pin To Net: NetName=VCORE Pin=U?-U7
+Added Pin To Net: NetName=VCORE Pin=U?-U8
+Added Pin To Net: NetName=VCORE Pin=U?-U9
+Added Pin To Net: NetName=VCORE Pin=U?-U10
+Added Pin To Net: NetName=VCORE Pin=U?-U11
+Added Pin To Net: NetName=VCORE Pin=U?-U12
+Added Pin To Net: NetName=VCORE Pin=U?-U13
+Added Pin To Net: NetName=VCORE Pin=U?-U14
+Added Pin To Net: NetName=VCORE Pin=U?-U15
+Added Pin To Net: NetName=VCORE Pin=U?-U16
+Added Pin To Net: NetName=VCORE Pin=U?-U17
+Added Pin To Net: NetName=VCORE Pin=U?-U18
+Added Pin To Net: NetName=VCORE Pin=U?-U19
+Added Pin To Net: NetName=VCORE Pin=U?-U20
+Added Pin To Net: NetName=VCORE Pin=U?-U21
+Added Pin To Net: NetName=GND Pin=U?-U26
+Added Pin To Net: NetName=GND Pin=U?-V4
+Added Pin To Net: NetName=GND Pin=U?-V6
+Added Pin To Net: NetName=GND Pin=U?-V7
+Added Pin To Net: NetName=GND Pin=U?-V8
+Added Pin To Net: NetName=GND Pin=U?-V9
+Added Pin To Net: NetName=GND Pin=U?-V10
+Added Pin To Net: NetName=GND Pin=U?-V11
+Added Pin To Net: NetName=GND Pin=U?-V12
+Added Pin To Net: NetName=GND Pin=U?-V13
+Added Pin To Net: NetName=GND Pin=U?-V14
+Added Pin To Net: NetName=GND Pin=U?-V15
+Added Pin To Net: NetName=GND Pin=U?-V16
+Added Pin To Net: NetName=GND Pin=U?-V17
+Added Pin To Net: NetName=GND Pin=U?-V18
+Added Pin To Net: NetName=GND Pin=U?-V19
+Added Pin To Net: NetName=GND Pin=U?-V20
+Added Pin To Net: NetName=GND Pin=U?-V21
+Added Pin To Net: NetName=GND Pin=U?-V23
+Added Pin To Net: NetName=VCORE Pin=U?-W1
+Added Pin To Net: NetName=VCORE Pin=U?-W6
+Added Pin To Net: NetName=VCORE Pin=U?-W7
+Added Pin To Net: NetName=VCORE Pin=U?-W8
+Added Pin To Net: NetName=VCORE Pin=U?-W9
+Added Pin To Net: NetName=VCORE Pin=U?-W10
+Added Pin To Net: NetName=VCORE Pin=U?-W11
+Added Pin To Net: NetName=VCORE Pin=U?-W12
+Added Pin To Net: NetName=VCORE Pin=U?-W13
+Added Pin To Net: NetName=VCORE Pin=U?-W14
+Added Pin To Net: NetName=VCORE Pin=U?-W15
+Added Pin To Net: NetName=VCORE Pin=U?-W16
+Added Pin To Net: NetName=VCORE Pin=U?-W17
+Added Pin To Net: NetName=VCORE Pin=U?-W18
+Added Pin To Net: NetName=VCORE Pin=U?-W19
+Added Pin To Net: NetName=VCORE Pin=U?-W20
+Added Pin To Net: NetName=VCORE Pin=U?-W21
+Added Pin To Net: NetName=VCORE Pin=U?-W26
+Added Pin To Net: NetName=GND Pin=U?-Y3
+Added Pin To Net: NetName=GND Pin=U?-Y6
+Added Pin To Net: NetName=GND Pin=U?-Y7
+Added Pin To Net: NetName=GND Pin=U?-Y8
+Added Pin To Net: NetName=GND Pin=U?-Y9
+Added Pin To Net: NetName=GND Pin=U?-Y10
+Added Pin To Net: NetName=GND Pin=U?-Y11
+Added Pin To Net: NetName=GND Pin=U?-Y12
+Added Pin To Net: NetName=GND Pin=U?-Y13
+Added Pin To Net: NetName=GND Pin=U?-Y14
+Added Pin To Net: NetName=GND Pin=U?-Y15
+Added Pin To Net: NetName=GND Pin=U?-Y16
+Added Pin To Net: NetName=GND Pin=U?-Y17
+Added Pin To Net: NetName=GND Pin=U?-Y18
+Added Pin To Net: NetName=GND Pin=U?-Y19
+Added Pin To Net: NetName=GND Pin=U?-Y20
+Added Pin To Net: NetName=GND Pin=U?-Y21
+Added Pin To Net: NetName=GND Pin=U?-Y24
+Change Net Name : Old Net Name=NetJ9_93 New Net Name=tlx_rev_payload_tdata44
+Change Net Name : Old Net Name=NetJ9_122 New Net Name=tlx_rev_payload_tdata66
+Change Net Name : Old Net Name=NetJ9_135 New Net Name=tlx_rev_payload_tdata77
+Change Net Name : Old Net Name=NetJ15_129 New Net Name=fpga_i2c_sda
+Change Net Name : Old Net Name=NetJ15_131 New Net Name=fpga_i2c_scl
+Change Net Name : Old Net Name=POT_SCL New Net Name=SHARED_SDA
+Change Net Name : Old Net Name=POT_SDA New Net Name=SHARED_SCL
+Change Net Name : Old Net Name=SOM_RESET_IN_N New Net Name=poresetn
+Change Net Name : Old Net Name=VCORE New Net Name=0V8
+Change Net Name : Old Net Name=VIO New Net Name=1V8
+Added Pin To Net: NetName=1V8_EXT Pin=B?-1
+Added Pin To Net: NetName=1V8_EXT Pin=B?-2
+Added Pin To Net: NetName=1V8_EXT Pin=S?-3
+Added Pin To Net: NetName=1V8_EXT Pin=S?-3
+Added Pin To Net: NetName=1V8_EXT Pin=S?-6
+Added Pin To Net: NetName=1V8_EXT Pin=S?-6
+Added Net: Name=1V8_EXT
+Added Pin To Net: NetName=1V8_PSM Pin=S?-2
+Added Pin To Net: NetName=1V8_PSM Pin=S?-5
+Added Net: Name=1V8_PSM
+Added Pin To Net: NetName=cgra_clk Pin=J?-1
+Added Net: Name=cgra_clk
+Added Pin To Net: NetName=cgra_jtag_tck Pin=J?-7
+Added Pin To Net: NetName=cgra_jtag_tck Pin=U?-H23
+Added Net: Name=cgra_jtag_tck
+Added Pin To Net: NetName=cgra_jtag_tdi Pin=J?-9
+Added Pin To Net: NetName=cgra_jtag_tdi Pin=U?-G26
+Added Net: Name=cgra_jtag_tdi
+Added Pin To Net: NetName=cgra_jtag_tdo Pin=J?-8
+Added Pin To Net: NetName=cgra_jtag_tdo Pin=U?-F25
+Added Net: Name=cgra_jtag_tdo
+Added Pin To Net: NetName=cgra_jtag_tms Pin=J?-5
+Added Pin To Net: NetName=cgra_jtag_tms Pin=U?-G25
+Added Net: Name=cgra_jtag_tms
+Added Pin To Net: NetName=cgra_jtag_trstn Pin=J?-6
+Added Pin To Net: NetName=cgra_jtag_trstn Pin=U?-G23
+Added Net: Name=cgra_jtag_trstn
+Added Pin To Net: NetName=dp_jtag_tck Pin=J?-7
+Added Pin To Net: NetName=dp_jtag_tck Pin=U?-J24
+Added Net: Name=dp_jtag_tck
+Added Pin To Net: NetName=dp_jtag_tdi Pin=J?-9
+Added Pin To Net: NetName=dp_jtag_tdi Pin=U?-J26
+Added Net: Name=dp_jtag_tdi
+Added Pin To Net: NetName=dp_jtag_tdo Pin=J?-8
+Added Pin To Net: NetName=dp_jtag_tdo Pin=U?-H25
+Added Net: Name=dp_jtag_tdo
+Added Pin To Net: NetName=dp_jtag_tms Pin=J?-5
+Added Pin To Net: NetName=dp_jtag_tms Pin=U?-J25
+Added Net: Name=dp_jtag_tms
+Added Pin To Net: NetName=dp_jtag_trstn Pin=J?-6
+Added Pin To Net: NetName=dp_jtag_trstn Pin=U?-H24
+Added Net: Name=dp_jtag_trstn
+Added Pin To Net: NetName=ext_dump_start Pin=U?-A4
+Added Net: Name=ext_dump_start
+Added Pin To Net: NetName=ext_rstb Pin=U?-B5
+Added Net: Name=ext_rstb
+Added Pin To Net: NetName=freq_lvl_cross Pin=U?-C5
+Added Net: Name=freq_lvl_cross
+Added Pin To Net: NetName=GTR_REFCLK0_N Pin=J8-40
+Added Net: Name=GTR_REFCLK0_N
+Added Pin To Net: NetName=GTR_REFCLK0_P Pin=J8-38
+Added Net: Name=GTR_REFCLK0_P
+Added Pin To Net: NetName=jtag_intf_i_phy_tck Pin=U?-A9
+Added Net: Name=jtag_intf_i_phy_tck
+Added Pin To Net: NetName=jtag_intf_i_phy_tdi Pin=U?-B8
+Added Net: Name=jtag_intf_i_phy_tdi
+Added Pin To Net: NetName=jtag_intf_i_phy_tdo Pin=U?-A7
+Added Net: Name=jtag_intf_i_phy_tdo
+Added Pin To Net: NetName=jtag_intf_i_phy_tms Pin=U?-B7
+Added Net: Name=jtag_intf_i_phy_tms
+Added Pin To Net: NetName=jtag_intf_i_phy_trst_n Pin=U?-B6
+Added Net: Name=jtag_intf_i_phy_trst_n
+Added Pin To Net: NetName=loop_back_select0 Pin=J?-10
+Added Pin To Net: NetName=loop_back_select0 Pin=U?-E23
+Added Net: Name=loop_back_select0
+Added Pin To Net: NetName=loop_back_select1 Pin=J?-8
+Added Pin To Net: NetName=loop_back_select1 Pin=U?-D25
+Added Net: Name=loop_back_select1
+Added Pin To Net: NetName=loop_back_select2 Pin=J?-6
+Added Pin To Net: NetName=loop_back_select2 Pin=U?-D24
+Added Net: Name=loop_back_select2
+Added Pin To Net: NetName=loop_back_select3 Pin=J?-4
+Added Pin To Net: NetName=loop_back_select3 Pin=U?-C23
+Added Net: Name=loop_back_select3
+Added Pin To Net: NetName=loop_back Pin=J?-2
+Added Pin To Net: NetName=loop_back Pin=U?-E24
+Added Net: Name=loop_back
+Added Pin To Net: NetName=NetJ?_1 Pin=J?-1
+Added Pin To Net: NetName=NetJ?_1 Pin=R?-2
+Added Net: Name=NetJ?_1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-2
+Added Net: Name=NetR?_1
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=U14-20
+Added Net: Name=NetR?_2
+Added Pin To Net: NetName=NetRPI_P_1 Pin=RPI_P-1
+Added Net: Name=NetRPI_P_1
+Added Pin To Net: NetName=NetRPI_P_2 Pin=RPI_P-2
+Added Net: Name=NetRPI_P_2
+Added Pin To Net: NetName=NetRPI_P_4 Pin=RPI_P-4
+Added Net: Name=NetRPI_P_4
+Added Pin To Net: NetName=NetRPI_P_5 Pin=RPI_P-5
+Added Net: Name=NetRPI_P_5
+Added Pin To Net: NetName=NetRPI_P_6 Pin=RPI_P-6
+Added Net: Name=NetRPI_P_6
+Added Pin To Net: NetName=NetRPI_P_7 Pin=RPI_P-7
+Added Net: Name=NetRPI_P_7
+Added Pin To Net: NetName=NetRPI_P_9 Pin=RPI_P-9
+Added Net: Name=NetRPI_P_9
+Added Pin To Net: NetName=NetRPI_P_10 Pin=RPI_P-10
+Added Net: Name=NetRPI_P_10
+Added Pin To Net: NetName=NetRPI_P_11 Pin=RPI_P-11
+Added Net: Name=NetRPI_P_11
+Added Pin To Net: NetName=NetRPI_P_12 Pin=RPI_P-12
+Added Net: Name=NetRPI_P_12
+Added Pin To Net: NetName=NetRPI_P_14 Pin=RPI_P-14
+Added Net: Name=NetRPI_P_14
+Added Pin To Net: NetName=NetRPI_P_15 Pin=RPI_P-15
+Added Net: Name=NetRPI_P_15
+Added Pin To Net: NetName=NetRPI_P_16 Pin=RPI_P-16
+Added Net: Name=NetRPI_P_16
+Added Pin To Net: NetName=NetRPI_P_17 Pin=RPI_P-17
+Added Net: Name=NetRPI_P_17
+Added Pin To Net: NetName=NetRPI_P_19 Pin=RPI_P-19
+Added Net: Name=NetRPI_P_19
+Added Pin To Net: NetName=NetRPI_P_20 Pin=RPI_P-20
+Added Net: Name=NetRPI_P_20
+Added Pin To Net: NetName=NetRPI_P_21 Pin=RPI_P-21
+Added Net: Name=NetRPI_P_21
+Added Pin To Net: NetName=NetRPI_P_22 Pin=RPI_P-22
+Added Net: Name=NetRPI_P_22
+Added Pin To Net: NetName=NetRPI_P_24 Pin=RPI_P-24
+Added Net: Name=NetRPI_P_24
+Added Pin To Net: NetName=NetRPI_P_25 Pin=RPI_P-25
+Added Net: Name=NetRPI_P_25
+Added Pin To Net: NetName=NetRPI_P_26 Pin=RPI_P-26
+Added Net: Name=NetRPI_P_26
+Added Pin To Net: NetName=NetRPI_P_27 Pin=RPI_P-27
+Added Net: Name=NetRPI_P_27
+Added Pin To Net: NetName=NetRPI_P_29 Pin=RPI_P-29
+Added Net: Name=NetRPI_P_29
+Added Pin To Net: NetName=NetRPI_P_31 Pin=RPI_P-31
+Added Net: Name=NetRPI_P_31
+Added Pin To Net: NetName=NetRPI_P_32 Pin=RPI_P-32
+Added Net: Name=NetRPI_P_32
+Added Pin To Net: NetName=NetRPI_P_34 Pin=RPI_P-34
+Added Net: Name=NetRPI_P_34
+Added Pin To Net: NetName=NetRPI_P_35 Pin=RPI_P-35
+Added Net: Name=NetRPI_P_35
+Added Pin To Net: NetName=NetRPI_P_36 Pin=RPI_P-36
+Added Net: Name=NetRPI_P_36
+Added Pin To Net: NetName=NetRPI_P_37 Pin=RPI_P-37
+Added Net: Name=NetRPI_P_37
+Added Pin To Net: NetName=NetRPI_P_39 Pin=RPI_P-39
+Added Net: Name=NetRPI_P_39
+Added Pin To Net: NetName=NetRPI_P_40 Pin=RPI_P-40
+Added Net: Name=NetRPI_P_40
+Added Pin To Net: NetName=NetU?_AE3 Pin=U?-AE3
+Added Pin To Net: NetName=NetU?_AE3 Pin=U?-AE11
+Added Pin To Net: NetName=NetU?_AE3 Pin=U?-AE12
+Added Pin To Net: NetName=NetU?_AE3 Pin=U?-AF5
+Added Pin To Net: NetName=NetU?_AE3 Pin=U?-AF10
+Added Pin To Net: NetName=NetU?_AE3 Pin=U?-AF13
+Added Net: Name=NetU?_AE3
+Added Pin To Net: NetName=ramp_clock Pin=U?-B4
+Added Net: Name=ramp_clock
+Added Pin To Net: NetName=tlx_fwd_clk Pin=J15-104
+Added Pin To Net: NetName=tlx_fwd_clk Pin=U?-AD26
+Added Net: Name=tlx_fwd_clk
+Added Pin To Net: NetName=tlx_fwd_flow_tdata0 Pin=J15-117
+Added Pin To Net: NetName=tlx_fwd_flow_tdata0 Pin=U?-K24
+Added Net: Name=tlx_fwd_flow_tdata0
+Added Pin To Net: NetName=tlx_fwd_flow_tdata1 Pin=J15-119
+Added Pin To Net: NetName=tlx_fwd_flow_tdata1 Pin=U?-K25
+Added Net: Name=tlx_fwd_flow_tdata1
+Added Pin To Net: NetName=tlx_fwd_flow_tready Pin=J15-118
+Added Pin To Net: NetName=tlx_fwd_flow_tready Pin=U?-L26
+Added Net: Name=tlx_fwd_flow_tready
+Added Pin To Net: NetName=tlx_fwd_flow_tvalid Pin=J15-116
+Added Pin To Net: NetName=tlx_fwd_flow_tvalid Pin=U?-L23
+Added Net: Name=tlx_fwd_flow_tvalid
+Added Pin To Net: NetName=tlx_fwd_payload_tdata0 Pin=J15-45
+Added Pin To Net: NetName=tlx_fwd_payload_tdata0 Pin=U?-AC11
+Added Net: Name=tlx_fwd_payload_tdata0
+Added Pin To Net: NetName=tlx_fwd_payload_tdata1 Pin=J15-47
+Added Pin To Net: NetName=tlx_fwd_payload_tdata1 Pin=U?-AF11
+Added Net: Name=tlx_fwd_payload_tdata1
+Added Pin To Net: NetName=tlx_fwd_payload_tdata2 Pin=J15-44
+Added Pin To Net: NetName=tlx_fwd_payload_tdata2 Pin=U?-AC10
+Added Net: Name=tlx_fwd_payload_tdata2
+Added Pin To Net: NetName=tlx_fwd_payload_tdata3 Pin=J15-46
+Added Pin To Net: NetName=tlx_fwd_payload_tdata3 Pin=U?-AE10
+Added Net: Name=tlx_fwd_payload_tdata3
+Added Pin To Net: NetName=tlx_fwd_payload_tdata4 Pin=J15-51
+Added Pin To Net: NetName=tlx_fwd_payload_tdata4 Pin=U?-AD10
+Added Net: Name=tlx_fwd_payload_tdata4
+Added Pin To Net: NetName=tlx_fwd_payload_tdata5 Pin=J15-53
+Added Pin To Net: NetName=tlx_fwd_payload_tdata5 Pin=U?-AE9
+Added Net: Name=tlx_fwd_payload_tdata5
+Added Pin To Net: NetName=tlx_fwd_payload_tdata6 Pin=J15-50
+Added Pin To Net: NetName=tlx_fwd_payload_tdata6 Pin=U?-AF9
+Added Net: Name=tlx_fwd_payload_tdata6
+Added Pin To Net: NetName=tlx_fwd_payload_tdata7 Pin=J15-52
+Added Pin To Net: NetName=tlx_fwd_payload_tdata7 Pin=U?-AD9
+Added Net: Name=tlx_fwd_payload_tdata7
+Added Pin To Net: NetName=tlx_fwd_payload_tdata8 Pin=J15-57
+Added Pin To Net: NetName=tlx_fwd_payload_tdata8 Pin=U?-AD8
+Added Net: Name=tlx_fwd_payload_tdata8
+Added Pin To Net: NetName=tlx_fwd_payload_tdata9 Pin=J15-59
+Added Pin To Net: NetName=tlx_fwd_payload_tdata9 Pin=U?-AE8
+Added Net: Name=tlx_fwd_payload_tdata9
+Added Pin To Net: NetName=tlx_fwd_payload_tdata10 Pin=J15-56
+Added Pin To Net: NetName=tlx_fwd_payload_tdata10 Pin=U?-AC8
+Added Net: Name=tlx_fwd_payload_tdata10
+Added Pin To Net: NetName=tlx_fwd_payload_tdata11 Pin=J15-58
+Added Pin To Net: NetName=tlx_fwd_payload_tdata11 Pin=U?-AE7
+Added Net: Name=tlx_fwd_payload_tdata11
+Added Pin To Net: NetName=tlx_fwd_payload_tdata12 Pin=J15-63
+Added Pin To Net: NetName=tlx_fwd_payload_tdata12 Pin=U?-AF7
+Added Net: Name=tlx_fwd_payload_tdata12
+Added Pin To Net: NetName=tlx_fwd_payload_tdata13 Pin=J15-65
+Added Pin To Net: NetName=tlx_fwd_payload_tdata13 Pin=U?-AC7
+Added Net: Name=tlx_fwd_payload_tdata13
+Added Pin To Net: NetName=tlx_fwd_payload_tdata14 Pin=J15-62
+Added Pin To Net: NetName=tlx_fwd_payload_tdata14 Pin=U?-AB7
+Added Net: Name=tlx_fwd_payload_tdata14
+Added Pin To Net: NetName=tlx_fwd_payload_tdata15 Pin=J15-64
+Added Pin To Net: NetName=tlx_fwd_payload_tdata15 Pin=U?-AE6
+Added Net: Name=tlx_fwd_payload_tdata15
+Added Pin To Net: NetName=tlx_fwd_payload_tdata16 Pin=J15-69
+Added Pin To Net: NetName=tlx_fwd_payload_tdata16 Pin=U?-AB24
+Added Net: Name=tlx_fwd_payload_tdata16
+Added Pin To Net: NetName=tlx_fwd_payload_tdata17 Pin=J15-71
+Added Pin To Net: NetName=tlx_fwd_payload_tdata17 Pin=U?-AB25
+Added Net: Name=tlx_fwd_payload_tdata17
+Added Pin To Net: NetName=tlx_fwd_payload_tdata18 Pin=J15-68
+Added Pin To Net: NetName=tlx_fwd_payload_tdata18 Pin=U?-AA23
+Added Net: Name=tlx_fwd_payload_tdata18
+Added Pin To Net: NetName=tlx_fwd_payload_tdata19 Pin=J15-70
+Added Pin To Net: NetName=tlx_fwd_payload_tdata19 Pin=U?-AA25
+Added Net: Name=tlx_fwd_payload_tdata19
+Added Pin To Net: NetName=tlx_fwd_payload_tdata20 Pin=J15-75
+Added Pin To Net: NetName=tlx_fwd_payload_tdata20 Pin=U?-Y23
+Added Net: Name=tlx_fwd_payload_tdata20
+Added Pin To Net: NetName=tlx_fwd_payload_tdata21 Pin=J15-77
+Added Pin To Net: NetName=tlx_fwd_payload_tdata21 Pin=U?-Y25
+Added Net: Name=tlx_fwd_payload_tdata21
+Added Pin To Net: NetName=tlx_fwd_payload_tdata22 Pin=J15-74
+Added Pin To Net: NetName=tlx_fwd_payload_tdata22 Pin=U?-Y26
+Added Net: Name=tlx_fwd_payload_tdata22
+Added Pin To Net: NetName=tlx_fwd_payload_tdata23 Pin=J15-76
+Added Pin To Net: NetName=tlx_fwd_payload_tdata23 Pin=U?-W23
+Added Net: Name=tlx_fwd_payload_tdata23
+Added Pin To Net: NetName=tlx_fwd_payload_tdata24 Pin=J15-81
+Added Pin To Net: NetName=tlx_fwd_payload_tdata24 Pin=U?-W24
+Added Net: Name=tlx_fwd_payload_tdata24
+Added Pin To Net: NetName=tlx_fwd_payload_tdata25 Pin=J15-83
+Added Pin To Net: NetName=tlx_fwd_payload_tdata25 Pin=U?-W25
+Added Net: Name=tlx_fwd_payload_tdata25
+Added Pin To Net: NetName=tlx_fwd_payload_tdata26 Pin=J15-80
+Added Pin To Net: NetName=tlx_fwd_payload_tdata26 Pin=U?-V24
+Added Net: Name=tlx_fwd_payload_tdata26
+Added Pin To Net: NetName=tlx_fwd_payload_tdata27 Pin=J15-82
+Added Pin To Net: NetName=tlx_fwd_payload_tdata27 Pin=U?-V26
+Added Net: Name=tlx_fwd_payload_tdata27
+Added Pin To Net: NetName=tlx_fwd_payload_tdata28 Pin=J15-87
+Added Pin To Net: NetName=tlx_fwd_payload_tdata28 Pin=U?-V25
+Added Net: Name=tlx_fwd_payload_tdata28
+Added Pin To Net: NetName=tlx_fwd_payload_tdata29 Pin=J15-89
+Added Pin To Net: NetName=tlx_fwd_payload_tdata29 Pin=U?-U23
+Added Net: Name=tlx_fwd_payload_tdata29
+Added Pin To Net: NetName=tlx_fwd_payload_tdata30 Pin=J15-86
+Added Pin To Net: NetName=tlx_fwd_payload_tdata30 Pin=U?-U25
+Added Net: Name=tlx_fwd_payload_tdata30
+Added Pin To Net: NetName=tlx_fwd_payload_tdata31 Pin=J15-88
+Added Pin To Net: NetName=tlx_fwd_payload_tdata31 Pin=U?-U24
+Added Net: Name=tlx_fwd_payload_tdata31
+Added Pin To Net: NetName=tlx_fwd_payload_tdata32 Pin=J15-93
+Added Pin To Net: NetName=tlx_fwd_payload_tdata32 Pin=U?-T26
+Added Net: Name=tlx_fwd_payload_tdata32
+Added Pin To Net: NetName=tlx_fwd_payload_tdata33 Pin=J15-95
+Added Pin To Net: NetName=tlx_fwd_payload_tdata33 Pin=U?-R26
+Added Net: Name=tlx_fwd_payload_tdata33
+Added Pin To Net: NetName=tlx_fwd_payload_tdata34 Pin=J15-92
+Added Pin To Net: NetName=tlx_fwd_payload_tdata34 Pin=U?-R23
+Added Net: Name=tlx_fwd_payload_tdata34
+Added Pin To Net: NetName=tlx_fwd_payload_tdata35 Pin=J15-94
+Added Pin To Net: NetName=tlx_fwd_payload_tdata35 Pin=U?-P25
+Added Net: Name=tlx_fwd_payload_tdata35
+Added Pin To Net: NetName=tlx_fwd_payload_tdata36 Pin=J15-99
+Added Pin To Net: NetName=tlx_fwd_payload_tdata36 Pin=U?-P23
+Added Net: Name=tlx_fwd_payload_tdata36
+Added Pin To Net: NetName=tlx_fwd_payload_tdata37 Pin=J15-101
+Added Pin To Net: NetName=tlx_fwd_payload_tdata37 Pin=U?-N25
+Added Net: Name=tlx_fwd_payload_tdata37
+Added Pin To Net: NetName=tlx_fwd_payload_tdata38 Pin=J15-98
+Added Pin To Net: NetName=tlx_fwd_payload_tdata38 Pin=U?-N23
+Added Net: Name=tlx_fwd_payload_tdata38
+Added Pin To Net: NetName=tlx_fwd_payload_tdata39 Pin=J15-100
+Added Pin To Net: NetName=tlx_fwd_payload_tdata39 Pin=U?-M26
+Added Net: Name=tlx_fwd_payload_tdata39
+Added Pin To Net: NetName=tlx_fwd_payload_tready Pin=J15-107
+Added Pin To Net: NetName=tlx_fwd_payload_tready Pin=U?-AC26
+Added Net: Name=tlx_fwd_payload_tready
+Added Pin To Net: NetName=tlx_fwd_payload_tvalid Pin=J15-105
+Added Pin To Net: NetName=tlx_fwd_payload_tvalid Pin=U?-AC25
+Added Net: Name=tlx_fwd_payload_tvalid
+Added Pin To Net: NetName=tlx_rev_clk Pin=J15-137
+Added Pin To Net: NetName=tlx_rev_clk Pin=U?-AD1
+Added Net: Name=tlx_rev_clk
+Added Pin To Net: NetName=tlx_rev_flow_tdata0 Pin=J15-106
+Added Pin To Net: NetName=tlx_rev_flow_tdata0 Pin=U?-C1
+Added Net: Name=tlx_rev_flow_tdata0
+Added Pin To Net: NetName=tlx_rev_flow_tdata1 Pin=J15-111
+Added Pin To Net: NetName=tlx_rev_flow_tdata1 Pin=U?-C4
+Added Net: Name=tlx_rev_flow_tdata1
+Added Pin To Net: NetName=tlx_rev_flow_tdata2 Pin=J15-113
+Added Pin To Net: NetName=tlx_rev_flow_tdata2 Pin=U?-A3
+Added Net: Name=tlx_rev_flow_tdata2
+Added Pin To Net: NetName=tlx_rev_flow_tready Pin=J15-112
+Added Pin To Net: NetName=tlx_rev_flow_tready Pin=U?-D3
+Added Net: Name=tlx_rev_flow_tready
+Added Pin To Net: NetName=tlx_rev_flow_tvalid Pin=J15-110
+Added Pin To Net: NetName=tlx_rev_flow_tvalid Pin=U?-D1
+Added Net: Name=tlx_rev_flow_tvalid
+Added Pin To Net: NetName=tlx_rev_payload_tdata0 Pin=J9-8
+Added Pin To Net: NetName=tlx_rev_payload_tdata0 Pin=U?-AC1
+Added Pin To Net: NetName=tlx_rev_payload_tdata0 Pin=U?-D2
+Added Net: Name=tlx_rev_payload_tdata0
+Added Pin To Net: NetName=tlx_rev_payload_tdata1 Pin=J9-10
+Added Pin To Net: NetName=tlx_rev_payload_tdata1 Pin=U?-AB3
+Added Net: Name=tlx_rev_payload_tdata1
+Added Pin To Net: NetName=tlx_rev_payload_tdata2 Pin=J9-14
+Added Pin To Net: NetName=tlx_rev_payload_tdata2 Pin=U?-AB2
+Added Net: Name=tlx_rev_payload_tdata2
+Added Pin To Net: NetName=tlx_rev_payload_tdata3 Pin=J9-16
+Added Pin To Net: NetName=tlx_rev_payload_tdata3 Pin=U?-AA4
+Added Net: Name=tlx_rev_payload_tdata3
+Added Pin To Net: NetName=tlx_rev_payload_tdata4 Pin=J9-20
+Added Pin To Net: NetName=tlx_rev_payload_tdata4 Pin=U?-AA2
+Added Net: Name=tlx_rev_payload_tdata4
+Added Pin To Net: NetName=tlx_rev_payload_tdata5 Pin=J9-22
+Added Pin To Net: NetName=tlx_rev_payload_tdata5 Pin=U?-Y4
+Added Net: Name=tlx_rev_payload_tdata5
+Added Pin To Net: NetName=tlx_rev_payload_tdata6 Pin=J9-26
+Added Pin To Net: NetName=tlx_rev_payload_tdata6 Pin=U?-Y2
+Added Net: Name=tlx_rev_payload_tdata6
+Added Pin To Net: NetName=tlx_rev_payload_tdata7 Pin=J9-28
+Added Pin To Net: NetName=tlx_rev_payload_tdata7 Pin=U?-Y1
+Added Net: Name=tlx_rev_payload_tdata7
+Added Pin To Net: NetName=tlx_rev_payload_tdata8 Pin=J9-33
+Added Pin To Net: NetName=tlx_rev_payload_tdata8 Pin=U?-W4
+Added Net: Name=tlx_rev_payload_tdata8
+Added Pin To Net: NetName=tlx_rev_payload_tdata9 Pin=J9-35
+Added Pin To Net: NetName=tlx_rev_payload_tdata9 Pin=U?-W3
+Added Net: Name=tlx_rev_payload_tdata9
+Added Pin To Net: NetName=tlx_rev_payload_tdata10 Pin=J9-32
+Added Pin To Net: NetName=tlx_rev_payload_tdata10 Pin=U?-W2
+Added Net: Name=tlx_rev_payload_tdata10
+Added Pin To Net: NetName=tlx_rev_payload_tdata11 Pin=J9-34
+Added Pin To Net: NetName=tlx_rev_payload_tdata11 Pin=U?-V3
+Added Net: Name=tlx_rev_payload_tdata11
+Added Pin To Net: NetName=tlx_rev_payload_tdata12 Pin=J9-39
+Added Pin To Net: NetName=tlx_rev_payload_tdata12 Pin=U?-V2
+Added Net: Name=tlx_rev_payload_tdata12
+Added Pin To Net: NetName=tlx_rev_payload_tdata13 Pin=J9-41
+Added Pin To Net: NetName=tlx_rev_payload_tdata13 Pin=U?-V1
+Added Net: Name=tlx_rev_payload_tdata13
+Added Pin To Net: NetName=tlx_rev_payload_tdata14 Pin=J9-38
+Added Pin To Net: NetName=tlx_rev_payload_tdata14 Pin=U?-U4
+Added Net: Name=tlx_rev_payload_tdata14
+Added Pin To Net: NetName=tlx_rev_payload_tdata15 Pin=J9-40
+Added Pin To Net: NetName=tlx_rev_payload_tdata15 Pin=U?-U3
+Added Net: Name=tlx_rev_payload_tdata15
+Added Pin To Net: NetName=tlx_rev_payload_tdata16 Pin=J9-45
+Added Pin To Net: NetName=tlx_rev_payload_tdata16 Pin=U?-U2
+Added Net: Name=tlx_rev_payload_tdata16
+Added Pin To Net: NetName=tlx_rev_payload_tdata17 Pin=J9-47
+Added Pin To Net: NetName=tlx_rev_payload_tdata17 Pin=U?-T4
+Added Net: Name=tlx_rev_payload_tdata17
+Added Pin To Net: NetName=tlx_rev_payload_tdata18 Pin=J9-44
+Added Pin To Net: NetName=tlx_rev_payload_tdata18 Pin=U?-T1
+Added Net: Name=tlx_rev_payload_tdata18
+Added Pin To Net: NetName=tlx_rev_payload_tdata19 Pin=J9-46
+Added Pin To Net: NetName=tlx_rev_payload_tdata19 Pin=U?-R1
+Added Net: Name=tlx_rev_payload_tdata19
+Added Pin To Net: NetName=tlx_rev_payload_tdata20 Pin=J9-51
+Added Pin To Net: NetName=tlx_rev_payload_tdata20 Pin=U?-R4
+Added Net: Name=tlx_rev_payload_tdata20
+Added Pin To Net: NetName=tlx_rev_payload_tdata21 Pin=J9-53
+Added Pin To Net: NetName=tlx_rev_payload_tdata21 Pin=U?-P2
+Added Net: Name=tlx_rev_payload_tdata21
+Added Pin To Net: NetName=tlx_rev_payload_tdata22 Pin=J9-50
+Added Pin To Net: NetName=tlx_rev_payload_tdata22 Pin=U?-P4
+Added Net: Name=tlx_rev_payload_tdata22
+Added Pin To Net: NetName=tlx_rev_payload_tdata23 Pin=J9-52
+Added Pin To Net: NetName=tlx_rev_payload_tdata23 Pin=U?-N4
+Added Net: Name=tlx_rev_payload_tdata23
+Added Pin To Net: NetName=tlx_rev_payload_tdata24 Pin=J9-57
+Added Pin To Net: NetName=tlx_rev_payload_tdata24 Pin=U?-N2
+Added Net: Name=tlx_rev_payload_tdata24
+Added Pin To Net: NetName=tlx_rev_payload_tdata25 Pin=J9-59
+Added Pin To Net: NetName=tlx_rev_payload_tdata25 Pin=U?-M4
+Added Net: Name=tlx_rev_payload_tdata25
+Added Pin To Net: NetName=tlx_rev_payload_tdata26 Pin=J9-56
+Added Pin To Net: NetName=tlx_rev_payload_tdata26 Pin=U?-M1
+Added Net: Name=tlx_rev_payload_tdata26
+Added Pin To Net: NetName=tlx_rev_payload_tdata27 Pin=J9-58
+Added Pin To Net: NetName=tlx_rev_payload_tdata27 Pin=U?-L4
+Added Net: Name=tlx_rev_payload_tdata27
+Added Pin To Net: NetName=tlx_rev_payload_tdata28 Pin=J9-62
+Added Pin To Net: NetName=tlx_rev_payload_tdata28 Pin=U?-L1
+Added Net: Name=tlx_rev_payload_tdata28
+Added Pin To Net: NetName=tlx_rev_payload_tdata29 Pin=J9-64
+Added Pin To Net: NetName=tlx_rev_payload_tdata29 Pin=U?-K3
+Added Net: Name=tlx_rev_payload_tdata29
+Added Pin To Net: NetName=tlx_rev_payload_tdata30 Pin=J9-68
+Added Pin To Net: NetName=tlx_rev_payload_tdata30 Pin=U?-K2
+Added Net: Name=tlx_rev_payload_tdata30
+Added Pin To Net: NetName=tlx_rev_payload_tdata31 Pin=J9-70
+Added Pin To Net: NetName=tlx_rev_payload_tdata31 Pin=U?-K4
+Added Net: Name=tlx_rev_payload_tdata31
+Added Pin To Net: NetName=tlx_rev_payload_tdata32 Pin=J9-75
+Added Pin To Net: NetName=tlx_rev_payload_tdata32 Pin=U?-J2
+Added Net: Name=tlx_rev_payload_tdata32
+Added Pin To Net: NetName=tlx_rev_payload_tdata33 Pin=J9-77
+Added Pin To Net: NetName=tlx_rev_payload_tdata33 Pin=U?-J1
+Added Net: Name=tlx_rev_payload_tdata33
+Added Pin To Net: NetName=tlx_rev_payload_tdata34 Pin=J9-74
+Added Pin To Net: NetName=tlx_rev_payload_tdata34 Pin=U?-J3
+Added Net: Name=tlx_rev_payload_tdata34
+Added Pin To Net: NetName=tlx_rev_payload_tdata35 Pin=J9-76
+Added Pin To Net: NetName=tlx_rev_payload_tdata35 Pin=U?-H2
+Added Net: Name=tlx_rev_payload_tdata35
+Added Pin To Net: NetName=tlx_rev_payload_tdata36 Pin=J9-81
+Added Pin To Net: NetName=tlx_rev_payload_tdata36 Pin=U?-H3
+Added Net: Name=tlx_rev_payload_tdata36
+Added Pin To Net: NetName=tlx_rev_payload_tdata37 Pin=J9-83
+Added Pin To Net: NetName=tlx_rev_payload_tdata37 Pin=U?-G4
+Added Net: Name=tlx_rev_payload_tdata37
+Added Pin To Net: NetName=tlx_rev_payload_tdata38 Pin=J9-80
+Added Pin To Net: NetName=tlx_rev_payload_tdata38 Pin=U?-G1
+Added Net: Name=tlx_rev_payload_tdata38
+Added Pin To Net: NetName=tlx_rev_payload_tdata39 Pin=J9-82
+Added Pin To Net: NetName=tlx_rev_payload_tdata39 Pin=U?-G2
+Added Net: Name=tlx_rev_payload_tdata39
+Added Pin To Net: NetName=tlx_rev_payload_tdata40 Pin=J9-87
+Added Pin To Net: NetName=tlx_rev_payload_tdata40 Pin=U?-F2
+Added Net: Name=tlx_rev_payload_tdata40
+Added Pin To Net: NetName=tlx_rev_payload_tdata41 Pin=J9-89
+Added Pin To Net: NetName=tlx_rev_payload_tdata41 Pin=U?-E3
+Added Net: Name=tlx_rev_payload_tdata41
+Added Pin To Net: NetName=tlx_rev_payload_tdata42 Pin=J9-86
+Added Pin To Net: NetName=tlx_rev_payload_tdata42 Pin=U?-E2
+Added Net: Name=tlx_rev_payload_tdata42
+Added Pin To Net: NetName=tlx_rev_payload_tdata43 Pin=J9-88
+Added Pin To Net: NetName=tlx_rev_payload_tdata43 Pin=U?-E4
+Added Net: Name=tlx_rev_payload_tdata43
+Added Pin To Net: NetName=tlx_rev_payload_tdata45 Pin=J9-95
+Added Pin To Net: NetName=tlx_rev_payload_tdata45 Pin=U?-AC24
+Added Net: Name=tlx_rev_payload_tdata45
+Added Pin To Net: NetName=tlx_rev_payload_tdata46 Pin=J9-92
+Added Pin To Net: NetName=tlx_rev_payload_tdata46 Pin=U?-AB23
+Added Net: Name=tlx_rev_payload_tdata46
+Added Pin To Net: NetName=tlx_rev_payload_tdata47 Pin=J9-94
+Added Pin To Net: NetName=tlx_rev_payload_tdata47 Pin=U?-AD23
+Added Net: Name=tlx_rev_payload_tdata47
+Added Pin To Net: NetName=tlx_rev_payload_tdata48 Pin=J9-99
+Added Pin To Net: NetName=tlx_rev_payload_tdata48 Pin=U?-AE23
+Added Net: Name=tlx_rev_payload_tdata48
+Added Pin To Net: NetName=tlx_rev_payload_tdata49 Pin=J9-101
+Added Pin To Net: NetName=tlx_rev_payload_tdata49 Pin=U?-AF23
+Added Net: Name=tlx_rev_payload_tdata49
+Added Pin To Net: NetName=tlx_rev_payload_tdata50 Pin=J9-98
+Added Pin To Net: NetName=tlx_rev_payload_tdata50 Pin=U?-AC22
+Added Net: Name=tlx_rev_payload_tdata50
+Added Pin To Net: NetName=tlx_rev_payload_tdata51 Pin=J9-100
+Added Pin To Net: NetName=tlx_rev_payload_tdata51 Pin=U?-AD22
+Added Net: Name=tlx_rev_payload_tdata51
+Added Pin To Net: NetName=tlx_rev_payload_tdata52 Pin=J9-105
+Added Pin To Net: NetName=tlx_rev_payload_tdata52 Pin=U?-AE22
+Added Net: Name=tlx_rev_payload_tdata52
+Added Pin To Net: NetName=tlx_rev_payload_tdata53 Pin=J9-107
+Added Pin To Net: NetName=tlx_rev_payload_tdata53 Pin=U?-AB21
+Added Net: Name=tlx_rev_payload_tdata53
+Added Pin To Net: NetName=tlx_rev_payload_tdata54 Pin=J9-104
+Added Pin To Net: NetName=tlx_rev_payload_tdata54 Pin=U?-AC21
+Added Net: Name=tlx_rev_payload_tdata54
+Added Pin To Net: NetName=tlx_rev_payload_tdata55 Pin=J9-106
+Added Pin To Net: NetName=tlx_rev_payload_tdata55 Pin=U?-AE21
+Added Net: Name=tlx_rev_payload_tdata55
+Added Pin To Net: NetName=tlx_rev_payload_tdata56 Pin=J9-111
+Added Pin To Net: NetName=tlx_rev_payload_tdata56 Pin=U?-AD19
+Added Net: Name=tlx_rev_payload_tdata56
+Added Pin To Net: NetName=tlx_rev_payload_tdata57 Pin=J9-113
+Added Pin To Net: NetName=tlx_rev_payload_tdata57 Pin=U?-AF20
+Added Net: Name=tlx_rev_payload_tdata57
+Added Pin To Net: NetName=tlx_rev_payload_tdata58 Pin=J9-110
+Added Pin To Net: NetName=tlx_rev_payload_tdata58 Pin=U?-AE20
+Added Net: Name=tlx_rev_payload_tdata58
+Added Pin To Net: NetName=tlx_rev_payload_tdata59 Pin=J9-112
+Added Pin To Net: NetName=tlx_rev_payload_tdata59 Pin=U?-AC20
+Added Net: Name=tlx_rev_payload_tdata59
+Added Pin To Net: NetName=tlx_rev_payload_tdata60 Pin=J9-117
+Added Pin To Net: NetName=tlx_rev_payload_tdata60 Pin=U?-AE19
+Added Net: Name=tlx_rev_payload_tdata60
+Added Pin To Net: NetName=tlx_rev_payload_tdata61 Pin=J9-119
+Added Pin To Net: NetName=tlx_rev_payload_tdata61 Pin=U?-AD18
+Added Net: Name=tlx_rev_payload_tdata61
+Added Pin To Net: NetName=tlx_rev_payload_tdata62 Pin=J9-116
+Added Pin To Net: NetName=tlx_rev_payload_tdata62 Pin=U?-AC19
+Added Net: Name=tlx_rev_payload_tdata62
+Added Pin To Net: NetName=tlx_rev_payload_tdata63 Pin=J9-118
+Added Pin To Net: NetName=tlx_rev_payload_tdata63 Pin=U?-AF18
+Added Net: Name=tlx_rev_payload_tdata63
+Added Pin To Net: NetName=tlx_rev_payload_tdata64 Pin=J9-123
+Added Pin To Net: NetName=tlx_rev_payload_tdata64 Pin=U?-AE18
+Added Net: Name=tlx_rev_payload_tdata64
+Added Pin To Net: NetName=tlx_rev_payload_tdata65 Pin=J9-125
+Added Pin To Net: NetName=tlx_rev_payload_tdata65 Pin=U?-AD17
+Added Net: Name=tlx_rev_payload_tdata65
+Added Pin To Net: NetName=tlx_rev_payload_tdata67 Pin=J9-124
+Added Pin To Net: NetName=tlx_rev_payload_tdata67 Pin=U?-AE17
+Added Net: Name=tlx_rev_payload_tdata67
+Added Pin To Net: NetName=tlx_rev_payload_tdata68 Pin=J9-129
+Added Pin To Net: NetName=tlx_rev_payload_tdata68 Pin=U?-AC17
+Added Net: Name=tlx_rev_payload_tdata68
+Added Pin To Net: NetName=tlx_rev_payload_tdata69 Pin=J9-131
+Added Pin To Net: NetName=tlx_rev_payload_tdata69 Pin=U?-AF16
+Added Net: Name=tlx_rev_payload_tdata69
+Added Pin To Net: NetName=tlx_rev_payload_tdata70 Pin=J9-128
+Added Pin To Net: NetName=tlx_rev_payload_tdata70 Pin=U?-AC16
+Added Net: Name=tlx_rev_payload_tdata70
+Added Pin To Net: NetName=tlx_rev_payload_tdata71 Pin=J9-130
+Added Pin To Net: NetName=tlx_rev_payload_tdata71 Pin=U?-AF15
+Added Net: Name=tlx_rev_payload_tdata71
+Added Pin To Net: NetName=tlx_rev_payload_tdata72 Pin=J9-138
+Added Pin To Net: NetName=tlx_rev_payload_tdata72 Pin=U?-AC15
+Added Net: Name=tlx_rev_payload_tdata72
+Added Pin To Net: NetName=tlx_rev_payload_tdata73 Pin=J9-139
+Added Pin To Net: NetName=tlx_rev_payload_tdata73 Pin=U?-AE14
+Added Net: Name=tlx_rev_payload_tdata73
+Added Pin To Net: NetName=tlx_rev_payload_tdata74 Pin=J9-136
+Added Pin To Net: NetName=tlx_rev_payload_tdata74 Pin=U?-AC14
+Added Net: Name=tlx_rev_payload_tdata74
+Added Pin To Net: NetName=tlx_rev_payload_tdata75 Pin=J9-137
+Added Pin To Net: NetName=tlx_rev_payload_tdata75 Pin=U?-AB13
+Added Net: Name=tlx_rev_payload_tdata75
+Added Pin To Net: NetName=tlx_rev_payload_tdata76 Pin=J9-134
+Added Pin To Net: NetName=tlx_rev_payload_tdata76 Pin=U?-AC13
+Added Net: Name=tlx_rev_payload_tdata76
+Added Pin To Net: NetName=tlx_rev_payload_tdata78 Pin=J15-138
+Added Pin To Net: NetName=tlx_rev_payload_tdata78 Pin=U?-AC12
+Added Net: Name=tlx_rev_payload_tdata78
+Added Pin To Net: NetName=tlx_rev_payload_tdata79 Pin=J15-139
+Added Pin To Net: NetName=tlx_rev_payload_tdata79 Pin=U?-AF12
+Added Net: Name=tlx_rev_payload_tdata79
+Added Pin To Net: NetName=tlx_rev_payload_tdata87 Pin=U?-AE13
+Added Net: Name=tlx_rev_payload_tdata87
+Added Pin To Net: NetName=tlx_rev_payload_tready Pin=J15-134
+Added Pin To Net: NetName=tlx_rev_payload_tready Pin=U?-AC2
+Added Net: Name=tlx_rev_payload_tready
+Added Pin To Net: NetName=tlx_rev_payload_tvalid Pin=J15-135
+Added Pin To Net: NetName=tlx_rev_payload_tvalid Pin=U?-AC3
+Added Net: Name=tlx_rev_payload_tvalid
+Added Pin To Net: NetName=tpiu_trace_clk Pin=J?-2
+Added Pin To Net: NetName=tpiu_trace_clk Pin=U?-AF4
+Added Net: Name=tpiu_trace_clk
+Added Pin To Net: NetName=tpiu_trace_data0 Pin=J?-10
+Added Pin To Net: NetName=tpiu_trace_data0 Pin=R?-1
+Added Pin To Net: NetName=tpiu_trace_data0 Pin=R?-2
+Added Pin To Net: NetName=tpiu_trace_data0 Pin=U?-AC6
+Added Net: Name=tpiu_trace_data0
+Added Pin To Net: NetName=tpiu_trace_data1 Pin=J?-8
+Added Pin To Net: NetName=tpiu_trace_data1 Pin=R?-1
+Added Pin To Net: NetName=tpiu_trace_data1 Pin=R?-2
+Added Pin To Net: NetName=tpiu_trace_data1 Pin=U?-AB6
+Added Net: Name=tpiu_trace_data1
+Added Pin To Net: NetName=tpiu_trace_data2 Pin=J?-6
+Added Pin To Net: NetName=tpiu_trace_data2 Pin=R?-1
+Added Pin To Net: NetName=tpiu_trace_data2 Pin=R?-2
+Added Pin To Net: NetName=tpiu_trace_data2 Pin=U?-AE5
+Added Net: Name=tpiu_trace_data2
+Added Pin To Net: NetName=tpiu_trace_data3 Pin=J?-4
+Added Pin To Net: NetName=tpiu_trace_data3 Pin=R?-1
+Added Pin To Net: NetName=tpiu_trace_data3 Pin=R?-2
+Added Pin To Net: NetName=tpiu_trace_data3 Pin=U?-AD5
+Added Net: Name=tpiu_trace_data3
+Added Pin To Net: NetName=tpiu_trace_swo Pin=J?-7
+Added Pin To Net: NetName=tpiu_trace_swo Pin=R?-1
+Added Pin To Net: NetName=tpiu_trace_swo Pin=R?-2
+Added Pin To Net: NetName=tpiu_trace_swo Pin=U?-AC5
+Added Net: Name=tpiu_trace_swo
+Added Pin To Net: NetName=uart0_rxd Pin=J15-125
+Added Pin To Net: NetName=uart0_rxd Pin=U?-AE4
+Added Net: Name=uart0_rxd
+Added Pin To Net: NetName=uart0_txd Pin=J15-123
+Added Pin To Net: NetName=uart0_txd Pin=U?-AD4
+Added Net: Name=uart0_txd
+Added Pin To Net: NetName=uart1_rxd Pin=J15-124
+Added Pin To Net: NetName=uart1_rxd Pin=U?-AF3
+Added Net: Name=uart1_rxd
+Added Pin To Net: NetName=uart1_txd Pin=J15-122
+Added Pin To Net: NetName=uart1_txd Pin=U?-AB4
+Added Net: Name=uart1_txd
+Added Class: Name=U_RPi_Pico
+Added Class: Name=U_RST_N_Switch
+Added Class: Name=loop_back_select[3..0]
+Added Class: Name=tlx_fwd_flow_tdata[1..0]
+Added Class: Name=tlx_fwd_payload_tdata[39..0]
+Added Class: Name=tlx_rev_flow_tdata[2..0]
+Added Class: Name=tlx_rev_payload_tdata[79..0]
+Added Class: Name=tpiu_trace_data[3..0]
+Added Differential Pair: Name=GTR_REFCLK0
+Added Member To Class: ClassName=Top Member=Component B? 24.243.1
+Added Member To Class: ClassName=U_Power_subsystem Member=Component B? 24.243.1
+Added Member To Class: ClassName=U_Power_subsystem Member=Component B? 24.243.1
+Added Member To Class: ClassName=U_TPSM846C23_template1 Member=Component C157_U_TPSM846C23_template1 (C157) CAP_POLY_330uF_25V
+Added Member To Class: ClassName=U_TPSM846C23_template2 Member=Component C157_U_TPSM846C23_template2 (C157) CAP_POLY_330uF_25V
+Added Member To Class: ClassName=U_TPSM846C23_template1 Member=Component C158_U_TPSM846C23_template1 (C158) CAP_22uF_1812_25V
+Added Member To Class: ClassName=U_TPSM846C23_template2 Member=Component C158_U_TPSM846C23_template2 (C158) CAP_22uF_1812_25V
+Added Member To Class: ClassName=U_TPSM846C23_template1 Member=Component C159_U_TPSM846C23_template1 (C159) CAP_22uF_1812_25V
+Added Member To Class: ClassName=U_TPSM846C23_template2 Member=Component C159_U_TPSM846C23_template2 (C159) CAP_22uF_1812_25V
+Added Member To Class: ClassName=U_TPSM846C23_template1 Member=Component C160_U_TPSM846C23_template1 (C160) CAP_22uF_1812_25V
+Added Member To Class: ClassName=U_TPSM846C23_template2 Member=Component C160_U_TPSM846C23_template2 (C160) CAP_22uF_1812_25V
+Added Member To Class: ClassName=U_TPSM846C23_template1 Member=Component C161_U_TPSM846C23_template1 (C161) CAP_22uF_1812_25V
+Added Member To Class: ClassName=U_TPSM846C23_template2 Member=Component C161_U_TPSM846C23_template2 (C161) CAP_22uF_1812_25V
+Added Member To Class: ClassName=U_TPSM846C23_template1 Member=Component C163_U_TPSM846C23_template1 (C163) CAP_POLY_470uF_16V
+Added Member To Class: ClassName=U_TPSM846C23_template2 Member=Component C163_U_TPSM846C23_template2 (C163) CAP_POLY_470uF_16V
+Added Member To Class: ClassName=U_TPSM846C23_template1 Member=Component C164_U_TPSM846C23_template1 (C164) CAP_POLY_470uF_16V
+Added Member To Class: ClassName=U_TPSM846C23_template2 Member=Component C164_U_TPSM846C23_template2 (C164) CAP_POLY_470uF_16V
+Added Member To Class: ClassName=Top Member=Component J? Header 5X2
+Added Member To Class: ClassName=Top Member=Component J? Header 5X2
+Added Member To Class: ClassName=Top Member=Component J? Header 5X2
+Added Member To Class: ClassName=Top Member=Component J? Header 5X2
+Added Member To Class: ClassName=Top Member=Component J? SQT-108
+Added Member To Class: ClassName=U_Ref_CLK Member=Component J? 32K101-400L5
+Added Member To Class: ClassName=U_Ref_CLK Member=Component J? 32K101-400L5
+Added Member To Class: ClassName=Top Member=Component R? 10k
+Added Member To Class: ClassName=Top Member=Component R? 10k
+Added Member To Class: ClassName=Top Member=Component R? 10k
+Added Member To Class: ClassName=Top Member=Component R? 10k
+Added Member To Class: ClassName=Top Member=Component R? 10k
+Added Member To Class: ClassName=Top Member=Component R? 10k
+Added Member To Class: ClassName=Top Member=Component R? 10k
+Added Member To Class: ClassName=Top Member=Component R? 10k
+Added Member To Class: ClassName=Top Member=Component R? 10k
+Added Member To Class: ClassName=Top Member=Component R? 10k
+Added Member To Class: ClassName=Top Member=Component R? 10k
+Added Member To Class: ClassName=Top Member=Component R? 10K
+Added Member To Class: ClassName=Top Member=Component R? 10k
+Added Member To Class: ClassName=Top Member=Component R? 10k
+Added Member To Class: ClassName=Top Member=Component R? 10k
+Added Member To Class: ClassName=U_Ref_CLK Member=Component R? RES_32_0603
+Added Member To Class: ClassName=U_Ref_CLK Member=Component R? RES_50_0603
+Added Member To Class: ClassName=U_Ref_CLK Member=Component R? RES_32_0603
+Added Member To Class: ClassName=U_Power_subsystem Member=Component S? JS202011SCQN
+Added Member To Class: ClassName=U_Power_subsystem Member=Component S? JS202011SCQN
+Added Member To Class: ClassName=Top Member=Component SW? 1825910-6
+Added Member To Class: ClassName=U_TPSM846C23_template1 Member=Component U7_U_TPSM846C23_template1 (U7) TPSM846C23
+Added Member To Class: ClassName=U_TPSM846C23_template2 Member=Component U7_U_TPSM846C23_template2 (U7) TPSM846C23
+Added Member To Class: ClassName=U_cgra Member=Component U? CGRA_BGA_v2
+Added Member To Class: ClassName=U_cgra Member=Component U? CGRA_BGA_v2
+Added Member To Class: ClassName=U_cgra Member=Component U? CGRA_BGA_v2
+Added Member To Class: ClassName=U_cgra Member=Component U? CGRA_BGA_v2
+Added Member To Class: ClassName=U_cgra Member=Component U? CGRA_BGA_v2
+Added Member To Class: ClassName=U_cgra Member=Component U? CGRA_BGA_v2
+Added Member To Class: ClassName=U_cgra Member=Component U? CGRA_BGA_v2
+Added Member To Class: ClassName=U_cgra Member=Component U? CGRA_BGA_v2
+Added Member To Class: ClassName=U_cgra Member=Component U? CGRA_BGA_v2
+Added Member To Class: ClassName=U_cgra Member=Component U? CGRA_BGA_v2
+Added Member To Class: ClassName=U_cgra Member=Component U? CGRA_BGA_v2
+Added Member To Class: ClassName=U_cgra Member=Component U? CGRA_BGA_v2
+Added Member To Class: ClassName=U_cgra Member=Component U? CGRA_BGA_v2
+Added Member To Class: ClassName=U_cgra Member=Component U? CGRA_BGA_v2
+Added Member To Class: ClassName=U_cgra Member=Component U? CGRA_BGA_v2
+Added Member To Class: ClassName=U_cgra Member=Component U? CGRA_BGA_v2
+Added Member To Class: ClassName=U_cgra Member=Component U? CGRA_BGA_v2
+Added Member To Class: ClassName=U_cgra Member=Component U? CGRA_BGA_v2
+Added Member To Class: ClassName=U_cgra Member=Component U? CGRA_BGA_v2
+Added Member To Class: ClassName=U_cgra Member=Component U? CGRA_BGA_v2
+Added Member To Class: ClassName=U_cgra Member=Component U? CGRA_BGA_v2
+Added Member To Class: ClassName=U_cgra Member=Component U? CGRA_BGA_v2
+Added Room: Name=Top
+Added Room: Name=U_RPi_Pico
+Added Room: Name=U_RST_N_Switch
