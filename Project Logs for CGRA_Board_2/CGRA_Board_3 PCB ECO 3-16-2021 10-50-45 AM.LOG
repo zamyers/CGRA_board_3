@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=HDR_PICO_I2C_SCL Pin=J16-3
+Removed Pin From Net: NetName=HDR_PICO_I2C_SDA Pin=J16-5
+Removed Pin From Net: NetName=PICO_MASTER_I2C_SCL Pin=J16-7
+Removed Pin From Net: NetName=PICO_MASTER_I2C_SDA Pin=J16-9
+Removed Pin From Net: NetName=HDR_PICO_I2C_SDA Pin=R63-1
+Removed Pin From Net: NetName=HDR_PICO_I2C_SCL Pin=R64-1
+Removed Pin From Net: NetName=PICO_MASTER_I2C_SDA Pin=R65-1
+Removed Pin From Net: NetName=PICO_MASTER_I2C_SCL Pin=R66-1
+Added Pin To Net: NetName=PICO_MASTER_I2C_SCL Pin=J16-3
+Added Pin To Net: NetName=PICO_MASTER_I2C_SDA Pin=J16-5
+Added Pin To Net: NetName=HDR_PICO_I2C_SCL Pin=J16-7
+Added Pin To Net: NetName=HDR_PICO_I2C_SDA Pin=J16-9
+Added Pin To Net: NetName=PICO_MASTER_I2C_SDA Pin=R63-1
+Added Pin To Net: NetName=PICO_MASTER_I2C_SCL Pin=R64-1
+Added Pin To Net: NetName=HDR_PICO_I2C_SDA Pin=R65-1
+Added Pin To Net: NetName=HDR_PICO_I2C_SCL Pin=R66-1

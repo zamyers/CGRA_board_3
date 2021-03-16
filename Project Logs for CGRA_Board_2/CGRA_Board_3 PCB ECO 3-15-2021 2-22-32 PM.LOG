@@ -1,0 +1,298 @@
+Removed Pin From Net: NetName=1V8 Pin=C154-2
+Removed Pin From Net: NetName=1V8_PM Pin=C163_U_TPSM846C23_template1-1
+Removed Pin From Net: NetName=1V8_PM Pin=C164_U_TPSM846C23_template1-1
+Removed Pin From Net: NetName=GND Pin=RPI_P-3
+Removed Pin From Net: NetName=GND Pin=RPI_P-8
+Removed Pin From Net: NetName=GND Pin=RPI_P-13
+Removed Pin From Net: NetName=GND Pin=RPI_P-18
+Removed Pin From Net: NetName=GND Pin=RPI_P-23
+Removed Pin From Net: NetName=GND Pin=RPI_P-28
+Removed Pin From Net: NetName=GND Pin=RPI_P-33
+Removed Pin From Net: NetName=GND Pin=RPI_P-38
+Removed Pin From Net: NetName=GND Pin=RPI_P-42
+Removed Pin From Net: NetName=1V8_PM Pin=S1-1
+Removed Pin From Net: NetName=1V8_PM Pin=S1-4
+Removed Pin From Net: NetName=1V8 Pin=S2-1
+Removed Pin From Net: NetName=1V8 Pin=S2-4
+Removed Pin From Net: NetName=GND Pin=SW1-3
+Removed Pin From Net: NetName=GND Pin=SW1-4
+Removed Pin From Net: NetName=1V8 Pin=U5-2
+Removed Pin From Net: NetName=1V8 Pin=U5-4
+Removed Pin From Net: NetName=1V8_PM Pin=U7_U_TPSM846C23_template1-4
+Removed Pin From Net: NetName=1V8_PM Pin=U7_U_TPSM846C23_template1-37
+Removed Pin From Net: NetName=1V8_PM Pin=U7_U_TPSM846C23_template1-38
+Removed Pin From Net: NetName=1V8_PM Pin=U7_U_TPSM846C23_template1-39
+Removed Pin From Net: NetName=1V8_PM Pin=U7_U_TPSM846C23_template1-40
+Removed Pin From Net: NetName=1V8_PM Pin=U7_U_TPSM846C23_template1-41
+Removed Pin From Net: NetName=1V8_PM Pin=U7_U_TPSM846C23_template1-55
+Removed Member From Class: ClassName=Top Member=B1
+Removed Member From Class: ClassName=Top Member=J4
+Change Component Footprint: Designator=U9 Old Footprint=TSOP65P640X120-20N_v2 New Footprint=TSOP65P640X120-20N
+Added Component: Designator=B?(banana_clip)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "80P3616"; VariantName = "[No Variations]"
+Added Component: Designator=HDR1(16POSHDR)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "S2011EC-08-ND"; VariantName = "[No Variations]"
+Added Component: Designator=J?(HDR2X5)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "S2011EC-05-ND"; VariantName = "[No Variations]"
+Added Component: Designator=S?(JS202011SCQN_auto)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "401-2002-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=SW?(TECO-1825910-6_V)
+Add component (AddParameter): Name = "Actuator Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Length"; Value = "1.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Material"; Value = "PolybutyleneTerephthalate"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Style"; Value = "RoundButton"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Base Material"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Body Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bushing Type"; Value = "Unthreaded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "CopperAlloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Rating @ Voltage"; Value = "0.05A@24VDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1825910%7FC9%7Fpdf%7FEnglish%7FENG_CD_1825910_C9.pdf%7F1825910-6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. C9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Strength"; Value = "500VAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dimension"; Value = "5.99x5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Electrical Life"; Value = "100000Cycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "1825910"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Function"; Value = "MomentaryContact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Illumination"; Value = "N/R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.te.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum AC Voltage Rating"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Contact Resistance"; Value = "100mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum DC Voltage Rating"; Value = "24V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mechanical Life"; Value = "100000Cycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Insulation Resistance"; Value = "100MOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-35to85C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "4-Pin Through Hole Device, Body 5.99 x 5.99 mm, Pitch 6.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "THD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part No"; Value = "1825910-6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pole Throw Configuration"; Value = "SPST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Weight"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Seal Description"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Seal Location"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Configuration"; Value = "OFF(ON)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Type"; Value = "PCPins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thread Size"; Value = "N/R"; VariantName = "[No Variations]"
+Added Component: Designator=SW?(TECO-1825910-6_V)
+Add component (AddParameter): Name = "Actuator Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Length"; Value = "1.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Material"; Value = "PolybutyleneTerephthalate"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Style"; Value = "RoundButton"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Base Material"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Body Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bushing Type"; Value = "Unthreaded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "CopperAlloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Rating @ Voltage"; Value = "0.05A@24VDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1825910%7FC9%7Fpdf%7FEnglish%7FENG_CD_1825910_C9.pdf%7F1825910-6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. C9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Strength"; Value = "500VAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dimension"; Value = "5.99x5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Electrical Life"; Value = "100000Cycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "1825910"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Function"; Value = "MomentaryContact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Illumination"; Value = "N/R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.te.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum AC Voltage Rating"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Contact Resistance"; Value = "100mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum DC Voltage Rating"; Value = "24V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mechanical Life"; Value = "100000Cycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Insulation Resistance"; Value = "100MOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-35to85C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "4-Pin Through Hole Device, Body 5.99 x 5.99 mm, Pitch 6.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "THD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part No"; Value = "1825910-6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pole Throw Configuration"; Value = "SPST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Weight"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Seal Description"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Seal Location"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Configuration"; Value = "OFF(ON)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Type"; Value = "PCPins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thread Size"; Value = "N/R"; VariantName = "[No Variations]"
+Added Component: Designator=SW?(TECO-1825910-6_V)
+Add component (AddParameter): Name = "Actuator Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Length"; Value = "1.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Material"; Value = "PolybutyleneTerephthalate"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Style"; Value = "RoundButton"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Base Material"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Body Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bushing Type"; Value = "Unthreaded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "CopperAlloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Rating @ Voltage"; Value = "0.05A@24VDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1825910%7FC9%7Fpdf%7FEnglish%7FENG_CD_1825910_C9.pdf%7F1825910-6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. C9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Strength"; Value = "500VAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dimension"; Value = "5.99x5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Electrical Life"; Value = "100000Cycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "1825910"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Function"; Value = "MomentaryContact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Illumination"; Value = "N/R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.te.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum AC Voltage Rating"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Contact Resistance"; Value = "100mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum DC Voltage Rating"; Value = "24V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mechanical Life"; Value = "100000Cycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Insulation Resistance"; Value = "100MOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-35to85C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "4-Pin Through Hole Device, Body 5.99 x 5.99 mm, Pitch 6.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "THD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part No"; Value = "1825910-6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pole Throw Configuration"; Value = "SPST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Weight"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Seal Description"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Seal Location"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Configuration"; Value = "OFF(ON)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Type"; Value = "PCPins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thread Size"; Value = "N/R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=fpga_i2c_sda Pin=HDR1-11
+Added Pin To Net: NetName=fpga_i2c_scl Pin=HDR1-13
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=1V8 Pin=J?-2
+Added Pin To Net: NetName=GND Pin=J?-3
+Added Pin To Net: NetName=1V8 Pin=J?-4
+Added Pin To Net: NetName=GND Pin=J?-5
+Added Pin To Net: NetName=1V8 Pin=J?-6
+Added Pin To Net: NetName=GND Pin=J?-7
+Added Pin To Net: NetName=1V8 Pin=J?-8
+Added Pin To Net: NetName=GND Pin=J?-9
+Added Pin To Net: NetName=1V8 Pin=J?-10
+Added Pin To Net: NetName=PMBUS_CNTL Pin=RPI_P-5
+Added Pin To Net: NetName=1V8_PM Pin=S1-2
+Added Pin To Net: NetName=1V8_PM Pin=S1-5
+Added Pin To Net: NetName=VCORE0 Pin=S?-2
+Added Pin To Net: NetName=VCORE0 Pin=S?-5
+Added Pin To Net: NetName=GND Pin=SW?-3
+Added Pin To Net: NetName=GND Pin=SW?-3
+Added Pin To Net: NetName=GND Pin=SW?-3
+Added Pin To Net: NetName=GND Pin=SW?-4
+Added Pin To Net: NetName=GND Pin=SW?-4
+Added Pin To Net: NetName=GND Pin=SW?-4
+Change Net Name : Old Net Name=1V8 New Net Name=1V8_OUT
+Change Net Name : Old Net Name=NetRPI_P_1 New Net Name=PICO_UART0_TX
+Change Net Name : Old Net Name=NetRPI_P_2 New Net Name=PICO_UART0_RX
+Change Net Name : Old Net Name=NetRPI_P_11 New Net Name=PICO_UART1_TX
+Change Net Name : Old Net Name=NetRPI_P_12 New Net Name=PICO_UART1_RX
+Change Net Name : Old Net Name=NetRPI_P_31 New Net Name=PICO_AC0
+Change Net Name : Old Net Name=NetRPI_P_32 New Net Name=PICO_AC1
+Change Net Name : Old Net Name=NetRPI_P_34 New Net Name=PICO_AC2
+Change Net Name : Old Net Name=VCORE0 New Net Name=0V8_OUT
+Added Pin To Net: NetName=0V8_EXT Pin=B?-1
+Added Pin To Net: NetName=0V8_EXT Pin=B?-2
+Added Pin To Net: NetName=0V8_EXT Pin=S?-3
+Added Pin To Net: NetName=0V8_EXT Pin=S?-6
+Added Net: Name=0V8_EXT
+Added Pin To Net: NetName=0V8_INT Pin=S?-1
+Added Pin To Net: NetName=0V8_INT Pin=S?-4
+Added Net: Name=0V8_INT
+Added Pin To Net: NetName=1V8_LDO_INT Pin=C154-2
+Added Pin To Net: NetName=1V8_LDO_INT Pin=S2-1
+Added Pin To Net: NetName=1V8_LDO_INT Pin=S2-4
+Added Pin To Net: NetName=1V8_LDO_INT Pin=U5-2
+Added Pin To Net: NetName=1V8_LDO_INT Pin=U5-4
+Added Net: Name=1V8_LDO_INT
+Added Pin To Net: NetName=1V8_PSM_INT Pin=C163_U_TPSM846C23_template1-1
+Added Pin To Net: NetName=1V8_PSM_INT Pin=C164_U_TPSM846C23_template1-1
+Added Pin To Net: NetName=1V8_PSM_INT Pin=S1-1
+Added Pin To Net: NetName=1V8_PSM_INT Pin=S1-4
+Added Pin To Net: NetName=1V8_PSM_INT Pin=U7_U_TPSM846C23_template1-4
+Added Pin To Net: NetName=1V8_PSM_INT Pin=U7_U_TPSM846C23_template1-37
+Added Pin To Net: NetName=1V8_PSM_INT Pin=U7_U_TPSM846C23_template1-38
+Added Pin To Net: NetName=1V8_PSM_INT Pin=U7_U_TPSM846C23_template1-39
+Added Pin To Net: NetName=1V8_PSM_INT Pin=U7_U_TPSM846C23_template1-40
+Added Pin To Net: NetName=1V8_PSM_INT Pin=U7_U_TPSM846C23_template1-41
+Added Pin To Net: NetName=1V8_PSM_INT Pin=U7_U_TPSM846C23_template1-55
+Added Net: Name=1V8_PSM_INT
+Added Pin To Net: NetName=cc_fpga_i2c_scl Pin=HDR1-15
+Added Pin To Net: NetName=cc_fpga_i2c_scl Pin=J8-44
+Added Net: Name=cc_fpga_i2c_scl
+Added Pin To Net: NetName=cc_fpga_i2c_sda Pin=HDR1-9
+Added Pin To Net: NetName=cc_fpga_i2c_sda Pin=J8-41
+Added Net: Name=cc_fpga_i2c_sda
+Added Pin To Net: NetName=CGRA_RESET_N Pin=HDR1-2
+Added Pin To Net: NetName=CGRA_RESET_N Pin=SW?-1
+Added Pin To Net: NetName=CGRA_RESET_N Pin=SW?-2
+Added Pin To Net: NetName=CGRA_RESET_N Pin=U1-E25
+Added Net: Name=CGRA_RESET_N
+Added Pin To Net: NetName=FPGA_CGRA_RESET_N Pin=HDR1-1
+Added Pin To Net: NetName=FPGA_CGRA_RESET_N Pin=J15-128
+Added Net: Name=FPGA_CGRA_RESET_N
+Added Pin To Net: NetName=fpga_PMBUS_SCL Pin=J15-12
+Added Net: Name=fpga_PMBUS_SCL
+Added Pin To Net: NetName=fpga_PMBUS_SDA Pin=J15-11
+Added Net: Name=fpga_PMBUS_SDA
+Added Pin To Net: NetName=HDR_PICO_I2C_SCL Pin=HDR1-14
+Added Pin To Net: NetName=HDR_PICO_I2C_SCL Pin=HDR1-16
+Added Pin To Net: NetName=HDR_PICO_I2C_SCL Pin=R50-1
+Added Pin To Net: NetName=HDR_PICO_I2C_SCL Pin=RPI_P-7
+Added Pin To Net: NetName=HDR_PICO_I2C_SCL Pin=U9-18
+Added Net: Name=HDR_PICO_I2C_SCL
+Added Pin To Net: NetName=HDR_PICO_I2C_SDA Pin=HDR1-10
+Added Pin To Net: NetName=HDR_PICO_I2C_SDA Pin=HDR1-12
+Added Pin To Net: NetName=HDR_PICO_I2C_SDA Pin=R51-1
+Added Pin To Net: NetName=HDR_PICO_I2C_SDA Pin=RPI_P-6
+Added Pin To Net: NetName=HDR_PICO_I2C_SDA Pin=U9-19
+Added Net: Name=HDR_PICO_I2C_SDA
+Added Pin To Net: NetName=PICO_MASTER_I2C_SCL Pin=RPI_P-10
+Added Pin To Net: NetName=PICO_MASTER_I2C_SCL Pin=U7_U_TPSM846C23_template1-19
+Added Pin To Net: NetName=PICO_MASTER_I2C_SCL Pin=U7_U_TPSM846C23_template2-19
+Added Pin To Net: NetName=PICO_MASTER_I2C_SCL Pin=U14-14
+Added Net: Name=PICO_MASTER_I2C_SCL
+Added Pin To Net: NetName=PICO_MASTER_I2C_SDA Pin=RPI_P-9
+Added Pin To Net: NetName=PICO_MASTER_I2C_SDA Pin=U7_U_TPSM846C23_template1-18
+Added Pin To Net: NetName=PICO_MASTER_I2C_SDA Pin=U7_U_TPSM846C23_template2-18
+Added Pin To Net: NetName=PICO_MASTER_I2C_SDA Pin=U14-13
+Added Net: Name=PICO_MASTER_I2C_SDA
+Added Pin To Net: NetName=pico_ready Pin=J15-130
+Added Pin To Net: NetName=pico_ready Pin=RPI_P-4
+Added Net: Name=pico_ready
+Added Pin To Net: NetName=PICO_RESET_N Pin=RPI_P-30
+Added Pin To Net: NetName=PICO_RESET_N Pin=SW?-1
+Added Pin To Net: NetName=PICO_RESET_N Pin=SW?-2
+Added Net: Name=PICO_RESET_N
+Added Pin To Net: NetName=PICO_SPI1_CSn Pin=RPI_P-17
+Added Pin To Net: NetName=PICO_SPI1_CSn Pin=RPI_P-22
+Added Net: Name=PICO_SPI1_CSn
+Added Pin To Net: NetName=PICO_SPI1_RX Pin=RPI_P-16
+Added Pin To Net: NetName=PICO_SPI1_RX Pin=RPI_P-21
+Added Net: Name=PICO_SPI1_RX
+Added Pin To Net: NetName=PICO_SPI1_SCK Pin=RPI_P-19
+Added Pin To Net: NetName=PICO_SPI1_SCK Pin=RPI_P-24
+Added Net: Name=PICO_SPI1_SCK
+Added Pin To Net: NetName=PICO_SPI1_TX Pin=RPI_P-20
+Added Pin To Net: NetName=PICO_SPI1_TX Pin=RPI_P-25
+Added Net: Name=PICO_SPI1_TX
+Added Pin To Net: NetName=SOM_RESET_IN_N Pin=J15-42
+Added Pin To Net: NetName=SOM_RESET_IN_N Pin=SW?-1
+Added Pin To Net: NetName=SOM_RESET_IN_N Pin=SW?-2
+Added Net: Name=SOM_RESET_IN_N
+Added Member To Class: ClassName=Top Member=Component B3 24.243.1
+Added Member To Class: ClassName=U_Power_subsystem Member=Component B? 24.243.1
+Added Member To Class: ClassName=Top Member=Component HDR1 2x8_HDR
+Added Member To Class: ClassName=Top Member=Component J14 Header 5X2
+Added Member To Class: ClassName=Top Member=Component J? Header 5X2
+Added Member To Class: ClassName=U_Power_subsystem Member=Component S? JS202011SCQN
+Added Member To Class: ClassName=Top Member=Component SW? 1825910-6
+Added Member To Class: ClassName=Top Member=Component SW? 1825910-6
+Added Member To Class: ClassName=Top Member=Component SW? 1825910-6

@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=PMBUS_CNTL Pin=J16-6
+Added Pin To Net: NetName=PMBUS_CNTL Pin=J16-8

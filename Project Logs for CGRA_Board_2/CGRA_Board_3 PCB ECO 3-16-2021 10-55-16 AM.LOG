@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=0V8_OUT Pin=S3-2
+Removed Pin From Net: NetName=0V8_OUT Pin=S3-5
+Removed Pin From Net: NetName=0V8_OUT Pin=TP6-1
+Added Pin To Net: NetName=0V8_OUT Pin=S3-1
+Added Pin To Net: NetName=0V8_OUT Pin=S3-4
+Change Net Name : Old Net Name=0V8_OUT New Net Name=0V8_INT
+Added Pin To Net: NetName=0V8_OUT Pin=S3-2
+Added Pin To Net: NetName=0V8_OUT Pin=S3-5
+Added Pin To Net: NetName=0V8_OUT Pin=TP6-1
+Added Net: Name=0V8_OUT
