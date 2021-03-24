@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=0V8 Pin=C89-1
+Removed Pin From Net: NetName=GND Pin=C89-2
+Removed Pin From Net: NetName=0V8 Pin=C90-1
+Removed Pin From Net: NetName=GND Pin=C90-2
+Removed Pin From Net: NetName=0V8 Pin=C91-1
+Removed Pin From Net: NetName=GND Pin=C91-2
+Removed Pin From Net: NetName=0V8 Pin=C92-1
+Removed Pin From Net: NetName=GND Pin=C92-2
+Removed Pin From Net: NetName=0V8 Pin=C93-1
+Removed Pin From Net: NetName=GND Pin=C93-2
+Removed Pin From Net: NetName=0V8 Pin=C94-1
+Removed Pin From Net: NetName=GND Pin=C94-2
+Added Member To Class: ClassName=U_cgra Member=Component C19 cap
+Added Member To Class: ClassName=U_cgra Member=Component C26 cap
+Added Member To Class: ClassName=U_cgra Member=Component C100 cap
+Added Member To Class: ClassName=U_cgra Member=Component C107 cap
+Added Member To Class: ClassName=U_cgra Member=Component C114 cap
+Added Member To Class: ClassName=U_cgra Member=Component C117 cap

@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=0V8 Pin=C89-1
+Removed Pin From Net: NetName=GND Pin=C89-2
+Removed Pin From Net: NetName=0V8 Pin=C90-1
+Removed Pin From Net: NetName=GND Pin=C90-2
+Removed Pin From Net: NetName=0V8 Pin=C91-1
+Removed Pin From Net: NetName=GND Pin=C91-2
+Removed Pin From Net: NetName=0V8 Pin=C92-1
+Removed Pin From Net: NetName=GND Pin=C92-2
+Removed Pin From Net: NetName=0V8 Pin=C93-1
+Removed Pin From Net: NetName=GND Pin=C93-2
+Removed Member From Class: ClassName=U_cgra Member=C89
+Removed Member From Class: ClassName=U_cgra Member=C90
+Removed Member From Class: ClassName=U_cgra Member=C91
+Removed Member From Class: ClassName=U_cgra Member=C92
+Removed Member From Class: ClassName=U_cgra Member=C93
