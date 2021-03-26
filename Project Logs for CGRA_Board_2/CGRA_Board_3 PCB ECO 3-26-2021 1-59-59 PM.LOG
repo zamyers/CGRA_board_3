@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=tlx_rev_payload_tdata76 Pin=J9-134
+Removed Pin From Net: NetName=tlx_rev_payload_tdata77 Pin=J9-135
+Removed Pin From Net: NetName=tlx_rev_payload_tdata74 Pin=J9-136
+Removed Pin From Net: NetName=tlx_rev_payload_tdata75 Pin=J9-137
+Removed Pin From Net: NetName=tlx_rev_payload_tdata72 Pin=J9-138
+Removed Pin From Net: NetName=tlx_rev_payload_tdata73 Pin=J9-139
+Added Pin To Net: NetName=tlx_rev_payload_tdata73 Pin=J9-134
+Added Pin To Net: NetName=tlx_rev_payload_tdata72 Pin=J9-135
+Added Pin To Net: NetName=tlx_rev_payload_tdata75 Pin=J9-136
+Added Pin To Net: NetName=tlx_rev_payload_tdata74 Pin=J9-137
+Added Pin To Net: NetName=tlx_rev_payload_tdata77 Pin=J9-138
+Added Pin To Net: NetName=tlx_rev_payload_tdata76 Pin=J9-139
