@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=tlx_rev_payload_tdata65 Pin=U1-AD17
+Removed Pin From Net: NetName=tlx_rev_payload_tdata61 Pin=U1-AD18
+Removed Pin From Net: NetName=tlx_rev_payload_tdata56 Pin=U1-AD19
+Removed Pin From Net: NetName=GND Pin=U1-AD20
+Removed Pin From Net: NetName=tlx_rev_payload_tdata0 Pin=U1-D2
+Change Component Footprint: Designator=R41.2 Old Footprint=RESC1608X06N New Footprint=RESC0603X03N
+Change Component Designator: OldDesignator=C157.2 NewDesignator=C157_U_TPSM846C23_template2
+Change Component Designator: OldDesignator=C158.2 NewDesignator=C158_U_TPSM846C23_template2
+Change Component Designator: OldDesignator=C159.2 NewDesignator=C159_U_TPSM846C23_template2
+Change Component Designator: OldDesignator=C160.2 NewDesignator=C160_U_TPSM846C23_template2
+Change Component Designator: OldDesignator=C161.2 NewDesignator=C161_U_TPSM846C23_template2
+Change Component Designator: OldDesignator=C162.2 NewDesignator=C162_U_TPSM846C23_template2
+Change Component Designator: OldDesignator=C163.2 NewDesignator=C163_U_TPSM846C23_template2
+Change Component Designator: OldDesignator=C164.2 NewDesignator=C164_U_TPSM846C23_template2
+Change Component Designator: OldDesignator=C165.2 NewDesignator=C165_U_TPSM846C23_template2
+Change Component Designator: OldDesignator=C166.2 NewDesignator=C166_U_TPSM846C23_template2
+Change Component Designator: OldDesignator=C167.2 NewDesignator=C167_U_TPSM846C23_template2
+Change Component Designator: OldDesignator=C168.2 NewDesignator=C168_U_TPSM846C23_template2
+Change Component Designator: OldDesignator=C169.2 NewDesignator=C169_U_TPSM846C23_template2
+Change Component Designator: OldDesignator=C170.2 NewDesignator=C170_U_TPSM846C23_template2
+Change Component Designator: OldDesignator=C171.2 NewDesignator=C171_U_TPSM846C23_template2
+Change Component Designator: OldDesignator=C172.2 NewDesignator=C172_U_TPSM846C23_template2
+Change Component Designator: OldDesignator=R41.2 NewDesignator=R41_U_TPSM846C23_template2
+Change Component Designator: OldDesignator=R42.2 NewDesignator=R42_U_TPSM846C23_template2
+Change Component Designator: OldDesignator=Rcomp1.2 NewDesignator=Rcomp1_U_TPSM846C23_template2
+Change Component Designator: OldDesignator=Rset1.2 NewDesignator=Rset1_U_TPSM846C23_template2
+Change Component Designator: OldDesignator=U7.2 NewDesignator=U7_U_TPSM846C23_template2
+Added Pin To Net: NetName=tlx_rev_payload_tdata66 Pin=U1-AD17
+Added Pin To Net: NetName=tlx_rev_payload_tdata65 Pin=U1-AD18
+Added Pin To Net: NetName=tlx_rev_payload_tdata61 Pin=U1-AD19
+Added Pin To Net: NetName=tlx_rev_payload_tdata56 Pin=U1-AD20
+Added Pin To Net: NetName=GND Pin=U1-AE3
+Added Pin To Net: NetName=GND Pin=U1-AE11
+Added Pin To Net: NetName=GND Pin=U1-AE12
+Added Pin To Net: NetName=GND Pin=U1-AF5
+Added Pin To Net: NetName=GND Pin=U1-AF10
+Added Pin To Net: NetName=GND Pin=U1-AF13
+Added Pin To Net: NetName=tlx_rev_payload_tdata44 Pin=U1-D2
