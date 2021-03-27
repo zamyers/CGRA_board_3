@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=uart1_rxd Pin=J15-124
+Removed Pin From Net: NetName=tlx_rev_clk Pin=J15-137
+Added Pin To Net: NetName=uart1_rxd Pin=J15-137
+Added Pin To Net: NetName=tlk_rev_clk Pin=J15-124
+Added Net: Name=tlk_rev_clk

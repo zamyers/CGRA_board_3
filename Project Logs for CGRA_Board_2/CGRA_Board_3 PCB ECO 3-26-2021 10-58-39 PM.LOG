@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=tlx_fwd_payload_tdata24 Pin=J15-87
+Removed Pin From Net: NetName=tlx_fwd_payload_tdata27 Pin=J15-93
+Added Pin To Net: NetName=tlx_fwd_payload_tdata27 Pin=J15-87
+Added Pin To Net: NetName=tlx_fwd_payload_tdata24 Pin=J15-93

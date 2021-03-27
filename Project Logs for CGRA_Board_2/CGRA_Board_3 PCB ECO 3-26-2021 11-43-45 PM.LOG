@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=tlx_fwd_payload_tdata0 Pin=J15-64
+Removed Pin From Net: NetName=tlx_fwd_payload_tdata1 Pin=J15-65
+Removed Pin From Net: NetName=tlx_fwd_flow_tvalid Pin=J15-68
+Removed Pin From Net: NetName=tlx_fwd_flow_tready Pin=J15-69
+Added Pin To Net: NetName=tlx_fwd_flow_tvalid Pin=J15-64
+Added Pin To Net: NetName=tlx_fwd_flow_tready Pin=J15-65
+Added Pin To Net: NetName=tlx_fwd_payload_tdata0 Pin=J15-68
+Added Pin To Net: NetName=tlx_fwd_payload_tdata1 Pin=J15-69
+Added Member To Class: ClassName=Top Member=Component R63 10k
+Added Member To Class: ClassName=Top Member=Component R64 10k

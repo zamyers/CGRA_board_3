@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=uart0_txd Pin=J15-123
+Removed Pin From Net: NetName=tlx_rev_payload_tvalid Pin=J15-135
+Added Pin To Net: NetName=tlx_rev_payload_tvalid Pin=J15-123
+Added Pin To Net: NetName=uart0_txd Pin=J15-135

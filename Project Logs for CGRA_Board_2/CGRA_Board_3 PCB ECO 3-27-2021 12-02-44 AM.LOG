@@ -1,0 +1,86 @@
+Removed Pin From Net: NetName=tlx_fwd_payload_tdata37 Pin=J15-74
+Removed Pin From Net: NetName=tlx_fwd_payload_tdata36 Pin=J15-75
+Change Component Designator: OldDesignator=C157.2 NewDesignator=C157_U_TPSM846C23_template2
+Change Component Designator: OldDesignator=C158.1 NewDesignator=C158_U_TPSM846C23_template1
+Change Component Designator: OldDesignator=C158.2 NewDesignator=C158_U_TPSM846C23_template2
+Change Component Designator: OldDesignator=C159.1 NewDesignator=C159_U_TPSM846C23_template1
+Change Component Designator: OldDesignator=C159.2 NewDesignator=C159_U_TPSM846C23_template2
+Change Component Designator: OldDesignator=C160.1 NewDesignator=C160_U_TPSM846C23_template1
+Change Component Designator: OldDesignator=C160.2 NewDesignator=C160_U_TPSM846C23_template2
+Change Component Designator: OldDesignator=C161.1 NewDesignator=C161_U_TPSM846C23_template1
+Change Component Designator: OldDesignator=C161.2 NewDesignator=C161_U_TPSM846C23_template2
+Change Component Designator: OldDesignator=C162.1 NewDesignator=C162_U_TPSM846C23_template1
+Change Component Designator: OldDesignator=C162.2 NewDesignator=C162_U_TPSM846C23_template2
+Change Component Designator: OldDesignator=C163.1 NewDesignator=C163_U_TPSM846C23_template1
+Change Component Designator: OldDesignator=C163.2 NewDesignator=C163_U_TPSM846C23_template2
+Change Component Designator: OldDesignator=C164.1 NewDesignator=C164_U_TPSM846C23_template1
+Change Component Designator: OldDesignator=C164.2 NewDesignator=C164_U_TPSM846C23_template2
+Change Component Designator: OldDesignator=C165.1 NewDesignator=C165_U_TPSM846C23_template1
+Change Component Designator: OldDesignator=C165.2 NewDesignator=C165_U_TPSM846C23_template2
+Change Component Designator: OldDesignator=C166.1 NewDesignator=C166_U_TPSM846C23_template1
+Change Component Designator: OldDesignator=C166.2 NewDesignator=C166_U_TPSM846C23_template2
+Change Component Designator: OldDesignator=C167.1 NewDesignator=C167_U_TPSM846C23_template1
+Change Component Designator: OldDesignator=C167.2 NewDesignator=C167_U_TPSM846C23_template2
+Change Component Designator: OldDesignator=C168.1 NewDesignator=C168_U_TPSM846C23_template1
+Change Component Designator: OldDesignator=C168.2 NewDesignator=C168_U_TPSM846C23_template2
+Change Component Designator: OldDesignator=C169.1 NewDesignator=C169_U_TPSM846C23_template1
+Change Component Designator: OldDesignator=C169.2 NewDesignator=C169_U_TPSM846C23_template2
+Change Component Designator: OldDesignator=C170.1 NewDesignator=C170_U_TPSM846C23_template1
+Change Component Designator: OldDesignator=C170.2 NewDesignator=C170_U_TPSM846C23_template2
+Change Component Designator: OldDesignator=C171.1 NewDesignator=C171_U_TPSM846C23_template1
+Change Component Designator: OldDesignator=C171.2 NewDesignator=C171_U_TPSM846C23_template2
+Change Component Designator: OldDesignator=C172.1 NewDesignator=C172_U_TPSM846C23_template1
+Change Component Designator: OldDesignator=C172.2 NewDesignator=C172_U_TPSM846C23_template2
+Change Component Designator: OldDesignator=R41.1 NewDesignator=R41_U_TPSM846C23_template1
+Change Component Designator: OldDesignator=R41.2 NewDesignator=R41_U_TPSM846C23_template2
+Change Component Designator: OldDesignator=R42.1 NewDesignator=R42_U_TPSM846C23_template1
+Change Component Designator: OldDesignator=R42.2 NewDesignator=R42_U_TPSM846C23_template2
+Change Component Designator: OldDesignator=Rcomp1.1 NewDesignator=Rcomp1_U_TPSM846C23_template1
+Change Component Designator: OldDesignator=Rcomp1.2 NewDesignator=Rcomp1_U_TPSM846C23_template2
+Change Component Designator: OldDesignator=Rset1.1 NewDesignator=Rset1_U_TPSM846C23_template1
+Change Component Designator: OldDesignator=Rset1.2 NewDesignator=Rset1_U_TPSM846C23_template2
+Change Component Designator: OldDesignator=U7.1 NewDesignator=U7_U_TPSM846C23_template1
+Change Component Designator: OldDesignator=U7.2 NewDesignator=U7_U_TPSM846C23_template2
+Added Pin To Net: NetName=tlx_fwd_payload_tdata38 Pin=J15-74
+Added Pin To Net: NetName=tlx_fwd_payload_tdata39 Pin=J15-75
+Added Member To Class: ClassName=U_TPSM846C23_template2 Member=Component C157_U_TPSM846C23_template2 (C157) CAP_POLY_330uF_25V
+Added Member To Class: ClassName=U_TPSM846C23_template1 Member=Component C158_U_TPSM846C23_template1 (C158) CAP_22uF_1812_25V
+Added Member To Class: ClassName=U_TPSM846C23_template2 Member=Component C158_U_TPSM846C23_template2 (C158) CAP_22uF_1812_25V
+Added Member To Class: ClassName=U_TPSM846C23_template1 Member=Component C159_U_TPSM846C23_template1 (C159) CAP_22uF_1812_25V
+Added Member To Class: ClassName=U_TPSM846C23_template2 Member=Component C159_U_TPSM846C23_template2 (C159) CAP_22uF_1812_25V
+Added Member To Class: ClassName=U_TPSM846C23_template1 Member=Component C160_U_TPSM846C23_template1 (C160) CAP_22uF_1812_25V
+Added Member To Class: ClassName=U_TPSM846C23_template2 Member=Component C160_U_TPSM846C23_template2 (C160) CAP_22uF_1812_25V
+Added Member To Class: ClassName=U_TPSM846C23_template1 Member=Component C161_U_TPSM846C23_template1 (C161) CAP_22uF_1812_25V
+Added Member To Class: ClassName=U_TPSM846C23_template2 Member=Component C161_U_TPSM846C23_template2 (C161) CAP_22uF_1812_25V
+Added Member To Class: ClassName=U_TPSM846C23_template1 Member=Component C162_U_TPSM846C23_template1 (C162) CAP_4.7uF_0805_25V
+Added Member To Class: ClassName=U_TPSM846C23_template2 Member=Component C162_U_TPSM846C23_template2 (C162) CAP_4.7uF_0805_25V
+Added Member To Class: ClassName=U_TPSM846C23_template1 Member=Component C163_U_TPSM846C23_template1 (C163) CAP_POLY_470uF_16V
+Added Member To Class: ClassName=U_TPSM846C23_template2 Member=Component C163_U_TPSM846C23_template2 (C163) CAP_POLY_470uF_16V
+Added Member To Class: ClassName=U_TPSM846C23_template1 Member=Component C164_U_TPSM846C23_template1 (C164) CAP_POLY_470uF_16V
+Added Member To Class: ClassName=U_TPSM846C23_template2 Member=Component C164_U_TPSM846C23_template2 (C164) CAP_POLY_470uF_16V
+Added Member To Class: ClassName=U_TPSM846C23_template1 Member=Component C165_U_TPSM846C23_template1 (C165) CAP_47uF_0805_10V
+Added Member To Class: ClassName=U_TPSM846C23_template2 Member=Component C165_U_TPSM846C23_template2 (C165) CAP_47uF_0805_10V
+Added Member To Class: ClassName=U_TPSM846C23_template1 Member=Component C166_U_TPSM846C23_template1 (C166) CAP_47uF_0805_10V
+Added Member To Class: ClassName=U_TPSM846C23_template2 Member=Component C166_U_TPSM846C23_template2 (C166) CAP_47uF_0805_10V
+Added Member To Class: ClassName=U_TPSM846C23_template1 Member=Component C167_U_TPSM846C23_template1 (C167) CAP_47uF_0805_10V
+Added Member To Class: ClassName=U_TPSM846C23_template2 Member=Component C167_U_TPSM846C23_template2 (C167) CAP_47uF_0805_10V
+Added Member To Class: ClassName=U_TPSM846C23_template1 Member=Component C168_U_TPSM846C23_template1 (C168) CAP_47uF_0805_10V
+Added Member To Class: ClassName=U_TPSM846C23_template2 Member=Component C168_U_TPSM846C23_template2 (C168) CAP_47uF_0805_10V
+Added Member To Class: ClassName=U_TPSM846C23_template1 Member=Component C169_U_TPSM846C23_template1 (C169) CAP_1uF_0805_25V
+Added Member To Class: ClassName=U_TPSM846C23_template2 Member=Component C169_U_TPSM846C23_template2 (C169) CAP_1uF_0805_25V
+Added Member To Class: ClassName=U_TPSM846C23_template1 Member=Component C170_U_TPSM846C23_template1 (C170) CAP_10nF_0402_25V
+Added Member To Class: ClassName=U_TPSM846C23_template2 Member=Component C170_U_TPSM846C23_template2 (C170) CAP_10nF_0402_25V
+Added Member To Class: ClassName=U_TPSM846C23_template1 Member=Component C171_U_TPSM846C23_template1 (C171) CAP_2.2uF_0402_25V
+Added Member To Class: ClassName=U_TPSM846C23_template2 Member=Component C171_U_TPSM846C23_template2 (C171) CAP_2.2uF_0402_25V
+Added Member To Class: ClassName=U_TPSM846C23_template1 Member=Component C172_U_TPSM846C23_template1 (C172) CAP_1500pF_0201_25V
+Added Member To Class: ClassName=U_TPSM846C23_template2 Member=Component C172_U_TPSM846C23_template2 (C172) CAP_1500pF_0201_25V
+Added Member To Class: ClassName=U_TPSM846C23_template1 Member=Component R41_U_TPSM846C23_template1 (R41) RES_10K_0603
+Added Member To Class: ClassName=U_TPSM846C23_template2 Member=Component R41_U_TPSM846C23_template2 (R41) RES_10K_0603
+Added Member To Class: ClassName=U_TPSM846C23_template1 Member=Component R42_U_TPSM846C23_template1 (R42) RES_10K_0603
+Added Member To Class: ClassName=U_TPSM846C23_template2 Member=Component R42_U_TPSM846C23_template2 (R42) RES_10K_0603
+Added Member To Class: ClassName=U_TPSM846C23_template1 Member=Component Rcomp1_U_TPSM846C23_template1 (Rcomp1) RES_665_0603
+Added Member To Class: ClassName=U_TPSM846C23_template2 Member=Component Rcomp1_U_TPSM846C23_template2 (Rcomp1) RES_665_0603
+Added Member To Class: ClassName=U_TPSM846C23_template1 Member=Component Rset1_U_TPSM846C23_template1 (Rset1) RES_1K_0603
+Added Member To Class: ClassName=U_TPSM846C23_template2 Member=Component Rset1_U_TPSM846C23_template2 (Rset1) RES_1K_0603
+Added Member To Class: ClassName=U_TPSM846C23_template1 Member=Component U7_U_TPSM846C23_template1 (U7) TPSM846C23
+Added Member To Class: ClassName=U_TPSM846C23_template2 Member=Component U7_U_TPSM846C23_template2 (U7) TPSM846C23

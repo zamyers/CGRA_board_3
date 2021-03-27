@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=tlx_rev_flow_tdata0 Pin=J15-106
+Removed Pin From Net: NetName=tlx_rev_flow_tvalid Pin=J15-110
+Removed Pin From Net: NetName=tlx_rev_flow_tready Pin=J15-112
+Added Pin To Net: NetName=tlx_rev_flow_tvalid Pin=J15-106
+Added Pin To Net: NetName=tlx_rev_flow_tready Pin=J15-110
+Added Pin To Net: NetName=tlx_rev_flow_tdata0 Pin=J15-112

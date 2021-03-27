@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=uart0_txd Pin=J15-122
+Added Pin To Net: NetName=uart1_txd Pin=J15-122
