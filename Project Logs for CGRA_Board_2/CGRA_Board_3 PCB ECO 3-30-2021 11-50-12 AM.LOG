@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=5V0 Pin=C152-2
+Added Pin To Net: NetName=5V0 Pin=C153-2
+Added Pin To Net: NetName=5V0 Pin=C155-2
+Added Pin To Net: NetName=5V0 Pin=U5-3
+Added Pin To Net: NetName=5V0 Pin=U6-3
+Added Pin To Net: NetName=5V0 Pin=VR1-2
+Added Pin To Net: NetName=5V0 Pin=VR1-4
+Added Room: Name=Top
+Added Room: Name=U_RPi_Pico
