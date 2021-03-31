@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Zach\Documents\GitHub\CGRA_board_3\CGRA_Board_3.PcbDoc
-Date     : 3/30/2021
-Time     : 2:22:11 PM
+Date     : 3/31/2021
+Time     : 9:47:36 AM
 
 Processing Rule : Clearance Constraint (Gap=3.5mil) (All),(All)
 Rule Violations :0
@@ -22,7 +22,11 @@ Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Co
 Rule Violations :0
 
 Processing Rule : Hole Size Constraint (Min=1mil) (Max=150mil) (All)
-Rule Violations :0
+   Violation between Hole Size Constraint: (200mil > 150mil) Pad Free-2(9816mil,335mil) on Multi-Layer Actual Hole Size = 200mil
+   Violation between Hole Size Constraint: (200mil > 150mil) Pad Free-3(9790mil,5170mil) on Multi-Layer Actual Hole Size = 200mil
+   Violation between Hole Size Constraint: (200mil > 150mil) Pad Free-4(3300mil,4736.906mil) on Multi-Layer Actual Hole Size = 200mil
+   Violation between Hole Size Constraint: (200mil > 150mil) Pad Free-5(1430mil,316.196mil) on Multi-Layer Actual Hole Size = 200mil
+Rule Violations :4
 
 Processing Rule : Hole To Hole Clearance (Gap=6mil) (All),(All)
 Rule Violations :0
@@ -44,6 +48,6 @@ Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (
 Rule Violations :0
 
 
-Violations Detected : 1
+Violations Detected : 5
 Waived Violations : 0
-Time Elapsed        : 00:00:07
+Time Elapsed        : 00:00:08
