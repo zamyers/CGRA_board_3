@@ -40,4 +40,4 @@ From  : Variant [[No Variations]] of Project [CGRA_Board_2.PrjPcb]
 Files Generated   : 34
 Documents Printed : 0
 
-Finished Output Generation At 9:49:03 AM On 3/31/2021
+Finished Output Generation At 1:23:44 PM On 4/1/2021
