@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Zach\Documents\GitHub\CGRA_board_3\CGRA_Board_3.PcbDoc
-Date     : 3/31/2021
-Time     : 9:47:36 AM
+Date     : 4/15/2021
+Time     : 4:18:00 PM
 
 Processing Rule : Clearance Constraint (Gap=3.5mil) (All),(All)
 Rule Violations :0
@@ -21,6 +21,9 @@ Rule Violations :0
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
 Rule Violations :0
 
+Processing Rule : Minimum Annular Ring (Minimum=1mil) (All)
+Rule Violations :0
+
 Processing Rule : Hole Size Constraint (Min=1mil) (Max=150mil) (All)
    Violation between Hole Size Constraint: (200mil > 150mil) Pad Free-2(9816mil,335mil) on Multi-Layer Actual Hole Size = 200mil
    Violation between Hole Size Constraint: (200mil > 150mil) Pad Free-3(9790mil,5170mil) on Multi-Layer Actual Hole Size = 200mil
@@ -35,8 +38,7 @@ Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Silk To Solder Mask (Clearance=4mil) (IsPad),(All)
-   Violation between Silk To Solder Mask Clearance Constraint: (3.938mil < 4mil) Between Pad J1-11(644.687mil,4261.078mil) on Top Layer And Track (500mil,4296.512mil)(657.481mil,4296.512mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [3.938mil]
-Rule Violations :1
+Rule Violations :0
 
 Processing Rule : Silk to Silk (Clearance=5mil) (All),(All)
 Rule Violations :0
@@ -44,10 +46,13 @@ Rule Violations :0
 Processing Rule : Net Antennae (Tolerance=0mil) (All)
 Rule Violations :0
 
+Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
+Rule Violations :0
+
 Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
 Rule Violations :0
 
 
-Violations Detected : 5
+Violations Detected : 4
 Waived Violations : 0
-Time Elapsed        : 00:00:08
+Time Elapsed        : 00:00:10
