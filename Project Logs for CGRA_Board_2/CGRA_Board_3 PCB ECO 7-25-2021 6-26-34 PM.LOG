@@ -1,0 +1,34 @@
+Added Component: Designator=CLK1(QFN50P500X500X80_HS-33N)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "505-AD9552BCPZ-REEL7CT-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetCLK1_1 Pin=CLK1-1
+Added Pin To Net: NetName=NetCLK1_2 Pin=CLK1-2
+Added Pin To Net: NetName=NetCLK1_3 Pin=CLK1-3
+Added Pin To Net: NetName=NetCLK1_4 Pin=CLK1-4
+Added Pin To Net: NetName=NetCLK1_5 Pin=CLK1-5
+Added Pin To Net: NetName=NetCLK1_6 Pin=CLK1-6
+Added Pin To Net: NetName=3V3 Pin=CLK1-7
+Added Pin To Net: NetName=NetC33_1 Pin=CLK1-8
+Added Pin To Net: NetName=NetCLK1_9 Pin=CLK1-9
+Added Pin To Net: NetName=NetCLK1_10 Pin=CLK1-10
+Added Pin To Net: NetName=ref_clk Pin=CLK1-11
+Added Pin To Net: NetName=nCS Pin=CLK1-12
+Added Pin To Net: NetName=SCLK Pin=CLK1-13
+Added Pin To Net: NetName=SDIO Pin=CLK1-14
+Added Pin To Net: NetName=OUTSEL Pin=CLK1-15
+Added Pin To Net: NetName=NetC36_1 Pin=CLK1-16
+Added Pin To Net: NetName=NetC34_1 Pin=CLK1-17
+Added Pin To Net: NetName=3V3 Pin=CLK1-18
+Added Pin To Net: NetName=NetC35_1 Pin=CLK1-19
+Added Pin To Net: NetName=3V3 Pin=CLK1-21
+Added Pin To Net: NetName=GND Pin=CLK1-24
+Added Pin To Net: NetName=GND Pin=CLK1-25
+Added Pin To Net: NetName=out_clk Pin=CLK1-27
+Added Pin To Net: NetName=3V3 Pin=CLK1-28
+Added Pin To Net: NetName=NetCLK1_29 Pin=CLK1-29
+Added Pin To Net: NetName=NetCLK1_30 Pin=CLK1-30
+Added Pin To Net: NetName=NetCLK1_31 Pin=CLK1-31
+Added Pin To Net: NetName=NetCLK1_32 Pin=CLK1-32
+Added Pin To Net: NetName=GND Pin=CLK1-33
+Added Member To Class: ClassName=Top Member=Component B5 24.243.1
+Added Member To Class: ClassName=U_Ref_CLK Member=Component CLK1 AD9552

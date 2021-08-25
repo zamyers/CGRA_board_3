@@ -1,9 +1,9 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Zach\Documents\GitHub\CGRA_board_3\CGRA_Board_3.PcbDoc
-Date     : 4/20/2021
-Time     : 1:29:18 PM
+Date     : 8/25/2021
+Time     : 11:32:34 AM
 
-Processing Rule : Clearance Constraint (Gap=0.089mm) (All),(All)
+Processing Rule : Clearance Constraint (Gap=3.5mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
@@ -15,41 +15,41 @@ Rule Violations :0
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=0.076mm) (Max=0.254mm) (Preferred=0.127mm) (All)
+Processing Rule : Width Constraint (Min=3mil) (Max=10mil) (Preferred=5mil) (All)
 Rule Violations :0
 
-Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
 Rule Violations :0
 
-Processing Rule : Minimum Annular Ring (Minimum=0.025mm) (All)
+Processing Rule : Minimum Annular Ring (Minimum=1mil) (All)
 Rule Violations :0
 
-Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=3.81mm) (All)
-   Violation between Hole Size Constraint: (5.08mm > 3.81mm) Pad Free-2(249.326mm,8.509mm) on Multi-Layer Actual Hole Size = 5.08mm
-   Violation between Hole Size Constraint: (5.08mm > 3.81mm) Pad Free-3(248.666mm,131.318mm) on Multi-Layer Actual Hole Size = 5.08mm
-   Violation between Hole Size Constraint: (5.08mm > 3.81mm) Pad Free-4(83.82mm,120.317mm) on Multi-Layer Actual Hole Size = 5.08mm
-   Violation between Hole Size Constraint: (5.08mm > 3.81mm) Pad Free-5(36.322mm,8.031mm) on Multi-Layer Actual Hole Size = 5.08mm
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=150mil) (All)
+   Violation between Hole Size Constraint: (200mil > 150mil) Pad Free-2(9816mil,335mil) on Multi-Layer Actual Hole Size = 200mil
+   Violation between Hole Size Constraint: (200mil > 150mil) Pad Free-3(9790mil,5170mil) on Multi-Layer Actual Hole Size = 200mil
+   Violation between Hole Size Constraint: (200mil > 150mil) Pad Free-4(3300mil,4736.906mil) on Multi-Layer Actual Hole Size = 200mil
+   Violation between Hole Size Constraint: (200mil > 150mil) Pad Free-5(1430mil,316.196mil) on Multi-Layer Actual Hole Size = 200mil
 Rule Violations :4
 
-Processing Rule : Hole To Hole Clearance (Gap=0.152mm) (All),(All)
+Processing Rule : Hole To Hole Clearance (Gap=6mil) (All),(All)
 Rule Violations :0
 
-Processing Rule : Minimum Solder Mask Sliver (Gap=0mm) (All),(All)
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (All),(All)
 Rule Violations :0
 
-Processing Rule : Silk To Solder Mask (Clearance=0.102mm) (IsPad),(All)
+Processing Rule : Silk To Solder Mask (Clearance=4mil) (IsPad),(All)
 Rule Violations :0
 
-Processing Rule : Silk to Silk (Clearance=0.127mm) (All),(All)
+Processing Rule : Silk to Silk (Clearance=5mil) (All),(All)
 Rule Violations :0
 
-Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
 Rule Violations :0
 
-Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
+Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
 Rule Violations :0
 
-Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
 Rule Violations :0
 
 

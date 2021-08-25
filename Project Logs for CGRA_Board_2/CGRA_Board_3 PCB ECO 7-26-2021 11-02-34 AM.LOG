@@ -1,0 +1,111 @@
+Removed Pin From Net: NetName=tlx_fwd_payload_tdata38 Pin=J15-75
+Removed Pin From Net: NetName=tlx_fwd_clk Pin=J15-119
+Removed Pin From Net: NetName=FPGA_CGRA_RESET_N Pin=J15-128
+Removed Pin From Net: NetName=GND Pin=R59-1
+Removed Pin From Net: NetName=tpiu_trace_data3 Pin=R59-2
+Removed Pin From Net: NetName=GND Pin=R60-1
+Removed Pin From Net: NetName=tpiu_trace_data2 Pin=R60-2
+Removed Pin From Net: NetName=GND Pin=R61-1
+Removed Pin From Net: NetName=tpiu_trace_data1 Pin=R61-2
+Removed Pin From Net: NetName=GND Pin=R62-1
+Removed Pin From Net: NetName=tpiu_trace_data0 Pin=R62-2
+Removed Pin From Net: NetName=5V0 Pin=RPI_P-39
+Removed Member From Class: ClassName=Top Member=R59
+Removed Member From Class: ClassName=Top Member=R60
+Removed Member From Class: ClassName=Top Member=R61
+Removed Member From Class: ClassName=Top Member=R62
+Added Component: Designator=D5(SOT95P236X110-3N)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "BAT400D-FDICT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=DS4(KING-0603LED_GREEN_V)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.kingbright.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current"; Value = "30 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin SMT LED, 1.6 x 0.8 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0603LED_GREEN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing Type"; Value = "2000 pcs / reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "KP-1608MGC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "75 mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Voltage"; Value = "5 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Storage Temperature"; Value = "-40 to +85 degC"; VariantName = "[No Variations]"
+Added Component: Designator=DS5(KING-0603LED_GREEN_V)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.kingbright.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current"; Value = "30 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin SMT LED, 1.6 x 0.8 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0603LED_GREEN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing Type"; Value = "2000 pcs / reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "KP-1608MGC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "75 mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Voltage"; Value = "5 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Storage Temperature"; Value = "-40 to +85 degC"; VariantName = "[No Variations]"
+Added Component: Designator=DS6(KING-0603LED_GREEN_V)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.kingbright.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current"; Value = "30 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin SMT LED, 1.6 x 0.8 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0603LED_GREEN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing Type"; Value = "2000 pcs / reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "KP-1608MGC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "75 mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Voltage"; Value = "5 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Storage Temperature"; Value = "-40 to +85 degC"; VariantName = "[No Variations]"
+Added Component: Designator=JTAG1(JTAG_SMT2)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1286-1218-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PICO_SPI1_SCK Pin=CLK1-13
+Added Pin To Net: NetName=PICO_SPI1_TX Pin=CLK1-14
+Added Pin To Net: NetName=5V0 Pin=D5-1
+Added Pin To Net: NetName=dp_jtag_tdi Pin=J8-81
+Added Pin To Net: NetName=dp_jtag_tck Pin=J8-82
+Added Pin To Net: NetName=dp_jtag_tms Pin=J8-85
+Added Pin To Net: NetName=dp_jtag_tdo Pin=J8-86
+Added Pin To Net: NetName=dp_jtag_trstn Pin=J8-87
+Added Pin To Net: NetName=tlx_fwd_clk Pin=J15-75
+Added Pin To Net: NetName=tlx_fwd_payload_tdata38 Pin=J15-119
+Added Pin To Net: NetName=cgra_clk Pin=J15-128
+Added Pin To Net: NetName=FPGA_CGRA_RESET_N Pin=J15-136
+Added Pin To Net: NetName=GND Pin=JTAG1-1
+Added Pin To Net: NetName=JTAG_FPGA_TCK Pin=JTAG1-2
+Added Pin To Net: NetName=JTAG_FPGA_TDI Pin=JTAG1-3
+Added Pin To Net: NetName=JTAG_FPGA_TMS Pin=JTAG1-4
+Added Pin To Net: NetName=JTAG_FPGA_TDO Pin=JTAG1-8
+Added Pin To Net: NetName=1V8_OUT Pin=JTAG1-9
+Added Pin To Net: NetName=GND Pin=JTAG1-10
+Added Pin To Net: NetName=3V3 Pin=JTAG1-11
+Added Pin To Net: NetName=nCS Pin=RPI_P-17
+Added Pin To Net: NetName=nCS Pin=RPI_P-22
+Added Pin To Net: NetName=LED1 Pin=DS4-2
+Added Pin To Net: NetName=LED1 Pin=J8-88
+Added Net: Name=LED1
+Added Pin To Net: NetName=LED2 Pin=DS5-2
+Added Pin To Net: NetName=LED2 Pin=J8-89
+Added Net: Name=LED2
+Added Pin To Net: NetName=LED3 Pin=DS6-2
+Added Pin To Net: NetName=LED3 Pin=J8-90
+Added Net: Name=LED3
+Added Pin To Net: NetName=NetD5_3 Pin=D5-3
+Added Pin To Net: NetName=NetD5_3 Pin=RPI_P-39
+Added Net: Name=NetD5_3
+Added Pin To Net: NetName=NetDS4_1 Pin=DS4-1
+Added Net: Name=NetDS4_1
+Added Pin To Net: NetName=NetDS5_1 Pin=DS5-1
+Added Net: Name=NetDS5_1
+Added Pin To Net: NetName=NetDS6_1 Pin=DS6-1
+Added Net: Name=NetDS6_1
+Added Pin To Net: NetName=NetJ8_74 Pin=J8-74
+Added Net: Name=NetJ8_74
+Added Pin To Net: NetName=SOM_PG_OUT Pin=J15-41
+Added Pin To Net: NetName=SOM_PG_OUT Pin=RPI_P-26
+Added Net: Name=SOM_PG_OUT
+Added Member To Class: ClassName=U_RPi_Pico Member=Component D5 BAT400D
+Added Member To Class: ClassName=Top Member=Component DS4 KP-1608MGC
+Added Member To Class: ClassName=Top Member=Component DS5 KP-1608MGC
+Added Member To Class: ClassName=Top Member=Component DS6 KP-1608MGC
+Added Member To Class: ClassName=U_Ultrascale_EG Member=Component JTAG1 JTAG_SMT2

@@ -1,0 +1,148 @@
+Change Component Footprint: Designator=C19 Old Footprint=CAPC0201(0603)33_N New Footprint=CAPC0603X02N
+Change Component Footprint: Designator=C20 Old Footprint=CAPC0201(0603)33_N New Footprint=CAPC0603X02N
+Change Component Footprint: Designator=C21 Old Footprint=CAPC0201(0603)33_N New Footprint=CAPC0603X02N
+Change Component Footprint: Designator=C22 Old Footprint=CAPC0201(0603)33_N New Footprint=CAPC0603X02N
+Change Component Footprint: Designator=C23 Old Footprint=CAPC0201(0603)33_N New Footprint=CAPC0603X02N
+Change Component Footprint: Designator=C24 Old Footprint=CAPC0201(0603)33_N New Footprint=CAPC0603X02N
+Change Component Footprint: Designator=C25 Old Footprint=CAPC0201(0603)33_N New Footprint=CAPC0603X02N
+Change Component Footprint: Designator=C26 Old Footprint=CAPC0201(0603)33_N New Footprint=CAPC0603X02N
+Change Component Footprint: Designator=C27 Old Footprint=CAPC0201(0603)33_N New Footprint=CAPC0603X02N
+Change Component Footprint: Designator=C28 Old Footprint=CAPC0201(0603)33_N New Footprint=CAPC0603X02N
+Change Component Footprint: Designator=C29 Old Footprint=CAPC0201(0603)33_N New Footprint=CAPC0603X02N
+Change Component Footprint: Designator=C30 Old Footprint=CAPC0201(0603)33_N New Footprint=CAPC0603X02N
+Change Component Footprint: Designator=C31 Old Footprint=CAPC0201(0603)33_N New Footprint=CAPC0603X02N
+Change Component Footprint: Designator=C32 Old Footprint=CAPC0201(0603)33_N New Footprint=CAPC0603X02N
+Change Component Footprint: Designator=C96 Old Footprint=CAPC0201(0603)33_N New Footprint=CAPC0603X02N
+Change Component Footprint: Designator=C97 Old Footprint=CAPC0201(0603)33_N New Footprint=CAPC0603X02N
+Change Component Footprint: Designator=C98 Old Footprint=CAPC0201(0603)33_N New Footprint=CAPC0603X02N
+Change Component Footprint: Designator=C99 Old Footprint=CAPC0201(0603)33_N New Footprint=CAPC0603X02N
+Change Component Footprint: Designator=C100 Old Footprint=CAPC0201(0603)33_N New Footprint=CAPC0603X02N
+Change Component Footprint: Designator=C101 Old Footprint=CAPC0201(0603)33_N New Footprint=CAPC0603X02N
+Change Component Footprint: Designator=C106 Old Footprint=CAPC0201(0603)33_N New Footprint=CAPC0603X02N
+Change Component Footprint: Designator=C107 Old Footprint=CAPC0201(0603)33_N New Footprint=CAPC0603X02N
+Change Component Footprint: Designator=C108 Old Footprint=CAPC0201(0603)33_N New Footprint=CAPC0603X02N
+Change Component Footprint: Designator=C109 Old Footprint=CAPC0201(0603)33_N New Footprint=CAPC0603X02N
+Change Component Footprint: Designator=C110 Old Footprint=CAPC0201(0603)33_N New Footprint=CAPC0603X02N
+Change Component Footprint: Designator=C111 Old Footprint=CAPC0201(0603)33_N New Footprint=CAPC0603X02N
+Change Component Footprint: Designator=C112 Old Footprint=CAPC0201(0603)33_N New Footprint=CAPC0603X02N
+Change Component Footprint: Designator=C113 Old Footprint=CAPC0201(0603)33_N New Footprint=CAPC0603X02N
+Change Component Footprint: Designator=C114 Old Footprint=CAPC0201(0603)33_N New Footprint=CAPC0603X02N
+Change Component Footprint: Designator=C115 Old Footprint=CAPC0201(0603)33_N New Footprint=CAPC0603X02N
+Change Component Footprint: Designator=C116 Old Footprint=CAPC0201(0603)33_N New Footprint=CAPC0603X02N
+Change Component Footprint: Designator=C117 Old Footprint=CAPC0201(0603)33_N New Footprint=CAPC0603X02N
+Change Component Footprint: Designator=C118 Old Footprint=CAPC0201(0603)33_N New Footprint=CAPC0603X02N
+Change Component Footprint: Designator=C119 Old Footprint=CAPC0201(0603)33_N New Footprint=CAPC0603X02N
+Change Component Footprint: Designator=C120 Old Footprint=CAPC0201(0603)33_N New Footprint=CAPC0603X02N
+Change Component Footprint: Designator=C121 Old Footprint=CAPC0201(0603)33_N New Footprint=CAPC0603X02N
+Change component parameters: Designator = "R41.1" ("R41"); Footprint = "RESC1608X06N"; UniqueID = "\MBOECIXI\JAWCLMOQ\DINOOLGD" ("\MBOECIXI\JAWCLMOQ\DINOOLGD")
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://www.rohm.com/datasheet/ESR01MZPF/esr-e"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.rohm.com/datasheet/ESR01MZPF/esr-e"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.022inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "0.063inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Rohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "ESR03EZPF1002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = "250mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "250mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=0.14, 10=0.126, 100=0.0484, 1000=0.0213, 2500=0.01839 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "273579"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "P10.0KHCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.031inch"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R41.2" ("R41"); Footprint = "RESC1608X06N"; UniqueID = "\MBOECIXI\MXRJFKQD\DINOOLGD" ("\MBOECIXI\MXRJFKQD\DINOOLGD")
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://www.rohm.com/datasheet/ESR01MZPF/esr-e"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.rohm.com/datasheet/ESR01MZPF/esr-e"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.022inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "0.063inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Rohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "ESR03EZPF1002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = "250mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "250mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=0.14, 10=0.126, 100=0.0484, 1000=0.0213, 2500=0.01839 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "273579"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "P10.0KHCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.031inch"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R42.1" ("R42"); Footprint = "RESC1608X06N"; UniqueID = "\MBOECIXI\JAWCLMOQ\MARWVWGR" ("\MBOECIXI\JAWCLMOQ\MARWVWGR")
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://www.rohm.com/datasheet/ESR01MZPF/esr-e"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.rohm.com/datasheet/ESR01MZPF/esr-e"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.022inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "0.063inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Rohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "ESR03EZPF1002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = "250mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "250mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=0.14, 10=0.126, 100=0.0484, 1000=0.0213, 2500=0.01839 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "273579"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "P10.0KHCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.031inch"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R42.2" ("R42"); Footprint = "RESC1608X06N"; UniqueID = "\MBOECIXI\MXRJFKQD\MARWVWGR" ("\MBOECIXI\MXRJFKQD\MARWVWGR")
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://www.rohm.com/datasheet/ESR01MZPF/esr-e"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.rohm.com/datasheet/ESR01MZPF/esr-e"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.022inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "0.063inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Rohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "ESR03EZPF1002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = "250mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "250mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=0.14, 10=0.126, 100=0.0484, 1000=0.0213, 2500=0.01839 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "273579"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "P10.0KHCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.031inch"; VariantName = "[No Variations]"

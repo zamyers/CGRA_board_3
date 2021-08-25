@@ -1,0 +1,314 @@
+Removed Pin From Net: NetName=dp_jtag_tdi Pin=J8-81
+Removed Pin From Net: NetName=dp_jtag_tck Pin=J8-82
+Removed Pin From Net: NetName=dp_jtag_tms Pin=J8-85
+Removed Pin From Net: NetName=dp_jtag_tdo Pin=J8-86
+Removed Pin From Net: NetName=dp_jtag_trstn Pin=J8-87
+Removed Pin From Net: NetName=LED1 Pin=J8-88
+Removed Pin From Net: NetName=LED2 Pin=J8-89
+Removed Pin From Net: NetName=LED3 Pin=J8-90
+Removed Pin From Net: NetName=tlx_rev_payload_tdata62 Pin=J9-116
+Removed Pin From Net: NetName=tlx_rev_payload_tdata63 Pin=J9-118
+Removed Pin From Net: NetName=tlx_rev_payload_tdata66 Pin=J9-122
+Removed Pin From Net: NetName=tlx_rev_payload_tdata64 Pin=J9-123
+Removed Pin From Net: NetName=tlx_rev_payload_tdata67 Pin=J9-124
+Removed Pin From Net: NetName=tlx_rev_payload_tdata65 Pin=J9-125
+Removed Pin From Net: NetName=tlx_rev_payload_tdata70 Pin=J9-128
+Removed Pin From Net: NetName=tlx_rev_payload_tdata68 Pin=J9-129
+Removed Pin From Net: NetName=tlx_rev_payload_tdata71 Pin=J9-130
+Removed Pin From Net: NetName=tlx_rev_payload_tdata69 Pin=J9-131
+Removed Pin From Net: NetName=tpiu_trace_data3 Pin=R43-1
+Removed Pin From Net: NetName=1V8_OUT Pin=R43-2
+Removed Pin From Net: NetName=tpiu_trace_data2 Pin=R54-1
+Removed Pin From Net: NetName=1V8_OUT Pin=R54-2
+Removed Pin From Net: NetName=tpiu_trace_data1 Pin=R55-1
+Removed Pin From Net: NetName=1V8_OUT Pin=R55-2
+Removed Pin From Net: NetName=tpiu_trace_data0 Pin=R56-1
+Removed Pin From Net: NetName=1V8_OUT Pin=R56-2
+Removed Pin From Net: NetName=tpiu_trace_swo Pin=R57-1
+Removed Pin From Net: NetName=1V8_OUT Pin=R57-2
+Removed Pin From Net: NetName=GND Pin=R58-1
+Removed Pin From Net: NetName=tpiu_trace_swo Pin=R58-2
+Change Component Footprint: Designator=C1 Old Footprint=CAPC0805(2012)145_M New Footprint=CAPC2012X14N
+Change Component Footprint: Designator=C2 Old Footprint=CAPC0805(2012)145_M New Footprint=CAPC2012X14N
+Change Component Footprint: Designator=C3 Old Footprint=CAPC0805(2012)145_M New Footprint=CAPC2012X14N
+Change Component Footprint: Designator=C4 Old Footprint=CAPC0805(2012)145_M New Footprint=CAPC2012X14N
+Change Component Footprint: Designator=C5 Old Footprint=CAPC0805(2012)145_M New Footprint=CAPC2012X14N
+Change Component Footprint: Designator=C6 Old Footprint=CAPC0805(2012)145_M New Footprint=CAPC2012X14N
+Change Component Footprint: Designator=C7 Old Footprint=CAPC0805(2012)145_M New Footprint=CAPC2012X14N
+Change Component Footprint: Designator=C8 Old Footprint=CAPC0805(2012)145_M New Footprint=CAPC2012X14N
+Change Component Footprint: Designator=C9 Old Footprint=CAPC0805(2012)145_M New Footprint=CAPC2012X14N
+Change Component Footprint: Designator=C10 Old Footprint=CAPC0805(2012)145_M New Footprint=CAPC2012X14N
+Change Component Footprint: Designator=C11 Old Footprint=CAPC0805(2012)145_M New Footprint=CAPC2012X14N
+Change Component Footprint: Designator=C12 Old Footprint=CAPC0805(2012)145_M New Footprint=CAPC2012X14N
+Change Component Footprint: Designator=C13 Old Footprint=CAPC0805(2012)145_M New Footprint=CAPC2012X14N
+Change Component Footprint: Designator=C14 Old Footprint=CAPC0805(2012)145_M New Footprint=CAPC2012X14N
+Change Component Footprint: Designator=C15 Old Footprint=CAPC0805(2012)145_M New Footprint=CAPC2012X14N
+Change Component Footprint: Designator=C16 Old Footprint=CAPC0805(2012)145_M New Footprint=CAPC2012X14N
+Change Component Footprint: Designator=C17 Old Footprint=CAPC0805(2012)145_M New Footprint=CAPC2012X14N
+Change Component Footprint: Designator=C18 Old Footprint=CAPC0805(2012)145_M New Footprint=CAPC2012X14N
+Change Component Footprint: Designator=C41 Old Footprint=CAPC0805(2012)145_M New Footprint=CAPC2012X14N
+Change Component Footprint: Designator=C42 Old Footprint=CAPC0805(2012)145_M New Footprint=CAPC2012X14N
+Change Component Footprint: Designator=C43 Old Footprint=CAPC0805(2012)145_M New Footprint=CAPC2012X14N
+Change Component Footprint: Designator=C44 Old Footprint=CAPC0805(2012)145_M New Footprint=CAPC2012X14N
+Change Component Footprint: Designator=C45 Old Footprint=CAPC0805(2012)145_M New Footprint=CAPC2012X14N
+Change Component Footprint: Designator=C46 Old Footprint=CAPC0805(2012)145_M New Footprint=CAPC2012X14N
+Change Component Footprint: Designator=C36 Old Footprint=CAPC1005X06N New Footprint=CAPC1608X10N
+Change Component Footprint: Designator=R41.1 Old Footprint=RESC0603X03N New Footprint=RESC1608X06N
+Change Component Footprint: Designator=R41.2 Old Footprint=RESC0603X03N New Footprint=RESC1608X06N
+Change Component Designator: OldDesignator=C157.1 NewDesignator=C157_U_TPSM846C23_template1
+Change Component Designator: OldDesignator=C157.2 NewDesignator=C157_U_TPSM846C23_template2
+Change Component Designator: OldDesignator=C158.1 NewDesignator=C158_U_TPSM846C23_template1
+Change Component Designator: OldDesignator=C158.2 NewDesignator=C158_U_TPSM846C23_template2
+Change Component Designator: OldDesignator=C159.1 NewDesignator=C159_U_TPSM846C23_template1
+Change Component Designator: OldDesignator=C159.2 NewDesignator=C159_U_TPSM846C23_template2
+Change Component Designator: OldDesignator=C160.1 NewDesignator=C160_U_TPSM846C23_template1
+Change Component Designator: OldDesignator=C160.2 NewDesignator=C160_U_TPSM846C23_template2
+Change Component Designator: OldDesignator=C161.1 NewDesignator=C161_U_TPSM846C23_template1
+Change Component Designator: OldDesignator=C161.2 NewDesignator=C161_U_TPSM846C23_template2
+Change Component Designator: OldDesignator=C162.1 NewDesignator=C162_U_TPSM846C23_template1
+Change Component Designator: OldDesignator=C162.2 NewDesignator=C162_U_TPSM846C23_template2
+Change Component Designator: OldDesignator=C163.1 NewDesignator=C163_U_TPSM846C23_template1
+Change Component Designator: OldDesignator=C163.2 NewDesignator=C163_U_TPSM846C23_template2
+Change Component Designator: OldDesignator=C164.1 NewDesignator=C164_U_TPSM846C23_template1
+Change Component Designator: OldDesignator=C164.2 NewDesignator=C164_U_TPSM846C23_template2
+Change Component Designator: OldDesignator=C165.1 NewDesignator=C165_U_TPSM846C23_template1
+Change Component Designator: OldDesignator=C165.2 NewDesignator=C165_U_TPSM846C23_template2
+Change Component Designator: OldDesignator=C166.1 NewDesignator=C166_U_TPSM846C23_template1
+Change Component Designator: OldDesignator=C166.2 NewDesignator=C166_U_TPSM846C23_template2
+Change Component Designator: OldDesignator=C167.1 NewDesignator=C167_U_TPSM846C23_template1
+Change Component Designator: OldDesignator=C167.2 NewDesignator=C167_U_TPSM846C23_template2
+Change Component Designator: OldDesignator=C168.1 NewDesignator=C168_U_TPSM846C23_template1
+Change Component Designator: OldDesignator=C168.2 NewDesignator=C168_U_TPSM846C23_template2
+Change Component Designator: OldDesignator=C169.1 NewDesignator=C169_U_TPSM846C23_template1
+Change Component Designator: OldDesignator=C169.2 NewDesignator=C169_U_TPSM846C23_template2
+Change Component Designator: OldDesignator=C170.1 NewDesignator=C170_U_TPSM846C23_template1
+Change Component Designator: OldDesignator=C170.2 NewDesignator=C170_U_TPSM846C23_template2
+Change Component Designator: OldDesignator=C171.1 NewDesignator=C171_U_TPSM846C23_template1
+Change Component Designator: OldDesignator=C171.2 NewDesignator=C171_U_TPSM846C23_template2
+Change Component Designator: OldDesignator=C172.1 NewDesignator=C172_U_TPSM846C23_template1
+Change Component Designator: OldDesignator=C172.2 NewDesignator=C172_U_TPSM846C23_template2
+Change Component Designator: OldDesignator=D5 NewDesignator=D?
+Change Component Designator: OldDesignator=R41.1 NewDesignator=R41_U_TPSM846C23_template1
+Change Component Designator: OldDesignator=R41.2 NewDesignator=R41_U_TPSM846C23_template2
+Change Component Designator: OldDesignator=R42.1 NewDesignator=R42_U_TPSM846C23_template1
+Change Component Designator: OldDesignator=R42.2 NewDesignator=R42_U_TPSM846C23_template2
+Change Component Designator: OldDesignator=Rcomp1.1 NewDesignator=Rcomp1_U_TPSM846C23_template1
+Change Component Designator: OldDesignator=Rcomp1.2 NewDesignator=Rcomp1_U_TPSM846C23_template2
+Change Component Designator: OldDesignator=Rset1.1 NewDesignator=Rset1_U_TPSM846C23_template1
+Change Component Designator: OldDesignator=Rset1.2 NewDesignator=Rset1_U_TPSM846C23_template2
+Change Component Designator: OldDesignator=U7.1 NewDesignator=U7_U_TPSM846C23_template1
+Change Component Designator: OldDesignator=U7.2 NewDesignator=U7_U_TPSM846C23_template2
+Change Managed Component Library Link : Designator=C174 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=8E83B108-CEF6-4BFE-B173-A2EBD10BE98C New ItemGUID=8E83B108-CEF6-4BFE-B173-A2EBD10BE98C Old RevisionGUID=01E54861-E43D-455C-ABDA-D773C933B923 New RevisionGUID=40937802-918E-4C21-B524-9B5A3B3F43F9
+Change Managed Component Library Link : Designator=C175 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=2A487DAE-10EA-463F-BBB2-32508506D097 New ItemGUID=2A487DAE-10EA-463F-BBB2-32508506D097 Old RevisionGUID=39336253-5F72-4BB8-9406-EBDEA841DFEC New RevisionGUID=A6AED3DA-A3DE-4F53-ADA6-39721560FD63
+Change Managed Component Library Link : Designator=C176 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=50C56187-4537-4993-A229-30EB0D73B1B3 New ItemGUID=50C56187-4537-4993-A229-30EB0D73B1B3 Old RevisionGUID=E8C40869-A26D-451B-A0A8-2070A6F64FD4 New RevisionGUID=43ED8087-11FB-4D03-89C9-C5C89FE58A2B
+Change Managed Component Library Link : Designator=C177 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=8E83B108-CEF6-4BFE-B173-A2EBD10BE98C New ItemGUID=8E83B108-CEF6-4BFE-B173-A2EBD10BE98C Old RevisionGUID=01E54861-E43D-455C-ABDA-D773C933B923 New RevisionGUID=40937802-918E-4C21-B524-9B5A3B3F43F9
+Change Managed Component Library Link : Designator=P1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=4D901494-904E-4841-8A7C-F1E340907F33 New ItemGUID=4D901494-904E-4841-8A7C-F1E340907F33 Old RevisionGUID=E1FF660A-F1F7-49F2-B4C6-B978BBD69264 New RevisionGUID=858E772C-D440-48AA-B7C7-AD0F03E7F43C
+Change Managed Component Library Link : Designator=R45 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=BA82B1DB-3903-48AB-BE6C-7B43F7C4B2A3 New ItemGUID=BA82B1DB-3903-48AB-BE6C-7B43F7C4B2A3 Old RevisionGUID=CE7A1A62-0A8C-40B2-AE66-1FCF8A173D4A New RevisionGUID=75B1D43E-0B34-4946-B28D-47950DD00C87
+Change Managed Component Library Link : Designator=R46 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=BA82B1DB-3903-48AB-BE6C-7B43F7C4B2A3 New ItemGUID=BA82B1DB-3903-48AB-BE6C-7B43F7C4B2A3 Old RevisionGUID=CE7A1A62-0A8C-40B2-AE66-1FCF8A173D4A New RevisionGUID=75B1D43E-0B34-4946-B28D-47950DD00C87
+Change Managed Component Library Link : Designator=R47 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=D6FF6A2E-237B-4D32-86D1-1B9665B5CB39 New ItemGUID=D6FF6A2E-237B-4D32-86D1-1B9665B5CB39 Old RevisionGUID=20C4B742-B9BD-484B-8674-15E5F2C7C3A3 New RevisionGUID=5919DCB2-6C32-4D73-A0F5-E31FD5A5471D
+Change Managed Component Library Link : Designator=R48 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=D6FF6A2E-237B-4D32-86D1-1B9665B5CB39 New ItemGUID=D6FF6A2E-237B-4D32-86D1-1B9665B5CB39 Old RevisionGUID=20C4B742-B9BD-484B-8674-15E5F2C7C3A3 New RevisionGUID=5919DCB2-6C32-4D73-A0F5-E31FD5A5471D
+Change Managed Component Library Link : Designator=R49 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=D6FF6A2E-237B-4D32-86D1-1B9665B5CB39 New ItemGUID=D6FF6A2E-237B-4D32-86D1-1B9665B5CB39 Old RevisionGUID=20C4B742-B9BD-484B-8674-15E5F2C7C3A3 New RevisionGUID=5919DCB2-6C32-4D73-A0F5-E31FD5A5471D
+Change Managed Component Library Link : Designator=R50 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=D6FF6A2E-237B-4D32-86D1-1B9665B5CB39 New ItemGUID=D6FF6A2E-237B-4D32-86D1-1B9665B5CB39 Old RevisionGUID=20C4B742-B9BD-484B-8674-15E5F2C7C3A3 New RevisionGUID=5919DCB2-6C32-4D73-A0F5-E31FD5A5471D
+Change Managed Component Library Link : Designator=R51 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=D6FF6A2E-237B-4D32-86D1-1B9665B5CB39 New ItemGUID=D6FF6A2E-237B-4D32-86D1-1B9665B5CB39 Old RevisionGUID=20C4B742-B9BD-484B-8674-15E5F2C7C3A3 New RevisionGUID=5919DCB2-6C32-4D73-A0F5-E31FD5A5471D
+Change Managed Component Library Link : Designator=R52 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=D6FF6A2E-237B-4D32-86D1-1B9665B5CB39 New ItemGUID=D6FF6A2E-237B-4D32-86D1-1B9665B5CB39 Old RevisionGUID=20C4B742-B9BD-484B-8674-15E5F2C7C3A3 New RevisionGUID=5919DCB2-6C32-4D73-A0F5-E31FD5A5471D
+Change Managed Component Library Link : Designator=R53 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=D6FF6A2E-237B-4D32-86D1-1B9665B5CB39 New ItemGUID=D6FF6A2E-237B-4D32-86D1-1B9665B5CB39 Old RevisionGUID=20C4B742-B9BD-484B-8674-15E5F2C7C3A3 New RevisionGUID=5919DCB2-6C32-4D73-A0F5-E31FD5A5471D
+Change Managed Component Library Link : Designator=U2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=633DDBD9-9C1D-4E0B-939B-A229D42A911F New ItemGUID=633DDBD9-9C1D-4E0B-939B-A229D42A911F Old RevisionGUID=BB0BF027-F466-4450-BBF8-8E82FCFF5101 New RevisionGUID=25A451DF-6081-4281-8878-80E186E9DB0E
+Change component parameters: Designator = "C175" ("C175"); Footprint = "CAPC0603(1608)100_M"; UniqueID = "\LVCPIUQO\FJMWJYOG" ("\LVCPIUQO\FJMWJYOG")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "470pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R45" ("R45"); Footprint = "RESC0402(1005)_N"; UniqueID = "\LVCPIUQO\DANUTAWP" ("\LVCPIUQO\DANUTAWP")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "1005"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.00 Ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R46" ("R46"); Footprint = "RESC0402(1005)_N"; UniqueID = "\LVCPIUQO\EBQQZRIX" ("\LVCPIUQO\EBQQZRIX")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "1005"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.00 Ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C174" ("C174"); Footprint = "CAPC0402(1005)60_M"; UniqueID = "\LVCPIUQO\ZPOQVAEI" ("\LVCPIUQO\ZPOQVAEI")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "1005"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Thickness"; Value = "0.6 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "16 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C177" ("C177"); Footprint = "CAPC0402(1005)60_M"; UniqueID = "\LVCPIUQO\NCTUWBXF" ("\LVCPIUQO\NCTUWBXF")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "1005"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Thickness"; Value = "0.6 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "16 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P1" ("P1"); Footprint = "MOLX-47272-0001_V"; UniqueID = "\ISWZPBFB\MBXMXJLP" ("\ISWZPBFB\MBXMXJLP")
+Change component parameters (AddParameter): Name = "Connector Mounting"; Value = "PCB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = "DisplayPort"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "CopperAlloy"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Resistance"; Value = "30mohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Resistance Max"; Value = "50mohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Termination"; Value = "SurfaceMountRightAngle"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Max"; Value = "0.5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://www.molex.com/pdm_docs/sd/472720001_sd.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Rev. F, 06/2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "De-mating Force"; Value = "9.8N"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Flammability Rating"; Value = "UL94V-0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Receptacle"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation Resistance"; Value = "10Mohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Spacing"; Value = "0.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.molex.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mating Force"; Value = "44.1N"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Orientation"; Value = "Horizontal"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "No. of Contacts"; Value = "20"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "No. of Mating Cycles"; Value = "10000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Max"; Value = "+85�C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Min"; Value = "-20�C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "DisplayPort Connector, Pitch 0.5 mm, 1 x 20 Position, Height 6.65 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "47272-0001"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch Spacing"; Value = "0.50mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "47272"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating V AC"; Value = "40V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Withstand Voltage"; Value = "500V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C176" ("C176"); Footprint = "CAPC1206(3216)190_L"; UniqueID = "\LVCPIUQO\YLEOAWDB" ("\LVCPIUQO\YLEOAWDB")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Thickness"; Value = "1.9 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "6.3 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R47" ("R47"); Footprint = "RESC0603(1608)_N"; UniqueID = "\LSAMGMGI\XMAAKESH" ("\LSAMGMGI\XMAAKESH")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.1 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10000.00 Ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R48" ("R48"); Footprint = "RESC0603(1608)_N"; UniqueID = "\LSAMGMGI\MKXQFCCL" ("\LSAMGMGI\MKXQFCCL")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.1 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10000.00 Ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R49" ("R49"); Footprint = "RESC0603(1608)_N"; UniqueID = "\LSAMGMGI\CPNHKWFE" ("\LSAMGMGI\CPNHKWFE")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.1 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10000.00 Ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R50" ("R50"); Footprint = "RESC0603(1608)_N"; UniqueID = "\LSAMGMGI\PMOWIQZP" ("\LSAMGMGI\PMOWIQZP")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.1 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10000.00 Ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R51" ("R51"); Footprint = "RESC0603(1608)_N"; UniqueID = "\LSAMGMGI\IDHASYJQ" ("\LSAMGMGI\IDHASYJQ")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.1 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10000.00 Ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R52" ("R52"); Footprint = "RESC0603(1608)_N"; UniqueID = "\LSAMGMGI\QWNOJABR" ("\LSAMGMGI\QWNOJABR")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.1 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10000.00 Ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R53" ("R53"); Footprint = "RESC0603(1608)_N"; UniqueID = "\LSAMGMGI\BMBBLFSX" ("\LSAMGMGI\BMBBLFSX")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.1 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10000.00 Ohm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=LED3 Pin=J9-116
+Added Pin To Net: NetName=LED2 Pin=J9-118
+Added Pin To Net: NetName=dp_jtag_tdo Pin=J9-122
+Added Pin To Net: NetName=LED1 Pin=J9-123
+Added Pin To Net: NetName=dp_jtag_tms Pin=J9-124
+Added Pin To Net: NetName=dp_jtag_trstn Pin=J9-125
+Added Pin To Net: NetName=dp_jtag_tck Pin=J9-129
+Added Pin To Net: NetName=dp_jtag_tdi Pin=J9-131
+Change Net Name : Old Net Name=NetD5_3 New Net Name=NetD?_3
+Added Pin To Net: NetName=NetJ8_81 Pin=J8-81
+Added Net: Name=NetJ8_81
+Added Pin To Net: NetName=NetJ8_82 Pin=J8-82
+Added Net: Name=NetJ8_82
+Added Pin To Net: NetName=NetJ8_85 Pin=J8-85
+Added Net: Name=NetJ8_85
+Added Pin To Net: NetName=NetJ8_86 Pin=J8-86
+Added Net: Name=NetJ8_86
+Added Pin To Net: NetName=NetJ8_87 Pin=J8-87
+Added Net: Name=NetJ8_87
+Added Pin To Net: NetName=NetJ8_88 Pin=J8-88
+Added Net: Name=NetJ8_88
+Added Pin To Net: NetName=NetJ8_89 Pin=J8-89
+Added Net: Name=NetJ8_89
+Added Pin To Net: NetName=NetJ8_90 Pin=J8-90
+Added Net: Name=NetJ8_90
+Added Pin To Net: NetName=NetJ9_128 Pin=J9-128
+Added Net: Name=NetJ9_128
+Added Pin To Net: NetName=NetJ9_130 Pin=J9-130
+Added Net: Name=NetJ9_130
+Added Member To Class: ClassName=U_TPSM846C23_template1 Member=Component C157_U_TPSM846C23_template1 (C157) CAP_POLY_330uF_25V
+Added Member To Class: ClassName=U_TPSM846C23_template2 Member=Component C157_U_TPSM846C23_template2 (C157) CAP_POLY_330uF_25V
+Added Member To Class: ClassName=U_TPSM846C23_template1 Member=Component C158_U_TPSM846C23_template1 (C158) CAP_22uF_1812_25V
+Added Member To Class: ClassName=U_TPSM846C23_template2 Member=Component C158_U_TPSM846C23_template2 (C158) CAP_22uF_1812_25V
+Added Member To Class: ClassName=U_TPSM846C23_template1 Member=Component C159_U_TPSM846C23_template1 (C159) CAP_22uF_1812_25V
+Added Member To Class: ClassName=U_TPSM846C23_template2 Member=Component C159_U_TPSM846C23_template2 (C159) CAP_22uF_1812_25V
+Added Member To Class: ClassName=U_TPSM846C23_template1 Member=Component C160_U_TPSM846C23_template1 (C160) CAP_22uF_1812_25V
+Added Member To Class: ClassName=U_TPSM846C23_template2 Member=Component C160_U_TPSM846C23_template2 (C160) CAP_22uF_1812_25V
+Added Member To Class: ClassName=U_TPSM846C23_template1 Member=Component C161_U_TPSM846C23_template1 (C161) CAP_22uF_1812_25V
+Added Member To Class: ClassName=U_TPSM846C23_template2 Member=Component C161_U_TPSM846C23_template2 (C161) CAP_22uF_1812_25V
+Added Member To Class: ClassName=U_TPSM846C23_template1 Member=Component C162_U_TPSM846C23_template1 (C162) CAP_4.7uF_0805_25V
+Added Member To Class: ClassName=U_TPSM846C23_template2 Member=Component C162_U_TPSM846C23_template2 (C162) CAP_4.7uF_0805_25V
+Added Member To Class: ClassName=U_TPSM846C23_template1 Member=Component C163_U_TPSM846C23_template1 (C163) CAP_POLY_470uF_16V
+Added Member To Class: ClassName=U_TPSM846C23_template2 Member=Component C163_U_TPSM846C23_template2 (C163) CAP_POLY_470uF_16V
+Added Member To Class: ClassName=U_TPSM846C23_template1 Member=Component C164_U_TPSM846C23_template1 (C164) CAP_POLY_470uF_16V
+Added Member To Class: ClassName=U_TPSM846C23_template2 Member=Component C164_U_TPSM846C23_template2 (C164) CAP_POLY_470uF_16V
+Added Member To Class: ClassName=U_TPSM846C23_template1 Member=Component C165_U_TPSM846C23_template1 (C165) CAP_47uF_0805_10V
+Added Member To Class: ClassName=U_TPSM846C23_template2 Member=Component C165_U_TPSM846C23_template2 (C165) CAP_47uF_0805_10V
+Added Member To Class: ClassName=U_TPSM846C23_template1 Member=Component C166_U_TPSM846C23_template1 (C166) CAP_47uF_0805_10V
+Added Member To Class: ClassName=U_TPSM846C23_template2 Member=Component C166_U_TPSM846C23_template2 (C166) CAP_47uF_0805_10V
+Added Member To Class: ClassName=U_TPSM846C23_template1 Member=Component C167_U_TPSM846C23_template1 (C167) CAP_47uF_0805_10V
+Added Member To Class: ClassName=U_TPSM846C23_template2 Member=Component C167_U_TPSM846C23_template2 (C167) CAP_47uF_0805_10V
+Added Member To Class: ClassName=U_TPSM846C23_template1 Member=Component C168_U_TPSM846C23_template1 (C168) CAP_47uF_0805_10V
+Added Member To Class: ClassName=U_TPSM846C23_template2 Member=Component C168_U_TPSM846C23_template2 (C168) CAP_47uF_0805_10V
+Added Member To Class: ClassName=U_TPSM846C23_template1 Member=Component C169_U_TPSM846C23_template1 (C169) CAP_1uF_0805_25V
+Added Member To Class: ClassName=U_TPSM846C23_template2 Member=Component C169_U_TPSM846C23_template2 (C169) CAP_1uF_0805_25V
+Added Member To Class: ClassName=U_TPSM846C23_template1 Member=Component C170_U_TPSM846C23_template1 (C170) CAP_10nF_0402_25V
+Added Member To Class: ClassName=U_TPSM846C23_template2 Member=Component C170_U_TPSM846C23_template2 (C170) CAP_10nF_0402_25V
+Added Member To Class: ClassName=U_TPSM846C23_template1 Member=Component C171_U_TPSM846C23_template1 (C171) CAP_2.2uF_0402_25V
+Added Member To Class: ClassName=U_TPSM846C23_template2 Member=Component C171_U_TPSM846C23_template2 (C171) CAP_2.2uF_0402_25V
+Added Member To Class: ClassName=U_TPSM846C23_template1 Member=Component C172_U_TPSM846C23_template1 (C172) CAP_1500pF_0201_25V
+Added Member To Class: ClassName=U_TPSM846C23_template2 Member=Component C172_U_TPSM846C23_template2 (C172) CAP_1500pF_0201_25V
+Added Member To Class: ClassName=U_TPSM846C23_template1 Member=Component R41_U_TPSM846C23_template1 (R41) RES_10K_0603
+Added Member To Class: ClassName=U_TPSM846C23_template2 Member=Component R41_U_TPSM846C23_template2 (R41) RES_10K_0603
+Added Member To Class: ClassName=U_TPSM846C23_template1 Member=Component R42_U_TPSM846C23_template1 (R42) RES_10K_0603
+Added Member To Class: ClassName=U_TPSM846C23_template2 Member=Component R42_U_TPSM846C23_template2 (R42) RES_10K_0603
+Added Member To Class: ClassName=U_TPSM846C23_template1 Member=Component Rcomp1_U_TPSM846C23_template1 (Rcomp1) RES_665_0603
+Added Member To Class: ClassName=U_TPSM846C23_template2 Member=Component Rcomp1_U_TPSM846C23_template2 (Rcomp1) RES_665_0603
+Added Member To Class: ClassName=U_TPSM846C23_template1 Member=Component Rset1_U_TPSM846C23_template1 (Rset1) RES_1K_0603
+Added Member To Class: ClassName=U_TPSM846C23_template2 Member=Component Rset1_U_TPSM846C23_template2 (Rset1) RES_1K_0603
+Added Member To Class: ClassName=U_TPSM846C23_template1 Member=Component U7_U_TPSM846C23_template1 (U7) TPSM846C23
+Added Member To Class: ClassName=U_TPSM846C23_template2 Member=Component U7_U_TPSM846C23_template2 (U7) TPSM846C23
+Added Room: Name=Top
+Added Room: Name=U_RPi_Pico

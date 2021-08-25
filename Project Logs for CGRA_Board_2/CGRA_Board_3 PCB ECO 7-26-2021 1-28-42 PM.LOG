@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=dp_jtag_tck Pin=J9-124
+Removed Pin From Net: NetName=dp_jtag_trstn Pin=J9-125
+Removed Pin From Net: NetName=dp_jtag_tdi Pin=J9-129
+Removed Pin From Net: NetName=dp_jtag_tms Pin=J9-131
+Added Pin To Net: NetName=dp_jtag_trstn Pin=J9-124
+Added Pin To Net: NetName=dp_jtag_tdi Pin=J9-125
+Added Pin To Net: NetName=dp_jtag_tms Pin=J9-129
+Added Pin To Net: NetName=dp_jtag_tck Pin=J9-131

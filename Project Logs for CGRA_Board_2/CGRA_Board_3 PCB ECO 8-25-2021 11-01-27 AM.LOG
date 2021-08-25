@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=GND Pin=C129-1
+Removed Pin From Net: NetName=5V0 Pin=C129-2
+Removed Pin From Net: NetName=GND Pin=C130-1
+Removed Pin From Net: NetName=GND Pin=C131-1
+Removed Pin From Net: NetName=5V0 Pin=R1-1
+Removed Pin From Net: NetName=3V3 Pin=R3-1
+Removed Pin From Net: NetName=GND Pin=R4-2
+Removed Pin From Net: NetName=5V0 Pin=U2-1
+Removed Pin From Net: NetName=GND Pin=U2-2
+Removed Pin From Net: NetName=GND Pin=U2-4
+Removed Pin From Net: NetName=GND Pin=U2-9
+Removed Member From Class: ClassName=U_Display_port Member=C129
+Removed Member From Class: ClassName=U_Display_port Member=C130
+Removed Member From Class: ClassName=U_Display_port Member=C131
+Removed Member From Class: ClassName=U_Display_port Member=C132
+Removed Member From Class: ClassName=U_Display_port Member=DS1
+Removed Member From Class: ClassName=U_Display_port Member=R1
+Removed Member From Class: ClassName=U_Display_port Member=R2
+Removed Member From Class: ClassName=U_Display_port Member=R3
+Removed Member From Class: ClassName=U_Display_port Member=R4
+Removed Member From Class: ClassName=U_Display_port Member=U2
+Change Component Footprint: Designator=D1 Old Footprint=ONSC-SMB-2-403A-03_H_V New Footprint=SOT95P236X110-3N
+Change Component Comment : Designator=D1 Old Comment=MBRS240LT3G New Comment=BAT400D
+Change Managed Component Library Link : Designator=D1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=4891C14C-1FB5-474E-AF52-C85AB68BBC0D New ItemGUID= Old RevisionGUID=F4DE2B49-84B7-4B79-A219-D9E0641CFA03 New RevisionGUID=
+Change component parameters: Designator = "D1" ("D1"); Footprint = "ONSC-SMB-2-403A-03_H_V"; UniqueID = "\ISWZPBFB\CWJEWPDT" ("\ISWZPBFB\CWJEWPDT")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "BAT400D-FDICT-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=D1-1
+Added Pin To Net: NetName=NetC138_2 Pin=C138-2
+Added Pin To Net: NetName=NetC138_2 Pin=D1-3
+Added Pin To Net: NetName=NetC138_2 Pin=P1-20
+Added Net: Name=NetC138_2

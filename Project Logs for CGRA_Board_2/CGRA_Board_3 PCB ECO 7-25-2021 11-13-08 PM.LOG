@@ -1,0 +1,51 @@
+Removed Pin From Net: NetName=GTR_VCC Pin=B3-1
+Removed Pin From Net: NetName=GTR_VCC Pin=B3-2
+Removed Pin From Net: NetName=1V8_PM Pin=J8-67
+Removed Member From Class: ClassName=Top Member=B3
+Added Component: Designator=U10(SOT95P280X110-5N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "TCR2LF085"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/toshiba-semiconductor-and-storage/TCR2LF085-LM-CT/10379974"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "497-7805-2-ND"; VariantName = "[No Variations]"
+Added Component: Designator=U11(SOT95P280X110-5N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "TCR2LF085"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/toshiba-semiconductor-and-storage/TCR2LF085-LM-CT/10379974"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=J8-67
+Added Pin To Net: NetName=3V3 Pin=U10-1
+Added Pin To Net: NetName=GND Pin=U10-2
+Added Pin To Net: NetName=3V3 Pin=U10-4
+Added Pin To Net: NetName=3V3 Pin=U11-1
+Added Pin To Net: NetName=GND Pin=U11-2
+Added Pin To Net: NetName=3V3 Pin=U11-3
+Added Pin To Net: NetName=GTR_VCC Pin=U11-5
+Added Pin To Net: NetName=1V5_VBATT Pin=J8-46
+Added Pin To Net: NetName=1V5_VBATT Pin=U10-5
+Added Net: Name=1V5_VBATT
+Added Pin To Net: NetName=NetC37_1 Pin=U10-3
+Added Net: Name=NetC37_1
+Added Pin To Net: NetName=NetJ8_69 Pin=J8-69
+Added Net: Name=NetJ8_69
+Added Pin To Net: NetName=NetJ8_77 Pin=J8-77
+Added Net: Name=NetJ8_77
+Added Pin To Net: NetName=NetJ8_78 Pin=J8-78
+Added Net: Name=NetJ8_78
+Added Pin To Net: NetName=NetJ8_79 Pin=J8-79
+Added Net: Name=NetJ8_79
+Added Pin To Net: NetName=NetJ8_80 Pin=J8-80
+Added Net: Name=NetJ8_80
+Added Pin To Net: NetName=NetJ8_81 Pin=J8-81
+Added Net: Name=NetJ8_81
+Added Pin To Net: NetName=NetJ8_82 Pin=J8-82
+Added Net: Name=NetJ8_82
+Added Pin To Net: NetName=NetJ8_85 Pin=J8-85
+Added Net: Name=NetJ8_85
+Added Pin To Net: NetName=NetJ8_86 Pin=J8-86
+Added Net: Name=NetJ8_86
+Added Pin To Net: NetName=NetJ8_87 Pin=J8-87
+Added Net: Name=NetJ8_87
+Added Pin To Net: NetName=NetJ8_88 Pin=J8-88
+Added Net: Name=NetJ8_88
+Added Pin To Net: NetName=NetJ8_89 Pin=J8-89
+Added Net: Name=NetJ8_89
+Added Pin To Net: NetName=NetJ8_90 Pin=J8-90
+Added Net: Name=NetJ8_90

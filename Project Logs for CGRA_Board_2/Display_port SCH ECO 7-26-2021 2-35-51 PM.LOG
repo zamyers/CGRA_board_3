@@ -1,0 +1,7 @@
+Update Managed Component D1 From CMP-1055-00343-1[MBRS240LT3G] To CMP-1055-00343-1[MBRS240LT3G] in Display_port.SchDoc
+Update Managed Component DS1 From CMP-0404-00001-1[KP-1608MGC] To CMP-0404-00001-1[KP-1608MGC] in Display_port.SchDoc
+Update Managed Component P1 From CMP-2000-05608-2[47272-0001] To CMP-2000-05608-2[47272-0001] in Display_port.SchDoc
+Replace Part R4 RES_4.02K_0603 in C:\Users\Zach\Documents\GitHub\CGRA_board_3\Display_port.SchDoc with RES_4.02K_0603 from CGRA_schlib.SchLib
+Update Managed Component U2 From CMP-0246-00281-2[MAX8902BATA+T] To CMP-0246-00281-2[MAX8902BATA+T] in Display_port.SchDoc
+Update Managed Component U3 From CMP-0326-00039-2[TPD8S009DSMR] To CMP-0326-00039-2[TPD8S009DSMR] in Display_port.SchDoc
+Update Managed Component U4 From CMP-0326-00041-3[TPD4E001DRSR] To CMP-0326-00041-3[TPD4E001DRSR] in Display_port.SchDoc

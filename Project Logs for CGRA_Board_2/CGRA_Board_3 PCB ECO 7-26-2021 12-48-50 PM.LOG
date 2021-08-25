@@ -1,0 +1,86 @@
+Removed Pin From Net: NetName=dp_jtag_tdi Pin=J8-81
+Removed Pin From Net: NetName=dp_jtag_tck Pin=J8-82
+Removed Pin From Net: NetName=dp_jtag_tms Pin=J8-85
+Removed Pin From Net: NetName=dp_jtag_tdo Pin=J8-86
+Removed Pin From Net: NetName=dp_jtag_trstn Pin=J8-87
+Removed Pin From Net: NetName=LED1 Pin=J8-88
+Removed Pin From Net: NetName=LED2 Pin=J8-89
+Removed Pin From Net: NetName=LED3 Pin=J8-90
+Removed Pin From Net: NetName=tlx_rev_payload_tdata62 Pin=J9-116
+Removed Pin From Net: NetName=tlx_rev_payload_tdata63 Pin=J9-118
+Removed Pin From Net: NetName=tlx_rev_payload_tdata66 Pin=J9-122
+Removed Pin From Net: NetName=tlx_rev_payload_tdata64 Pin=J9-123
+Removed Pin From Net: NetName=tlx_rev_payload_tdata67 Pin=J9-124
+Removed Pin From Net: NetName=tlx_rev_payload_tdata65 Pin=J9-125
+Removed Pin From Net: NetName=tlx_rev_payload_tdata70 Pin=J9-128
+Removed Pin From Net: NetName=tlx_rev_payload_tdata68 Pin=J9-129
+Removed Pin From Net: NetName=tlx_rev_payload_tdata71 Pin=J9-130
+Removed Pin From Net: NetName=tlx_rev_payload_tdata69 Pin=J9-131
+Removed Pin From Net: NetName=tpiu_trace_data3 Pin=R43-1
+Removed Pin From Net: NetName=1V8_OUT Pin=R43-2
+Removed Pin From Net: NetName=tpiu_trace_data2 Pin=R54-1
+Removed Pin From Net: NetName=1V8_OUT Pin=R54-2
+Removed Pin From Net: NetName=tpiu_trace_data1 Pin=R55-1
+Removed Pin From Net: NetName=1V8_OUT Pin=R55-2
+Removed Pin From Net: NetName=tpiu_trace_data0 Pin=R56-1
+Removed Pin From Net: NetName=1V8_OUT Pin=R56-2
+Removed Pin From Net: NetName=tpiu_trace_swo Pin=R57-1
+Removed Pin From Net: NetName=1V8_OUT Pin=R57-2
+Removed Pin From Net: NetName=GND Pin=R58-1
+Removed Pin From Net: NetName=tpiu_trace_swo Pin=R58-2
+Change Component Footprint: Designator=C1 Old Footprint=CAPC0805(2012)145_M New Footprint=CAPC2012X14N
+Change Component Footprint: Designator=C2 Old Footprint=CAPC0805(2012)145_M New Footprint=CAPC2012X14N
+Change Component Footprint: Designator=C3 Old Footprint=CAPC0805(2012)145_M New Footprint=CAPC2012X14N
+Change Component Footprint: Designator=C4 Old Footprint=CAPC0805(2012)145_M New Footprint=CAPC2012X14N
+Change Component Footprint: Designator=C5 Old Footprint=CAPC0805(2012)145_M New Footprint=CAPC2012X14N
+Change Component Footprint: Designator=C6 Old Footprint=CAPC0805(2012)145_M New Footprint=CAPC2012X14N
+Change Component Footprint: Designator=C7 Old Footprint=CAPC0805(2012)145_M New Footprint=CAPC2012X14N
+Change Component Footprint: Designator=C8 Old Footprint=CAPC0805(2012)145_M New Footprint=CAPC2012X14N
+Change Component Footprint: Designator=C9 Old Footprint=CAPC0805(2012)145_M New Footprint=CAPC2012X14N
+Change Component Footprint: Designator=C10 Old Footprint=CAPC0805(2012)145_M New Footprint=CAPC2012X14N
+Change Component Footprint: Designator=C11 Old Footprint=CAPC0805(2012)145_M New Footprint=CAPC2012X14N
+Change Component Footprint: Designator=C12 Old Footprint=CAPC0805(2012)145_M New Footprint=CAPC2012X14N
+Change Component Footprint: Designator=C13 Old Footprint=CAPC0805(2012)145_M New Footprint=CAPC2012X14N
+Change Component Footprint: Designator=C14 Old Footprint=CAPC0805(2012)145_M New Footprint=CAPC2012X14N
+Change Component Footprint: Designator=C15 Old Footprint=CAPC0805(2012)145_M New Footprint=CAPC2012X14N
+Change Component Footprint: Designator=C16 Old Footprint=CAPC0805(2012)145_M New Footprint=CAPC2012X14N
+Change Component Footprint: Designator=C17 Old Footprint=CAPC0805(2012)145_M New Footprint=CAPC2012X14N
+Change Component Footprint: Designator=C18 Old Footprint=CAPC0805(2012)145_M New Footprint=CAPC2012X14N
+Change Component Footprint: Designator=C41 Old Footprint=CAPC0805(2012)145_M New Footprint=CAPC2012X14N
+Change Component Footprint: Designator=C42 Old Footprint=CAPC0805(2012)145_M New Footprint=CAPC2012X14N
+Change Component Footprint: Designator=C43 Old Footprint=CAPC0805(2012)145_M New Footprint=CAPC2012X14N
+Change Component Footprint: Designator=C44 Old Footprint=CAPC0805(2012)145_M New Footprint=CAPC2012X14N
+Change Component Footprint: Designator=C45 Old Footprint=CAPC0805(2012)145_M New Footprint=CAPC2012X14N
+Change Component Footprint: Designator=C46 Old Footprint=CAPC0805(2012)145_M New Footprint=CAPC2012X14N
+Change Component Footprint: Designator=C36 Old Footprint=CAPC1005X06N New Footprint=CAPC1608X10N
+Change Component Footprint: Designator=R41.1 Old Footprint=RESC0603X03N New Footprint=RESC1608X06N
+Change Component Footprint: Designator=R41.2 Old Footprint=RESC0603X03N New Footprint=RESC1608X06N
+Added Pin To Net: NetName=LED3 Pin=J9-116
+Added Pin To Net: NetName=LED2 Pin=J9-118
+Added Pin To Net: NetName=dp_jtag_tdo Pin=J9-122
+Added Pin To Net: NetName=LED1 Pin=J9-123
+Added Pin To Net: NetName=dp_jtag_tms Pin=J9-124
+Added Pin To Net: NetName=dp_jtag_trstn Pin=J9-125
+Added Pin To Net: NetName=dp_jtag_tck Pin=J9-129
+Added Pin To Net: NetName=dp_jtag_tdi Pin=J9-131
+Change Net Name : Old Net Name=NetD5_3 New Net Name=NetD?_3
+Added Pin To Net: NetName=NetJ8_81 Pin=J8-81
+Added Net: Name=NetJ8_81
+Added Pin To Net: NetName=NetJ8_82 Pin=J8-82
+Added Net: Name=NetJ8_82
+Added Pin To Net: NetName=NetJ8_85 Pin=J8-85
+Added Net: Name=NetJ8_85
+Added Pin To Net: NetName=NetJ8_86 Pin=J8-86
+Added Net: Name=NetJ8_86
+Added Pin To Net: NetName=NetJ8_87 Pin=J8-87
+Added Net: Name=NetJ8_87
+Added Pin To Net: NetName=NetJ8_88 Pin=J8-88
+Added Net: Name=NetJ8_88
+Added Pin To Net: NetName=NetJ8_89 Pin=J8-89
+Added Net: Name=NetJ8_89
+Added Pin To Net: NetName=NetJ8_90 Pin=J8-90
+Added Net: Name=NetJ8_90
+Added Pin To Net: NetName=NetJ9_128 Pin=J9-128
+Added Net: Name=NetJ9_128
+Added Pin To Net: NetName=NetJ9_130 Pin=J9-130
+Added Net: Name=NetJ9_130

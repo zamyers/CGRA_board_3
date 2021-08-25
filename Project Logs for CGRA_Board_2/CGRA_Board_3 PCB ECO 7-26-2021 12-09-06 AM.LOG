@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=GND Pin=C175-1
+Removed Pin From Net: NetName=GND Pin=C176-1
+Removed Pin From Net: NetName=GND Pin=C177-1
+Removed Pin From Net: NetName=NetJ8_48 Pin=R44-1
+Removed Pin From Net: NetName=GND Pin=U8-1
+Removed Pin From Net: NetName=5V0 Pin=U8-2
+Removed Pin From Net: NetName=5V0 Pin=U8-3
+Removed Pin From Net: NetName=NetJ8_48 Pin=U8-4
+Removed Member From Class: ClassName=U_USB Member=R44
+Removed Member From Class: ClassName=U_USB Member=U8
+Added Pin To Net: NetName=5V0 Pin=C175-2
+Added Pin To Net: NetName=5V0 Pin=C176-2
+Added Pin To Net: NetName=5V0 Pin=L1-1
+Change Net Name : Old Net Name=5V0 New Net Name=USB_VBUS_OUT_L
+Added Pin To Net: NetName=NetC175_1 Pin=C175-1
+Added Pin To Net: NetName=NetC175_1 Pin=C176-1
+Added Pin To Net: NetName=NetC175_1 Pin=C177-1
+Added Net: Name=NetC175_1
