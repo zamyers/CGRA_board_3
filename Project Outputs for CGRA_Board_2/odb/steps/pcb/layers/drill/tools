@@ -27,22 +27,12 @@ TOOLS {
     MIN_TOL=0
     MAX_TOL=0
     BIT=
-    FINISH_SIZE=7.874
-    DRILL_SIZE=7.874
-}
-
-TOOLS {
-    NUM=4
-    TYPE=VIA
-    MIN_TOL=0
-    MAX_TOL=0
-    BIT=
     FINISH_SIZE=8
     DRILL_SIZE=8
 }
 
 TOOLS {
-    NUM=5
+    NUM=4
     TYPE=VIA
     MIN_TOL=0
     MAX_TOL=0
@@ -52,7 +42,7 @@ TOOLS {
 }
 
 TOOLS {
-    NUM=6
+    NUM=5
     TYPE=PLATED
     MIN_TOL=0
     MAX_TOL=0
@@ -62,7 +52,7 @@ TOOLS {
 }
 
 TOOLS {
-    NUM=7
+    NUM=6
     TYPE=PLATED
     MIN_TOL=0
     MAX_TOL=0
@@ -72,7 +62,7 @@ TOOLS {
 }
 
 TOOLS {
-    NUM=8
+    NUM=7
     TYPE=PLATED
     MIN_TOL=0
     MAX_TOL=0
@@ -82,7 +72,7 @@ TOOLS {
 }
 
 TOOLS {
-    NUM=9
+    NUM=8
     TYPE=PLATED
     MIN_TOL=0
     MAX_TOL=0
@@ -92,7 +82,7 @@ TOOLS {
 }
 
 TOOLS {
-    NUM=10
+    NUM=9
     TYPE=PLATED
     MIN_TOL=0
     MAX_TOL=0
@@ -102,7 +92,7 @@ TOOLS {
 }
 
 TOOLS {
-    NUM=11
+    NUM=10
     TYPE=PLATED
     MIN_TOL=0
     MAX_TOL=0
@@ -112,7 +102,7 @@ TOOLS {
 }
 
 TOOLS {
-    NUM=12
+    NUM=11
     TYPE=PLATED
     MIN_TOL=0
     MAX_TOL=0
@@ -122,7 +112,7 @@ TOOLS {
 }
 
 TOOLS {
-    NUM=13
+    NUM=12
     TYPE=PLATED
     MIN_TOL=0
     MAX_TOL=0
@@ -132,7 +122,7 @@ TOOLS {
 }
 
 TOOLS {
-    NUM=14
+    NUM=13
     TYPE=PLATED
     MIN_TOL=0
     MAX_TOL=0
@@ -142,7 +132,7 @@ TOOLS {
 }
 
 TOOLS {
-    NUM=15
+    NUM=14
     TYPE=PLATED
     MIN_TOL=0
     MAX_TOL=0
@@ -152,7 +142,7 @@ TOOLS {
 }
 
 TOOLS {
-    NUM=16
+    NUM=15
     TYPE=PLATED
     MIN_TOL=0
     MAX_TOL=0
@@ -162,7 +152,7 @@ TOOLS {
 }
 
 TOOLS {
-    NUM=17
+    NUM=16
     TYPE=PLATED
     MIN_TOL=0
     MAX_TOL=0
@@ -172,7 +162,7 @@ TOOLS {
 }
 
 TOOLS {
-    NUM=18
+    NUM=17
     TYPE=PLATED
     MIN_TOL=0
     MAX_TOL=0
@@ -182,7 +172,7 @@ TOOLS {
 }
 
 TOOLS {
-    NUM=19
+    NUM=18
     TYPE=PLATED
     MIN_TOL=0
     MAX_TOL=0
@@ -192,7 +182,7 @@ TOOLS {
 }
 
 TOOLS {
-    NUM=20
+    NUM=19
     TYPE=PLATED
     MIN_TOL=0
     MAX_TOL=0
@@ -202,7 +192,7 @@ TOOLS {
 }
 
 TOOLS {
-    NUM=21
+    NUM=20
     TYPE=NON_PLATED
     MIN_TOL=0
     MAX_TOL=0
@@ -212,7 +202,7 @@ TOOLS {
 }
 
 TOOLS {
-    NUM=22
+    NUM=21
     TYPE=NON_PLATED
     MIN_TOL=0
     MAX_TOL=0
@@ -222,7 +212,7 @@ TOOLS {
 }
 
 TOOLS {
-    NUM=23
+    NUM=22
     TYPE=NON_PLATED
     MIN_TOL=0
     MAX_TOL=0
@@ -232,7 +222,7 @@ TOOLS {
 }
 
 TOOLS {
-    NUM=24
+    NUM=23
     TYPE=NON_PLATED
     MIN_TOL=0
     MAX_TOL=0
@@ -242,7 +232,7 @@ TOOLS {
 }
 
 TOOLS {
-    NUM=25
+    NUM=24
     TYPE=NON_PLATED
     MIN_TOL=0
     MAX_TOL=0

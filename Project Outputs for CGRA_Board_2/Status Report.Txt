@@ -1,10 +1,43 @@
-Output: Generates pick and place files
-Type  : Pick Place
+Output: ODB++ Files
+Type  : ODB
 From  : Variant [[No Variations]] of Project [CGRA_Board_2.PrjPcb]
-   Generated File[Pick Place for CGRA_Board_3.txt]
+   Generated File[matrix]
+   Generated File[profile]
+   Generated File[stephdr]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[tools]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[components]
+   Generated File[features]
+   Generated File[components]
+   Generated File[data]
+   Generated File[netlist]
+   Generated File[CGRA_Board_3.REP]
 
 
-Files Generated   : 1
+Files Generated   : 34
 Documents Printed : 0
 
-Finished Output Generation At 11:43:34 AM On 8/25/2021
+Finished Output Generation At 3:39:10 PM On 8/31/2021
